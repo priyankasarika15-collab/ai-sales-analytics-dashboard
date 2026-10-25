@@ -1,0 +1,1001 @@
+order_id,order_date,customer_id,customer_segment,region,city,sales_rep,product,category,quantity,unit_price,discount_pct,discount_amount,gross_sales,revenue,cost,profit,profit_margin_pct,sales_channel,payment_method,order_status
+ORD00469,2025-01-01,CUST0182,Small Business,North,Lucknow,Ananya Desai,Office Chair,Furniture,6,6546.7,0.1,3928.02,39280.2,35352.18,24867.97,10484.21,29.66,Marketplace,Cash,Cancelled
+ORD00710,2025-01-01,CUST0148,Small Business,South,Hyderabad,Meera Nair,Laptop,Electronics,5,82687.23,0.2,82687.23,413436.15,330748.92,266403.83,64345.09,19.45,Distributor,Net Banking,Completed
+ORD00019,2025-01-03,CUST0015,Corporate,West,Ahmedabad,Meera Nair,USB Drive,Accessories,8,727.87,0.0,0.0,5822.96,5822.96,2314.48,3508.48,60.25,Online,Debit Card,Completed
+ORD00689,2025-01-04,CUST0095,Small Business,West,Surat,Kabir Joshi,Headphones,Accessories,2,946.38,0.15,283.91,1892.76,1608.85,836.39,772.46,48.01,Marketplace,Net Banking,Completed
+ORD00623,2025-01-06,CUST0020,Consumer,West,Pune,Diya Patel,Desk,Furniture,1,7554.37,0.2,1510.87,7554.37,6043.5,3992.41,2051.09,33.94,Retail Store,Debit Card,Returned
+ORD00987,2025-01-06,CUST0210,Corporate,West,Mumbai,Diya Patel,Monitor,Electronics,3,15840.3,0.1,4752.09,47520.9,42768.81,34331.71,8437.1,19.73,Retail Store,Debit Card,Completed
+ORD00042,2025-01-07,CUST0205,Corporate,East,Guwahati,Diya Patel,Monitor,Electronics,7,28336.2,0.15,29753.01,198353.4,168600.39,134813.29,33787.1,20.04,Marketplace,Credit Card,Cancelled
+ORD00236,2025-01-07,CUST0218,Corporate,West,Mumbai,Meera Nair,Keyboard,Accessories,1,2124.64,0.05,106.23,2124.64,2018.41,808.1,1210.31,59.96,Distributor,UPI,Returned
+ORD00885,2025-01-08,CUST0072,Consumer,Central,Nagpur,Diya Patel,USB Drive,Accessories,8,869.06,0.0,0.0,6952.48,6952.48,3317.49,3634.99,52.28,Distributor,Cash,Cancelled
+ORD00768,2025-01-09,CUST0180,Corporate,East,Guwahati,Aarav Sharma,Monitor,Electronics,6,19505.4,0.1,11703.24,117032.4,105329.16,83853.61,21475.55,20.39,Distributor,Cash,Completed
+ORD00316,2025-01-10,CUST0098,Consumer,North,Jaipur,Ananya Desai,USB Drive,Accessories,4,660.52,0.0,0.0,2642.08,2642.08,1375.57,1266.51,47.94,Distributor,Net Banking,Completed
+ORD00372,2025-01-10,CUST0112,Small Business,West,Ahmedabad,Diya Patel,Keyboard,Accessories,6,2890.3,0.0,0.0,17341.8,17341.8,8721.78,8620.02,49.71,Retail Store,Cash,Cancelled
+ORD00922,2025-01-11,CUST0234,Small Business,South,Kochi,Rohan Singh,Desk,Furniture,1,15994.05,0.15,2399.11,15994.05,13594.94,9188.42,4406.52,32.41,Online,Net Banking,Completed
+ORD00309,2025-01-14,CUST0193,Consumer,Central,Bhopal,Rohan Singh,Laptop,Electronics,1,58377.42,0.2,11675.48,58377.42,46701.94,34048.37,12653.57,27.09,Distributor,Credit Card,Completed
+ORD00515,2025-01-14,CUST0027,Consumer,South,Hyderabad,Diya Patel,Desk,Furniture,7,20797.35,0.05,7279.07,145581.45,138302.38,108672.94,29629.44,21.42,Retail Store,Credit Card,Completed
+ORD00823,2025-01-14,CUST0153,Small Business,West,Surat,Ananya Desai,Desk,Furniture,5,6395.71,0.0,0.0,31978.55,31978.55,20809.42,11169.13,34.93,Online,Cash,Completed
+ORD00285,2025-01-15,CUST0080,Consumer,East,Bhubaneswar,Aarav Sharma,Laptop,Electronics,4,71100.17,0.0,0.0,284400.68,284400.68,236326.72,48073.96,16.9,Marketplace,Net Banking,Completed
+ORD00915,2025-01-15,CUST0160,Small Business,South,Hyderabad,Rohan Singh,Office Chair,Furniture,7,15580.18,0.15,16359.19,109061.26,92702.07,67791.0,24911.07,26.87,Retail Store,UPI,Completed
+ORD00772,2025-01-16,CUST0042,Consumer,South,Hyderabad,Rohan Singh,Smartphone,Electronics,8,33453.23,0.05,13381.29,267625.84,254244.55,197155.88,57088.67,22.45,Distributor,Debit Card,Completed
+ORD00491,2025-01-17,CUST0224,Corporate,West,Ahmedabad,Ananya Desai,Headphones,Accessories,1,4808.84,0.1,480.88,4808.84,4327.96,2449.37,1878.59,43.41,Retail Store,Debit Card,Completed
+ORD00574,2025-01-17,CUST0081,Corporate,North,Lucknow,Meera Nair,Headphones,Accessories,7,5281.21,0.0,0.0,36968.47,36968.47,17405.59,19562.88,52.92,Marketplace,Cash,Completed
+ORD00785,2025-01-17,CUST0213,Corporate,East,Guwahati,Ananya Desai,Smartphone,Electronics,8,42070.64,0.1,33656.51,336565.12,302908.61,245827.91,57080.7,18.84,Distributor,UPI,Completed
+ORD00053,2025-01-18,CUST0122,Corporate,North,Jaipur,Kabir Joshi,Keyboard,Accessories,4,1713.2,0.05,342.64,6852.8,6510.16,3684.69,2825.47,43.4,Distributor,Cash,Completed
+ORD00871,2025-01-18,CUST0056,Small Business,West,Mumbai,Aarav Sharma,USB Drive,Accessories,6,355.51,0.1,213.31,2133.06,1919.75,977.99,941.76,49.06,Online,Debit Card,Cancelled
+ORD00012,2025-01-20,CUST0188,Small Business,North,Jaipur,Aarav Sharma,Office Chair,Furniture,4,7732.61,0.15,4639.57,30930.44,26290.87,20255.82,6035.05,22.95,Retail Store,Credit Card,Completed
+ORD00385,2025-01-20,CUST0049,Corporate,Central,Nagpur,Meera Nair,Keyboard,Accessories,2,1462.08,0.2,584.83,2924.16,2339.33,1501.36,837.97,35.82,Marketplace,Net Banking,Returned
+ORD00676,2025-01-21,CUST0187,Consumer,West,Surat,Rohan Singh,Smartphone,Electronics,5,44630.91,0.15,33473.18,223154.55,189681.37,157545.49,32135.88,16.94,Marketplace,Cash,Cancelled
+ORD00621,2025-01-24,CUST0219,Small Business,Central,Nagpur,Ananya Desai,USB Drive,Accessories,7,302.93,0.2,424.1,2120.51,1696.41,879.21,817.2,48.17,Marketplace,Debit Card,Completed
+ORD00201,2025-01-26,CUST0090,Small Business,West,Mumbai,Rohan Singh,Office Chair,Furniture,2,10115.67,0.0,0.0,20231.34,20231.34,15166.16,5065.18,25.04,Marketplace,Credit Card,Completed
+ORD00435,2025-01-26,CUST0199,Small Business,West,Pune,Diya Patel,Keyboard,Accessories,8,1520.35,0.2,2432.56,12162.8,9730.24,6017.86,3712.38,38.15,Online,Net Banking,Completed
+ORD00089,2025-01-27,CUST0068,Consumer,South,Bengaluru,Diya Patel,Desk,Furniture,4,21009.71,0.15,12605.83,84038.84,71433.01,48451.5,22981.51,32.17,Marketplace,Net Banking,Completed
+ORD00412,2025-01-27,CUST0177,Small Business,Central,Nagpur,Diya Patel,Keyboard,Accessories,4,2289.08,0.2,1831.26,9156.32,7325.06,2977.79,4347.27,59.35,Marketplace,Debit Card,Completed
+ORD00197,2025-01-28,CUST0163,Small Business,West,Pune,Diya Patel,USB Drive,Accessories,2,1496.53,0.1,299.31,2993.06,2693.75,1396.02,1297.73,48.18,Distributor,Credit Card,Completed
+ORD00836,2025-01-28,CUST0033,Corporate,West,Mumbai,Kabir Joshi,Headphones,Accessories,5,4306.69,0.0,0.0,21533.45,21533.45,12814.14,8719.31,40.49,Distributor,UPI,Completed
+ORD00552,2025-01-29,CUST0081,Corporate,North,Chandigarh,Aarav Sharma,USB Drive,Accessories,3,1486.53,0.0,0.0,4459.59,4459.59,2007.55,2452.04,54.98,Online,Credit Card,Completed
+ORD00068,2025-01-30,CUST0216,Consumer,Central,Indore,Ananya Desai,Headphones,Accessories,1,2571.28,0.15,385.69,2571.28,2185.59,1206.44,979.15,44.8,Online,Credit Card,Completed
+ORD00611,2025-01-30,CUST0078,Corporate,West,Pune,Ananya Desai,Laptop,Electronics,2,53573.87,0.0,0.0,107147.74,107147.74,90226.6,16921.14,15.79,Marketplace,UPI,Completed
+ORD00897,2025-01-30,CUST0067,Corporate,East,Guwahati,Rohan Singh,Keyboard,Accessories,7,3169.43,0.0,0.0,22186.01,22186.01,11992.97,10193.04,45.94,Marketplace,Cash,Completed
+ORD00408,2025-01-31,CUST0134,Corporate,Central,Nagpur,Kabir Joshi,Keyboard,Accessories,7,955.12,0.2,1337.17,6685.84,5348.67,2323.01,3025.66,56.57,Retail Store,Cash,Returned
+ORD00848,2025-01-31,CUST0198,Corporate,South,Chennai,Diya Patel,Smartphone,Electronics,8,40606.22,0.2,64969.95,324849.76,259879.81,213481.38,46398.43,17.85,Online,Credit Card,Completed
+ORD00046,2025-02-01,CUST0145,Consumer,South,Chennai,Ananya Desai,Laptop,Electronics,4,68717.43,0.0,0.0,274869.72,274869.72,218733.01,56136.71,20.42,Distributor,Debit Card,Completed
+ORD00091,2025-02-01,CUST0019,Consumer,North,Lucknow,Rohan Singh,Monitor,Electronics,2,17656.84,0.1,3531.37,35313.68,31782.31,25234.65,6547.66,20.6,Retail Store,UPI,Returned
+ORD00867,2025-02-02,CUST0056,Consumer,Central,Nagpur,Rohan Singh,Laptop,Electronics,6,81132.32,0.05,24339.7,486793.92,462454.22,392919.14,69535.08,15.04,Marketplace,Cash,Cancelled
+ORD00519,2025-02-03,CUST0194,Consumer,Central,Bhopal,Aarav Sharma,USB Drive,Accessories,5,478.38,0.0,0.0,2391.9,2391.9,876.78,1515.12,63.34,Retail Store,Net Banking,Completed
+ORD00803,2025-02-04,CUST0208,Small Business,Central,Nagpur,Ananya Desai,Monitor,Electronics,6,14336.84,0.1,8602.1,86021.04,77418.94,53015.75,24403.19,31.52,Retail Store,Debit Card,Completed
+ORD00393,2025-02-05,CUST0055,Small Business,East,Kolkata,Aarav Sharma,Headphones,Accessories,5,6462.45,0.0,0.0,32312.25,32312.25,16966.63,15345.62,47.49,Distributor,Net Banking,Completed
+ORD00808,2025-02-07,CUST0186,Small Business,Central,Bhopal,Rohan Singh,Desk,Furniture,2,18250.74,0.1,3650.15,36501.48,32851.33,20930.29,11921.04,36.29,Distributor,Debit Card,Returned
+ORD00932,2025-02-07,CUST0054,Small Business,Central,Raipur,Meera Nair,Headphones,Accessories,4,3866.31,0.2,3093.05,15465.24,12372.19,6909.41,5462.78,44.15,Distributor,UPI,Completed
+ORD00950,2025-02-07,CUST0111,Small Business,Central,Raipur,Rohan Singh,Keyboard,Accessories,2,1025.7,0.0,0.0,2051.4,2051.4,1193.29,858.11,41.83,Marketplace,Net Banking,Returned
+ORD00480,2025-02-08,CUST0090,Small Business,Central,Indore,Aarav Sharma,USB Drive,Accessories,2,1218.07,0.2,487.23,2436.14,1948.91,1084.8,864.11,44.34,Retail Store,Credit Card,Completed
+ORD00029,2025-02-09,CUST0058,Consumer,West,Pune,Meera Nair,Keyboard,Accessories,8,2949.76,0.05,1179.9,23598.08,22418.18,10677.73,11740.45,52.37,Retail Store,Cash,Completed
+ORD00679,2025-02-09,CUST0131,Corporate,North,Lucknow,Ananya Desai,Headphones,Accessories,7,1907.1,0.05,667.49,13349.7,12682.21,8152.35,4529.86,35.72,Distributor,UPI,Completed
+ORD00383,2025-02-10,CUST0090,Small Business,West,Surat,Meera Nair,Office Chair,Furniture,8,11826.91,0.0,0.0,94615.28,94615.28,66420.52,28194.76,29.8,Marketplace,Debit Card,Cancelled
+ORD00709,2025-02-10,CUST0130,Small Business,South,Chennai,Rohan Singh,Headphones,Accessories,5,1300.58,0.0,0.0,6502.9,6502.9,3063.86,3439.04,52.88,Retail Store,Cash,Completed
+ORD00064,2025-02-11,CUST0024,Small Business,South,Kochi,Rohan Singh,USB Drive,Accessories,3,1674.11,0.15,753.35,5022.33,4268.98,1959.34,2309.64,54.1,Marketplace,Debit Card,Returned
+ORD00504,2025-02-11,CUST0015,Corporate,South,Bengaluru,Meera Nair,Office Chair,Furniture,4,4834.74,0.1,1933.9,19338.96,17405.06,11562.72,5842.34,33.57,Retail Store,Net Banking,Completed
+ORD00978,2025-02-11,CUST0232,Consumer,Central,Nagpur,Kabir Joshi,Office Chair,Furniture,4,5733.35,0.2,4586.68,22933.4,18346.72,13751.32,4595.4,25.05,Distributor,UPI,Completed
+ORD00027,2025-02-12,CUST0091,Corporate,East,Guwahati,Ananya Desai,Laptop,Electronics,4,80653.76,0.2,64523.01,322615.04,258092.03,196130.52,61961.51,24.01,Retail Store,Credit Card,Completed
+ORD00138,2025-02-12,CUST0107,Corporate,North,Delhi,Meera Nair,Laptop,Electronics,5,82787.51,0.2,82787.51,413937.55,331150.04,249597.5,81552.54,24.63,Online,Cash,Cancelled
+ORD00323,2025-02-12,CUST0037,Consumer,North,Lucknow,Diya Patel,Smartphone,Electronics,6,25101.72,0.0,0.0,150610.32,150610.32,122280.24,28330.08,18.81,Retail Store,Net Banking,Cancelled
+ORD00244,2025-02-13,CUST0098,Corporate,West,Mumbai,Ananya Desai,Headphones,Accessories,7,6067.55,0.2,8494.57,42472.85,33978.28,18645.57,15332.71,45.13,Retail Store,Debit Card,Completed
+ORD00265,2025-02-13,CUST0023,Small Business,West,Mumbai,Kabir Joshi,Monitor,Electronics,3,12047.98,0.15,5421.59,36143.94,30722.35,22158.86,8563.49,27.87,Marketplace,Net Banking,Completed
+ORD00902,2025-02-13,CUST0209,Small Business,South,Hyderabad,Meera Nair,Office Chair,Furniture,4,4827.3,0.0,0.0,19309.2,19309.2,12532.49,6776.71,35.1,Marketplace,Credit Card,Completed
+ORD00402,2025-02-15,CUST0159,Consumer,South,Chennai,Rohan Singh,Desk,Furniture,2,8963.83,0.0,0.0,17927.66,17927.66,13501.76,4425.9,24.69,Online,Debit Card,Completed
+ORD00056,2025-02-16,CUST0073,Small Business,North,Jaipur,Ananya Desai,Headphones,Accessories,8,4435.86,0.0,0.0,35486.88,35486.88,23711.62,11775.26,33.18,Marketplace,Debit Card,Cancelled
+ORD00475,2025-02-16,CUST0117,Corporate,South,Chennai,Diya Patel,Laptop,Electronics,1,49406.71,0.05,2470.34,49406.71,46936.37,39957.79,6978.58,14.87,Online,UPI,Completed
+ORD00186,2025-02-17,CUST0037,Corporate,North,Jaipur,Ananya Desai,Laptop,Electronics,6,49712.24,0.0,0.0,298273.44,298273.44,260641.79,37631.65,12.62,Online,Debit Card,Cancelled
+ORD00437,2025-02-17,CUST0052,Consumer,North,Jaipur,Rohan Singh,Laptop,Electronics,5,66835.07,0.2,66835.07,334175.35,267340.28,230645.61,36694.67,13.73,Distributor,Net Banking,Completed
+ORD00538,2025-02-18,CUST0152,Small Business,East,Patna,Rohan Singh,Keyboard,Accessories,2,2373.72,0.2,949.49,4747.44,3797.95,2320.72,1477.23,38.9,Online,Net Banking,Completed
+ORD00181,2025-02-19,CUST0056,Corporate,North,Lucknow,Ananya Desai,Headphones,Accessories,4,5602.5,0.0,0.0,22410.0,22410.0,14046.42,8363.58,37.32,Distributor,UPI,Completed
+ORD00948,2025-02-19,CUST0176,Small Business,West,Ahmedabad,Rohan Singh,Laptop,Electronics,8,47226.71,0.1,37781.37,377813.68,340032.31,264795.63,75236.68,22.13,Marketplace,Debit Card,Cancelled
+ORD00272,2025-02-21,CUST0175,Consumer,East,Bhubaneswar,Diya Patel,Office Chair,Furniture,8,9472.75,0.15,11367.3,75782.0,64414.7,43251.23,21163.47,32.86,Distributor,Cash,Completed
+ORD00610,2025-02-23,CUST0119,Corporate,South,Chennai,Ananya Desai,Keyboard,Accessories,7,1978.94,0.0,0.0,13852.58,13852.58,6473.61,7378.97,53.27,Online,Cash,Completed
+ORD00118,2025-02-24,CUST0239,Consumer,West,Ahmedabad,Meera Nair,Keyboard,Accessories,2,1658.5,0.05,165.85,3317.0,3151.15,1437.35,1713.8,54.39,Distributor,Credit Card,Completed
+ORD00455,2025-02-24,CUST0091,Small Business,East,Kolkata,Rohan Singh,USB Drive,Accessories,8,981.05,0.15,1177.26,7848.4,6671.14,3558.74,3112.4,46.65,Retail Store,UPI,Returned
+ORD00260,2025-02-25,CUST0044,Corporate,East,Kolkata,Rohan Singh,Monitor,Electronics,8,9190.71,0.0,0.0,73525.68,73525.68,51138.43,22387.25,30.45,Online,Cash,Completed
+ORD00397,2025-02-25,CUST0040,Consumer,East,Kolkata,Meera Nair,Desk,Furniture,3,16258.66,0.05,2438.8,48775.98,46337.18,32919.43,13417.75,28.96,Marketplace,Cash,Completed
+ORD00417,2025-02-25,CUST0047,Corporate,Central,Indore,Meera Nair,USB Drive,Accessories,8,1544.84,0.0,0.0,12358.72,12358.72,6558.3,5800.42,46.93,Retail Store,Cash,Completed
+ORD00938,2025-02-25,CUST0169,Consumer,North,Jaipur,Diya Patel,Headphones,Accessories,8,5368.49,0.1,4294.79,42947.92,38653.13,18991.66,19661.47,50.87,Retail Store,Debit Card,Completed
+ORD00568,2025-02-26,CUST0023,Consumer,North,Lucknow,Diya Patel,Smartphone,Electronics,3,29150.92,0.0,0.0,87452.76,87452.76,78249.0,9203.76,10.52,Retail Store,Cash,Returned
+ORD00020,2025-02-28,CUST0173,Consumer,North,Lucknow,Ananya Desai,Headphones,Accessories,2,1124.21,0.0,0.0,2248.42,2248.42,1050.31,1198.11,53.29,Online,Net Banking,Completed
+ORD00868,2025-02-28,CUST0197,Corporate,North,Lucknow,Rohan Singh,Office Chair,Furniture,8,16089.94,0.1,12871.95,128719.52,115847.57,81448.77,34398.8,29.69,Retail Store,Cash,Cancelled
+ORD00248,2025-03-01,CUST0137,Corporate,West,Ahmedabad,Aarav Sharma,Keyboard,Accessories,2,3421.94,0.0,0.0,6843.88,6843.88,3861.43,2982.45,43.58,Retail Store,Net Banking,Completed
+ORD00592,2025-03-01,CUST0003,Small Business,Central,Nagpur,Kabir Joshi,Monitor,Electronics,5,17050.07,0.2,17050.07,85250.35,68200.28,54480.54,13719.74,20.12,Retail Store,Cash,Completed
+ORD00213,2025-03-02,CUST0075,Corporate,Central,Nagpur,Rohan Singh,Office Chair,Furniture,3,12557.58,0.05,1883.64,37672.74,35789.1,27780.22,8008.88,22.38,Online,Credit Card,Completed
+ORD00062,2025-03-03,CUST0070,Corporate,South,Hyderabad,Kabir Joshi,Office Chair,Furniture,8,10428.57,0.2,16685.71,83428.56,66742.85,43698.97,23043.88,34.53,Marketplace,Cash,Returned
+ORD00630,2025-03-03,CUST0199,Consumer,South,Hyderabad,Diya Patel,Monitor,Electronics,6,19828.14,0.05,5948.44,118968.84,113020.4,87408.46,25611.94,22.66,Marketplace,Debit Card,Cancelled
+ORD00759,2025-03-03,CUST0063,Consumer,East,Guwahati,Diya Patel,Headphones,Accessories,3,2479.77,0.15,1115.9,7439.31,6323.41,4381.84,1941.57,30.7,Online,Credit Card,Returned
+ORD00687,2025-03-04,CUST0239,Small Business,East,Kolkata,Ananya Desai,Laptop,Electronics,1,46164.2,0.1,4616.42,46164.2,41547.78,33922.83,7624.95,18.35,Distributor,Net Banking,Completed
+ORD00310,2025-03-05,CUST0222,Consumer,East,Bhubaneswar,Meera Nair,Laptop,Electronics,8,57423.34,0.0,0.0,459386.72,459386.72,376043.59,83343.13,18.14,Marketplace,Credit Card,Cancelled
+ORD00975,2025-03-08,CUST0167,Consumer,East,Bhubaneswar,Rohan Singh,Office Chair,Furniture,3,7286.8,0.05,1093.02,21860.4,20767.38,14735.61,6031.77,29.04,Marketplace,Cash,Completed
+ORD00494,2025-03-10,CUST0189,Corporate,Central,Indore,Meera Nair,Headphones,Accessories,4,6393.13,0.15,3835.88,25572.52,21736.64,10398.58,11338.06,52.16,Retail Store,Credit Card,Returned
+ORD00840,2025-03-10,CUST0214,Corporate,North,Chandigarh,Ananya Desai,Smartphone,Electronics,4,34352.37,0.0,0.0,137409.48,137409.48,105192.6,32216.88,23.45,Marketplace,UPI,Completed
+ORD00629,2025-03-11,CUST0114,Consumer,Central,Indore,Diya Patel,Headphones,Accessories,5,4432.97,0.05,1108.24,22164.85,21056.61,11691.72,9364.89,44.47,Retail Store,UPI,Cancelled
+ORD00470,2025-03-13,CUST0086,Corporate,Central,Indore,Rohan Singh,Laptop,Electronics,8,58530.23,0.0,0.0,468241.84,468241.84,379631.3,88610.54,18.92,Marketplace,UPI,Completed
+ORD00684,2025-03-13,CUST0051,Small Business,West,Surat,Diya Patel,Office Chair,Furniture,3,14396.07,0.0,0.0,43188.21,43188.21,28825.42,14362.79,33.26,Online,Cash,Completed
+ORD00857,2025-03-14,CUST0128,Corporate,West,Mumbai,Diya Patel,USB Drive,Accessories,5,1719.9,0.2,1719.9,8599.5,6879.6,2479.65,4399.95,63.96,Distributor,Cash,Completed
+ORD00645,2025-03-15,CUST0049,Corporate,East,Kolkata,Kabir Joshi,Keyboard,Accessories,6,1501.27,0.05,450.38,9007.62,8557.24,4070.5,4486.74,52.43,Retail Store,Net Banking,Completed
+ORD00166,2025-03-16,CUST0009,Small Business,North,Lucknow,Ananya Desai,Desk,Furniture,1,19307.31,0.0,0.0,19307.31,19307.31,15397.67,3909.64,20.25,Retail Store,Credit Card,Returned
+ORD00190,2025-03-17,CUST0028,Consumer,North,Jaipur,Aarav Sharma,Headphones,Accessories,3,2966.0,0.2,1779.6,8898.0,7118.4,3896.65,3221.75,45.26,Distributor,Cash,Completed
+ORD00797,2025-03-17,CUST0207,Consumer,West,Mumbai,Diya Patel,Keyboard,Accessories,7,2562.01,0.05,896.7,17934.07,17037.37,9513.46,7523.91,44.16,Distributor,UPI,Returned
+ORD00884,2025-03-17,CUST0188,Consumer,East,Patna,Meera Nair,Monitor,Electronics,7,22770.8,0.05,7969.78,159395.6,151425.82,121326.25,30099.57,19.88,Online,Credit Card,Completed
+ORD00991,2025-03-17,CUST0113,Consumer,East,Patna,Rohan Singh,Headphones,Accessories,5,5781.52,0.15,4336.14,28907.6,24571.46,12285.7,12285.76,50.0,Distributor,Net Banking,Completed
+ORD00048,2025-03-19,CUST0204,Corporate,Central,Indore,Aarav Sharma,Smartphone,Electronics,5,41979.3,0.2,41979.3,209896.5,167917.2,141060.82,26856.38,15.99,Distributor,Net Banking,Completed
+ORD00497,2025-03-20,CUST0134,Corporate,North,Chandigarh,Aarav Sharma,Office Chair,Furniture,3,6012.33,0.1,1803.7,18036.99,16233.29,10179.73,6053.56,37.29,Distributor,Cash,Completed
+ORD00573,2025-03-20,CUST0091,Small Business,North,Delhi,Kabir Joshi,Monitor,Electronics,8,17325.49,0.2,27720.78,138603.92,110883.14,88179.77,22703.37,20.48,Online,Net Banking,Completed
+ORD00658,2025-03-20,CUST0007,Consumer,North,Jaipur,Meera Nair,Monitor,Electronics,5,18273.4,0.0,0.0,91367.0,91367.0,69527.58,21839.42,23.9,Marketplace,Cash,Returned
+ORD00720,2025-03-20,CUST0207,Consumer,South,Bengaluru,Ananya Desai,Headphones,Accessories,2,4079.31,0.2,1631.72,8158.62,6526.9,3403.54,3123.36,47.85,Retail Store,Cash,Returned
+ORD00040,2025-03-21,CUST0178,Consumer,East,Bhubaneswar,Meera Nair,Office Chair,Furniture,2,9033.94,0.0,0.0,18067.88,18067.88,11331.26,6736.62,37.29,Retail Store,UPI,Returned
+ORD00875,2025-03-21,CUST0037,Consumer,South,Chennai,Rohan Singh,Desk,Furniture,7,16836.95,0.0,0.0,117858.65,117858.65,86689.71,31168.94,26.45,Distributor,Debit Card,Completed
+ORD00674,2025-03-22,CUST0064,Small Business,West,Surat,Rohan Singh,Office Chair,Furniture,4,6716.14,0.0,0.0,26864.56,26864.56,18169.12,8695.44,32.37,Marketplace,Credit Card,Cancelled
+ORD00686,2025-03-23,CUST0123,Small Business,East,Kolkata,Meera Nair,Monitor,Electronics,2,10117.04,0.05,1011.7,20234.08,19222.38,13162.46,6059.92,31.53,Online,UPI,Completed
+ORD00880,2025-03-23,CUST0146,Consumer,East,Kolkata,Kabir Joshi,Desk,Furniture,4,18413.27,0.1,7365.31,73653.08,66287.77,50480.44,15807.33,23.85,Retail Store,Cash,Completed
+ORD00063,2025-03-24,CUST0151,Consumer,Central,Bhopal,Meera Nair,Monitor,Electronics,5,25363.35,0.0,0.0,126816.75,126816.75,88088.47,38728.28,30.54,Distributor,Net Banking,Cancelled
+ORD00377,2025-03-24,CUST0230,Small Business,South,Bengaluru,Ananya Desai,Office Chair,Furniture,2,14971.31,0.15,4491.39,29942.62,25451.23,17424.58,8026.65,31.54,Online,UPI,Completed
+ORD00682,2025-03-24,CUST0137,Corporate,Central,Indore,Ananya Desai,Monitor,Electronics,7,11145.59,0.05,3900.96,78019.13,74118.17,58604.78,15513.39,20.93,Distributor,Cash,Cancelled
+ORD00060,2025-03-25,CUST0121,Small Business,South,Chennai,Aarav Sharma,Headphones,Accessories,3,3946.36,0.0,0.0,11839.08,11839.08,6536.7,5302.38,44.79,Retail Store,Debit Card,Cancelled
+ORD00111,2025-03-25,CUST0080,Corporate,Central,Indore,Ananya Desai,Desk,Furniture,7,11894.4,0.0,0.0,83260.8,83260.8,60539.55,22721.25,27.29,Distributor,Credit Card,Completed
+ORD00328,2025-03-25,CUST0218,Corporate,East,Bhubaneswar,Meera Nair,Keyboard,Accessories,2,1289.7,0.2,515.88,2579.4,2063.52,864.31,1199.21,58.11,Online,Net Banking,Completed
+ORD00185,2025-03-26,CUST0055,Corporate,West,Surat,Kabir Joshi,Desk,Furniture,2,16751.28,0.15,5025.38,33502.56,28477.18,22367.33,6109.85,21.46,Marketplace,Debit Card,Completed
+ORD00925,2025-03-26,CUST0072,Consumer,West,Mumbai,Meera Nair,Laptop,Electronics,1,61065.25,0.05,3053.26,61065.25,58011.99,42673.39,15338.6,26.44,Online,Debit Card,Cancelled
+ORD00368,2025-03-27,CUST0114,Corporate,North,Jaipur,Diya Patel,Headphones,Accessories,7,1280.57,0.05,448.2,8963.99,8515.79,4320.39,4195.4,49.27,Retail Store,Net Banking,Completed
+ORD00758,2025-03-27,CUST0093,Corporate,Central,Raipur,Ananya Desai,Keyboard,Accessories,4,2609.28,0.05,521.86,10437.12,9915.26,3973.21,5942.05,59.93,Retail Store,UPI,Completed
+ORD00927,2025-03-27,CUST0163,Corporate,South,Kochi,Aarav Sharma,Laptop,Electronics,4,53847.59,0.2,43078.07,215390.36,172312.29,138000.52,34311.77,19.91,Distributor,Debit Card,Completed
+ORD00109,2025-03-28,CUST0041,Small Business,Central,Indore,Rohan Singh,Laptop,Electronics,8,52652.98,0.1,42122.38,421223.84,379101.46,304741.08,74360.38,19.61,Distributor,Cash,Cancelled
+ORD00459,2025-03-28,CUST0186,Corporate,South,Chennai,Diya Patel,USB Drive,Accessories,7,1429.14,0.1,1000.4,10003.98,9003.58,3686.85,5316.73,59.05,Retail Store,Net Banking,Returned
+ORD00777,2025-03-29,CUST0088,Corporate,South,Bengaluru,Ananya Desai,Monitor,Electronics,4,26205.42,0.1,10482.17,104821.68,94339.51,69112.68,25226.83,26.74,Retail Store,Cash,Completed
+ORD00465,2025-03-30,CUST0076,Small Business,Central,Indore,Meera Nair,Monitor,Electronics,3,23409.87,0.0,0.0,70229.61,70229.61,55573.01,14656.6,20.87,Online,Cash,Completed
+ORD00212,2025-03-31,CUST0043,Corporate,West,Mumbai,Diya Patel,Keyboard,Accessories,6,1129.63,0.2,1355.56,6777.78,5422.22,2996.13,2426.09,44.74,Retail Store,Credit Card,Returned
+ORD00577,2025-03-31,CUST0054,Small Business,South,Chennai,Meera Nair,Laptop,Electronics,1,50204.49,0.2,10040.9,50204.49,40163.59,35154.52,5009.07,12.47,Retail Store,Credit Card,Completed
+ORD00996,2025-03-31,CUST0167,Small Business,Central,Raipur,Aarav Sharma,Keyboard,Accessories,7,2755.72,0.05,964.5,19290.04,18325.54,9463.84,8861.7,48.36,Retail Store,Net Banking,Completed
+ORD00605,2025-04-01,CUST0159,Corporate,South,Bengaluru,Kabir Joshi,Office Chair,Furniture,2,12074.1,0.2,4829.64,24148.2,19318.56,13536.2,5782.36,29.93,Online,Net Banking,Completed
+ORD00270,2025-04-02,CUST0223,Small Business,South,Kochi,Aarav Sharma,Keyboard,Accessories,7,3240.3,0.2,4536.42,22682.1,18145.68,9455.99,8689.69,47.89,Retail Store,UPI,Cancelled
+ORD00683,2025-04-02,CUST0002,Consumer,North,Jaipur,Ananya Desai,Headphones,Accessories,4,2333.42,0.2,1866.74,9333.68,7466.94,4103.03,3363.91,45.05,Online,UPI,Completed
+ORD00773,2025-04-02,CUST0167,Consumer,North,Chandigarh,Aarav Sharma,USB Drive,Accessories,8,686.92,0.05,274.77,5495.36,5220.59,2823.23,2397.36,45.92,Marketplace,UPI,Returned
+ORD00075,2025-04-03,CUST0076,Small Business,West,Mumbai,Rohan Singh,Smartphone,Electronics,5,31078.18,0.0,0.0,155390.9,155390.9,117615.16,37775.74,24.31,Marketplace,Credit Card,Completed
+ORD00471,2025-04-03,CUST0011,Small Business,East,Guwahati,Meera Nair,Smartphone,Electronics,5,48170.81,0.2,48170.81,240854.05,192683.24,150383.12,42300.12,21.95,Retail Store,Debit Card,Cancelled
+ORD00900,2025-04-03,CUST0215,Corporate,East,Guwahati,Ananya Desai,Smartphone,Electronics,4,40162.06,0.05,8032.41,160648.24,152615.83,126720.11,25895.72,16.97,Retail Store,Debit Card,Completed
+ORD00419,2025-04-04,CUST0157,Consumer,North,Lucknow,Ananya Desai,Desk,Furniture,7,7620.82,0.2,10669.15,53345.74,42676.59,32536.29,10140.3,23.76,Marketplace,UPI,Cancelled
+ORD00002,2025-04-06,CUST0208,Consumer,South,Chennai,Diya Patel,Laptop,Electronics,7,66133.54,0.0,0.0,462934.78,462934.78,366585.76,96349.02,20.81,Marketplace,Debit Card,Completed
+ORD00651,2025-04-06,CUST0234,Small Business,South,Bengaluru,Rohan Singh,Headphones,Accessories,8,982.74,0.0,0.0,7861.92,7861.92,3904.8,3957.12,50.33,Retail Store,Credit Card,Completed
+ORD00770,2025-04-06,CUST0167,Corporate,South,Chennai,Rohan Singh,Headphones,Accessories,3,5182.31,0.15,2332.04,15546.93,13214.89,7652.42,5562.47,42.09,Marketplace,Credit Card,Cancelled
+ORD00514,2025-04-07,CUST0025,Corporate,Central,Indore,Kabir Joshi,Desk,Furniture,5,22576.42,0.05,5644.1,112882.1,107237.99,79718.56,27519.43,25.66,Distributor,Credit Card,Completed
+ORD00220,2025-04-08,CUST0003,Corporate,North,Chandigarh,Rohan Singh,USB Drive,Accessories,4,416.91,0.15,250.15,1667.64,1417.49,737.09,680.4,48.0,Online,Cash,Completed
+ORD00294,2025-04-08,CUST0160,Small Business,North,Delhi,Meera Nair,Headphones,Accessories,3,4581.12,0.05,687.17,13743.36,13056.19,7042.27,6013.92,46.06,Online,Debit Card,Returned
+ORD00570,2025-04-09,CUST0109,Consumer,East,Bhubaneswar,Ananya Desai,USB Drive,Accessories,7,968.16,0.1,677.71,6777.12,6099.41,2544.18,3555.23,58.29,Distributor,Net Banking,Cancelled
+ORD00280,2025-04-10,CUST0057,Small Business,West,Pune,Diya Patel,Office Chair,Furniture,3,14290.02,0.2,8574.01,42870.06,34296.05,26131.07,8164.98,23.81,Distributor,Cash,Completed
+ORD00838,2025-04-10,CUST0190,Corporate,East,Patna,Aarav Sharma,Desk,Furniture,2,22421.97,0.2,8968.79,44843.94,35875.15,26017.78,9857.37,27.48,Retail Store,Net Banking,Cancelled
+ORD00018,2025-04-11,CUST0055,Small Business,North,Delhi,Aarav Sharma,Smartphone,Electronics,4,51833.78,0.0,0.0,207335.12,207335.12,168140.93,39194.19,18.9,Retail Store,Cash,Returned
+ORD00325,2025-04-11,CUST0231,Consumer,South,Kochi,Rohan Singh,Desk,Furniture,4,12785.63,0.0,0.0,51142.52,51142.52,34333.24,16809.28,32.87,Marketplace,Cash,Completed
+ORD00490,2025-04-11,CUST0034,Small Business,West,Surat,Rohan Singh,Keyboard,Accessories,1,749.27,0.2,149.85,749.27,599.42,349.43,249.99,41.71,Retail Store,UPI,Completed
+ORD00218,2025-04-12,CUST0052,Corporate,West,Mumbai,Diya Patel,Smartphone,Electronics,3,51965.61,0.1,15589.68,155896.83,140307.15,114838.28,25468.87,18.15,Distributor,Credit Card,Returned
+ORD00223,2025-04-13,CUST0071,Corporate,South,Bengaluru,Aarav Sharma,Monitor,Electronics,7,15788.39,0.05,5525.94,110518.73,104992.79,84684.27,20308.52,19.34,Retail Store,Net Banking,Completed
+ORD00661,2025-04-13,CUST0174,Small Business,South,Hyderabad,Diya Patel,Smartphone,Electronics,7,34990.11,0.0,0.0,244930.77,244930.77,186548.53,58382.24,23.84,Marketplace,Debit Card,Completed
+ORD00843,2025-04-13,CUST0119,Small Business,Central,Raipur,Ananya Desai,Desk,Furniture,7,18686.29,0.1,13080.4,130804.03,117723.63,87772.09,29951.54,25.44,Retail Store,UPI,Completed
+ORD00170,2025-04-14,CUST0113,Consumer,Central,Bhopal,Kabir Joshi,USB Drive,Accessories,1,1196.68,0.0,0.0,1196.68,1196.68,640.39,556.29,46.49,Retail Store,UPI,Returned
+ORD00736,2025-04-14,CUST0172,Consumer,West,Pune,Meera Nair,Office Chair,Furniture,6,17302.43,0.05,5190.73,103814.58,98623.85,64577.34,34046.51,34.52,Retail Store,Debit Card,Completed
+ORD00945,2025-04-14,CUST0168,Corporate,West,Mumbai,Ananya Desai,Headphones,Accessories,7,2618.45,0.2,3665.83,18329.15,14663.32,8265.32,6398.0,43.63,Marketplace,UPI,Returned
+ORD00205,2025-04-15,CUST0136,Corporate,Central,Indore,Rohan Singh,Desk,Furniture,8,12193.71,0.0,0.0,97549.68,97549.68,65087.45,32462.23,33.28,Marketplace,Net Banking,Returned
+ORD00627,2025-04-15,CUST0060,Corporate,North,Delhi,Meera Nair,Office Chair,Furniture,7,15974.05,0.0,0.0,111818.35,111818.35,79515.63,32302.72,28.89,Online,Cash,Returned
+ORD00703,2025-04-15,CUST0046,Consumer,South,Kochi,Aarav Sharma,Monitor,Electronics,3,23986.13,0.0,0.0,71958.39,71958.39,50037.54,21920.85,30.46,Distributor,Net Banking,Returned
+ORD00444,2025-04-16,CUST0152,Small Business,West,Mumbai,Diya Patel,Desk,Furniture,2,16566.85,0.05,1656.68,33133.7,31477.01,22534.21,8942.8,28.41,Retail Store,Net Banking,Returned
+ORD00810,2025-04-16,CUST0058,Consumer,North,Chandigarh,Aarav Sharma,Laptop,Electronics,3,77494.63,0.0,0.0,232483.89,232483.89,204345.54,28138.35,12.1,Retail Store,Debit Card,Returned
+ORD00306,2025-04-17,CUST0076,Small Business,West,Ahmedabad,Diya Patel,Monitor,Electronics,4,17466.62,0.05,3493.32,69866.48,66373.16,49359.01,17014.15,25.63,Retail Store,Cash,Completed
+ORD00766,2025-04-17,CUST0055,Corporate,North,Jaipur,Aarav Sharma,Desk,Furniture,5,6532.93,0.0,0.0,32664.65,32664.65,23436.31,9228.34,28.25,Distributor,Credit Card,Completed
+ORD00183,2025-04-20,CUST0021,Small Business,North,Chandigarh,Ananya Desai,Keyboard,Accessories,5,1075.8,0.05,268.95,5379.0,5110.05,2385.53,2724.52,53.32,Marketplace,Net Banking,Returned
+ORD00382,2025-04-20,CUST0177,Small Business,South,Kochi,Rohan Singh,Keyboard,Accessories,6,1450.22,0.1,870.13,8701.32,7831.19,4567.91,3263.28,41.67,Retail Store,Debit Card,Completed
+ORD00387,2025-04-20,CUST0180,Corporate,West,Pune,Rohan Singh,Smartphone,Electronics,7,13368.14,0.2,18715.4,93576.98,74861.58,61647.5,13214.08,17.65,Online,Debit Card,Cancelled
+ORD00989,2025-04-20,CUST0200,Corporate,North,Chandigarh,Ananya Desai,Headphones,Accessories,8,2655.25,0.2,4248.4,21242.0,16993.6,10166.17,6827.43,40.18,Marketplace,Credit Card,Completed
+ORD00256,2025-04-21,CUST0226,Small Business,North,Delhi,Rohan Singh,Monitor,Electronics,7,17955.5,0.0,0.0,125688.5,125688.5,103256.66,22431.84,17.85,Marketplace,UPI,Returned
+ORD00277,2025-04-21,CUST0049,Consumer,West,Mumbai,Kabir Joshi,Desk,Furniture,6,24778.86,0.05,7433.66,148673.16,141239.5,94207.66,47031.84,33.3,Retail Store,UPI,Completed
+ORD00203,2025-04-22,CUST0060,Small Business,South,Chennai,Meera Nair,Headphones,Accessories,6,3945.89,0.15,3551.3,23675.34,20124.04,11200.89,8923.15,44.34,Retail Store,Credit Card,Returned
+ORD00532,2025-04-23,CUST0127,Corporate,Central,Raipur,Ananya Desai,USB Drive,Accessories,3,1013.87,0.15,456.24,3041.61,2585.37,940.9,1644.47,63.61,Distributor,Debit Card,Completed
+ORD00730,2025-04-23,CUST0110,Corporate,North,Delhi,Meera Nair,Headphones,Accessories,1,1686.59,0.2,337.32,1686.59,1349.27,686.95,662.32,49.09,Online,Cash,Completed
+ORD00817,2025-04-23,CUST0091,Small Business,South,Bengaluru,Aarav Sharma,USB Drive,Accessories,1,580.54,0.1,58.05,580.54,522.49,269.33,253.16,48.45,Online,Debit Card,Returned
+ORD00121,2025-04-24,CUST0062,Corporate,West,Mumbai,Ananya Desai,Keyboard,Accessories,5,2655.63,0.1,1327.82,13278.15,11950.34,4784.81,7165.53,59.96,Retail Store,UPI,Completed
+ORD00403,2025-04-24,CUST0140,Corporate,East,Patna,Rohan Singh,USB Drive,Accessories,4,334.12,0.2,267.3,1336.48,1069.18,518.02,551.16,51.55,Marketplace,Net Banking,Completed
+ORD00820,2025-04-24,CUST0071,Consumer,South,Bengaluru,Kabir Joshi,Laptop,Electronics,5,80487.51,0.0,0.0,402437.55,402437.55,293994.95,108442.6,26.95,Marketplace,Cash,Completed
+ORD00001,2025-04-25,CUST0023,Corporate,North,Jaipur,Ananya Desai,Keyboard,Accessories,2,1169.63,0.2,467.85,2339.26,1871.41,1095.09,776.32,41.48,Online,UPI,Cancelled
+ORD00523,2025-04-26,CUST0143,Corporate,East,Kolkata,Aarav Sharma,USB Drive,Accessories,3,465.47,0.1,139.64,1396.41,1256.77,679.37,577.4,45.94,Online,Debit Card,Completed
+ORD00753,2025-04-26,CUST0031,Small Business,West,Pune,Aarav Sharma,Smartphone,Electronics,5,21654.47,0.05,5413.62,108272.35,102858.73,78321.11,24537.62,23.86,Online,Net Banking,Completed
+ORD00756,2025-04-26,CUST0091,Small Business,Central,Raipur,Ananya Desai,Office Chair,Furniture,6,6453.02,0.0,0.0,38718.12,38718.12,24498.39,14219.73,36.73,Marketplace,Cash,Returned
+ORD00090,2025-04-27,CUST0012,Corporate,North,Lucknow,Meera Nair,USB Drive,Accessories,2,1467.03,0.1,293.41,2934.06,2640.65,1256.84,1383.81,52.4,Distributor,Cash,Cancelled
+ORD00105,2025-04-27,CUST0051,Consumer,Central,Indore,Kabir Joshi,Desk,Furniture,3,12670.89,0.0,0.0,38012.67,38012.67,24271.27,13741.4,36.15,Retail Store,UPI,Completed
+ORD00476,2025-04-27,CUST0084,Consumer,West,Pune,Meera Nair,Smartphone,Electronics,7,46591.5,0.05,16307.03,326140.5,309833.47,270090.56,39742.91,12.83,Retail Store,Debit Card,Returned
+ORD00535,2025-04-28,CUST0146,Corporate,East,Bhubaneswar,Ananya Desai,Laptop,Electronics,1,65151.92,0.1,6515.19,65151.92,58636.73,48389.54,10247.19,17.48,Distributor,UPI,Returned
+ORD00778,2025-04-28,CUST0146,Consumer,East,Patna,Kabir Joshi,Laptop,Electronics,8,65438.49,0.0,0.0,523507.92,523507.92,430551.04,92956.88,17.76,Marketplace,UPI,Completed
+ORD00232,2025-04-29,CUST0099,Consumer,South,Bengaluru,Diya Patel,Laptop,Electronics,1,78923.63,0.0,0.0,78923.63,78923.63,57405.66,21517.97,27.26,Online,Net Banking,Completed
+ORD00261,2025-04-29,CUST0048,Small Business,East,Patna,Ananya Desai,USB Drive,Accessories,5,1033.65,0.0,0.0,5168.25,5168.25,2638.22,2530.03,48.95,Distributor,Credit Card,Returned
+ORD00564,2025-04-29,CUST0032,Small Business,West,Mumbai,Aarav Sharma,USB Drive,Accessories,8,834.78,0.1,667.82,6678.24,6010.42,2844.41,3166.01,52.68,Retail Store,Debit Card,Completed
+ORD00896,2025-04-29,CUST0199,Small Business,South,Kochi,Ananya Desai,Desk,Furniture,6,18551.64,0.2,22261.97,111309.84,89047.87,61590.5,27457.37,30.83,Marketplace,Credit Card,Completed
+ORD00084,2025-04-30,CUST0035,Small Business,South,Bengaluru,Ananya Desai,Laptop,Electronics,8,55087.68,0.0,0.0,440701.44,440701.44,324158.26,116543.18,26.44,Distributor,Net Banking,Cancelled
+ORD00353,2025-04-30,CUST0106,Small Business,East,Kolkata,Kabir Joshi,Monitor,Electronics,4,22841.54,0.2,18273.23,91366.16,73092.93,57903.35,15189.58,20.78,Online,Debit Card,Completed
+ORD00421,2025-05-01,CUST0140,Consumer,South,Chennai,Kabir Joshi,Laptop,Electronics,5,68770.09,0.0,0.0,343850.45,343850.45,272805.04,71045.41,20.66,Marketplace,Credit Card,Returned
+ORD00481,2025-05-01,CUST0071,Consumer,Central,Bhopal,Diya Patel,Desk,Furniture,4,22391.89,0.1,8956.76,89567.56,80610.8,61156.16,19454.64,24.13,Online,Credit Card,Completed
+ORD00760,2025-05-01,CUST0170,Corporate,South,Kochi,Aarav Sharma,Laptop,Electronics,7,71933.27,0.05,25176.64,503532.89,478356.25,348555.88,129800.37,27.13,Marketplace,Net Banking,Completed
+ORD00994,2025-05-03,CUST0096,Consumer,West,Surat,Kabir Joshi,Monitor,Electronics,1,27151.62,0.15,4072.74,27151.62,23078.88,15916.25,7162.63,31.04,Marketplace,UPI,Cancelled
+ORD00304,2025-05-04,CUST0012,Corporate,West,Pune,Meera Nair,USB Drive,Accessories,4,1536.83,0.2,1229.46,6147.32,4917.86,2136.73,2781.13,56.55,Online,Cash,Returned
+ORD00733,2025-05-04,CUST0052,Consumer,South,Kochi,Aarav Sharma,Laptop,Electronics,4,53776.05,0.0,0.0,215104.2,215104.2,169546.95,45557.25,21.18,Marketplace,Cash,Cancelled
+ORD00153,2025-05-05,CUST0089,Small Business,Central,Raipur,Meera Nair,Monitor,Electronics,3,27459.44,0.05,4118.92,82378.32,78259.4,53743.13,24516.27,31.33,Distributor,Cash,Completed
+ORD00622,2025-05-05,CUST0236,Small Business,Central,Raipur,Kabir Joshi,USB Drive,Accessories,1,842.21,0.2,168.44,842.21,673.77,273.64,400.13,59.39,Marketplace,Debit Card,Completed
+ORD00841,2025-05-05,CUST0175,Small Business,East,Patna,Meera Nair,USB Drive,Accessories,4,1774.04,0.15,1064.42,7096.16,6031.74,2503.58,3528.16,58.49,Online,Cash,Cancelled
+ORD00829,2025-05-06,CUST0120,Corporate,West,Surat,Diya Patel,Desk,Furniture,1,11479.76,0.1,1147.98,11479.76,10331.78,8130.1,2201.68,21.31,Distributor,Net Banking,Completed
+ORD00004,2025-05-08,CUST0012,Corporate,West,Mumbai,Diya Patel,Office Chair,Furniture,6,15696.96,0.15,14127.26,94181.76,80054.5,50803.54,29250.96,36.54,Distributor,UPI,Completed
+ORD00117,2025-05-08,CUST0210,Small Business,East,Kolkata,Rohan Singh,Headphones,Accessories,3,2354.91,0.1,706.47,7064.73,6358.26,3007.0,3351.26,52.71,Online,Cash,Completed
+ORD00626,2025-05-08,CUST0015,Small Business,North,Delhi,Kabir Joshi,Laptop,Electronics,2,58227.99,0.0,0.0,116455.98,116455.98,85003.59,31452.39,27.01,Marketplace,UPI,Returned
+ORD00969,2025-05-08,CUST0169,Small Business,North,Chandigarh,Diya Patel,Office Chair,Furniture,2,14732.2,0.2,5892.88,29464.4,23571.52,14859.76,8711.76,36.96,Retail Store,Cash,Returned
+ORD00451,2025-05-09,CUST0035,Consumer,South,Bengaluru,Diya Patel,Smartphone,Electronics,3,39880.74,0.2,23928.44,119642.22,95713.78,84489.74,11224.04,11.73,Marketplace,Cash,Returned
+ORD00518,2025-05-09,CUST0194,Small Business,South,Chennai,Aarav Sharma,Smartphone,Electronics,2,30266.62,0.0,0.0,60533.24,60533.24,45570.69,14962.55,24.72,Retail Store,UPI,Returned
+ORD00707,2025-05-09,CUST0101,Corporate,North,Jaipur,Kabir Joshi,Smartphone,Electronics,3,42692.03,0.1,12807.61,128076.09,115268.48,100506.07,14762.41,12.81,Marketplace,UPI,Completed
+ORD00092,2025-05-10,CUST0026,Corporate,East,Guwahati,Aarav Sharma,Monitor,Electronics,5,31865.69,0.1,15932.84,159328.45,143395.6,109108.02,34287.58,23.91,Retail Store,Cash,Returned
+ORD00697,2025-05-10,CUST0215,Consumer,Central,Indore,Ananya Desai,Smartphone,Electronics,8,28998.43,0.05,11599.37,231987.44,220388.07,170074.6,50313.47,22.83,Marketplace,Credit Card,Completed
+ORD00739,2025-05-11,CUST0234,Small Business,South,Kochi,Aarav Sharma,Office Chair,Furniture,6,16536.42,0.05,4960.93,99218.52,94257.59,64163.67,30093.92,31.93,Marketplace,Cash,Completed
+ORD00584,2025-05-13,CUST0078,Consumer,South,Chennai,Diya Patel,Headphones,Accessories,2,4252.77,0.1,850.55,8505.54,7654.99,5249.51,2405.48,31.42,Online,UPI,Returned
+ORD00440,2025-05-14,CUST0181,Corporate,North,Lucknow,Kabir Joshi,Laptop,Electronics,1,46554.86,0.0,0.0,46554.86,46554.86,36696.15,9858.71,21.18,Marketplace,Net Banking,Completed
+ORD00221,2025-05-16,CUST0036,Small Business,West,Mumbai,Diya Patel,Keyboard,Accessories,2,1649.21,0.0,0.0,3298.42,3298.42,1577.76,1720.66,52.17,Retail Store,UPI,Completed
+ORD00275,2025-05-16,CUST0109,Small Business,South,Bengaluru,Rohan Singh,Keyboard,Accessories,5,1257.17,0.2,1257.17,6285.85,5028.68,3227.19,1801.49,35.82,Marketplace,Debit Card,Completed
+ORD00296,2025-05-16,CUST0157,Small Business,North,Chandigarh,Rohan Singh,Smartphone,Electronics,8,29889.19,0.15,35867.03,239113.52,203246.49,173117.02,30129.47,14.82,Online,Credit Card,Completed
+ORD00436,2025-05-16,CUST0176,Corporate,South,Bengaluru,Aarav Sharma,USB Drive,Accessories,2,881.38,0.0,0.0,1762.76,1762.76,754.01,1008.75,57.23,Distributor,Cash,Completed
+ORD00883,2025-05-16,CUST0031,Small Business,Central,Raipur,Rohan Singh,Monitor,Electronics,7,15859.19,0.2,22202.87,111014.33,88811.46,68305.83,20505.63,23.09,Online,UPI,Completed
+ORD00930,2025-05-16,CUST0106,Consumer,East,Kolkata,Diya Patel,Monitor,Electronics,3,24647.85,0.05,3697.18,73943.55,70246.37,49345.84,20900.53,29.75,Distributor,Credit Card,Completed
+ORD00668,2025-05-17,CUST0234,Corporate,East,Bhubaneswar,Ananya Desai,Desk,Furniture,8,24582.41,0.0,0.0,196659.28,196659.28,133791.03,62868.25,31.97,Marketplace,Net Banking,Cancelled
+ORD00024,2025-05-18,CUST0184,Small Business,East,Kolkata,Diya Patel,Smartphone,Electronics,3,43923.92,0.05,6588.59,131771.76,125183.17,99178.05,26005.12,20.77,Distributor,Net Banking,Completed
+ORD00144,2025-05-18,CUST0093,Corporate,East,Guwahati,Rohan Singh,Monitor,Electronics,7,16148.43,0.0,0.0,113039.01,113039.01,87180.78,25858.23,22.88,Online,Cash,Completed
+ORD00362,2025-05-18,CUST0016,Consumer,Central,Nagpur,Rohan Singh,USB Drive,Accessories,1,750.05,0.1,75.0,750.05,675.04,252.97,422.07,62.53,Marketplace,UPI,Completed
+ORD00671,2025-05-18,CUST0059,Corporate,East,Guwahati,Rohan Singh,Laptop,Electronics,7,64397.53,0.2,90156.54,450782.71,360626.17,306544.39,54081.78,15.0,Distributor,Credit Card,Completed
+ORD00124,2025-05-19,CUST0239,Small Business,North,Lucknow,Kabir Joshi,Laptop,Electronics,1,54618.03,0.0,0.0,54618.03,54618.03,47065.8,7552.23,13.83,Marketplace,Net Banking,Completed
+ORD00834,2025-05-19,CUST0140,Consumer,West,Pune,Ananya Desai,Office Chair,Furniture,5,8617.45,0.15,6463.09,43087.25,36624.16,28086.39,8537.77,23.31,Marketplace,UPI,Returned
+ORD00209,2025-05-20,CUST0126,Consumer,South,Kochi,Aarav Sharma,USB Drive,Accessories,8,913.7,0.1,730.96,7309.6,6578.64,3470.47,3108.17,47.25,Online,Credit Card,Returned
+ORD00119,2025-05-21,CUST0002,Consumer,North,Jaipur,Aarav Sharma,USB Drive,Accessories,3,1344.11,0.2,806.47,4032.33,3225.86,1507.37,1718.49,53.27,Distributor,Credit Card,Cancelled
+ORD00509,2025-05-21,CUST0214,Corporate,South,Chennai,Rohan Singh,Monitor,Electronics,8,14236.58,0.0,0.0,113892.64,113892.64,92440.72,21451.92,18.84,Marketplace,Net Banking,Completed
+ORD00670,2025-05-21,CUST0237,Corporate,East,Patna,Kabir Joshi,Office Chair,Furniture,7,7227.16,0.0,0.0,50590.12,50590.12,36200.62,14389.5,28.44,Marketplace,Debit Card,Completed
+ORD00835,2025-05-22,CUST0108,Small Business,Central,Raipur,Ananya Desai,Desk,Furniture,6,15572.49,0.1,9343.49,93434.94,84091.45,57497.94,26593.51,31.62,Online,Net Banking,Returned
+ORD00008,2025-05-23,CUST0131,Small Business,South,Hyderabad,Aarav Sharma,Monitor,Electronics,7,29445.57,0.05,10305.95,206118.99,195813.04,140024.21,55788.83,28.49,Online,UPI,Completed
+ORD00171,2025-05-24,CUST0061,Small Business,Central,Nagpur,Diya Patel,Keyboard,Accessories,6,2947.36,0.15,2652.62,17684.16,15031.54,8259.52,6772.02,45.05,Retail Store,Cash,Completed
+ORD00082,2025-05-25,CUST0117,Small Business,South,Kochi,Meera Nair,Desk,Furniture,7,7715.75,0.0,0.0,54010.25,54010.25,36057.38,17952.87,33.24,Distributor,Net Banking,Completed
+ORD00404,2025-05-25,CUST0070,Consumer,North,Lucknow,Ananya Desai,Laptop,Electronics,1,52984.62,0.05,2649.23,52984.62,50335.39,37857.82,12477.57,24.79,Online,UPI,Cancelled
+ORD00215,2025-05-26,CUST0104,Corporate,Central,Nagpur,Meera Nair,Monitor,Electronics,2,16379.31,0.2,6551.72,32758.62,26206.9,21152.53,5054.37,19.29,Distributor,Debit Card,Completed
+ORD00796,2025-05-26,CUST0101,Consumer,East,Guwahati,Ananya Desai,Headphones,Accessories,8,1328.83,0.05,531.53,10630.64,10099.11,6849.01,3250.1,32.18,Online,Cash,Completed
+ORD00526,2025-05-27,CUST0087,Consumer,West,Surat,Kabir Joshi,Smartphone,Electronics,3,43881.58,0.0,0.0,131644.74,131644.74,105915.63,25729.11,19.54,Marketplace,UPI,Completed
+ORD00713,2025-05-27,CUST0183,Small Business,Central,Indore,Kabir Joshi,Smartphone,Electronics,5,39071.43,0.2,39071.43,195357.15,156285.72,133549.34,22736.38,14.55,Retail Store,Cash,Completed
+ORD00718,2025-05-27,CUST0108,Corporate,West,Ahmedabad,Ananya Desai,Laptop,Electronics,6,81492.99,0.2,97791.59,488957.94,391166.35,330302.63,60863.72,15.56,Retail Store,Cash,Cancelled
+ORD00638,2025-05-28,CUST0236,Consumer,South,Chennai,Kabir Joshi,Keyboard,Accessories,6,2097.66,0.05,629.3,12585.96,11956.66,6574.82,5381.84,45.01,Retail Store,Net Banking,Completed
+ORD00839,2025-05-28,CUST0207,Small Business,Central,Raipur,Kabir Joshi,Headphones,Accessories,3,2074.2,0.05,311.13,6222.6,5911.47,3588.62,2322.85,39.29,Retail Store,UPI,Completed
+ORD00591,2025-05-30,CUST0195,Consumer,North,Delhi,Meera Nair,Smartphone,Electronics,7,26547.06,0.0,0.0,185829.42,185829.42,151471.57,34357.85,18.49,Retail Store,Net Banking,Returned
+ORD00842,2025-05-30,CUST0052,Small Business,North,Chandigarh,Ananya Desai,Headphones,Accessories,4,5465.74,0.0,0.0,21862.96,21862.96,12634.14,9228.82,42.21,Distributor,Debit Card,Cancelled
+ORD00337,2025-05-31,CUST0225,Corporate,North,Chandigarh,Meera Nair,Office Chair,Furniture,7,16953.03,0.15,17800.68,118671.21,100870.53,78120.58,22749.95,22.55,Distributor,UPI,Completed
+ORD00747,2025-06-01,CUST0187,Consumer,West,Mumbai,Meera Nair,USB Drive,Accessories,3,572.27,0.0,0.0,1716.81,1716.81,681.94,1034.87,60.28,Distributor,UPI,Returned
+ORD00489,2025-06-02,CUST0009,Small Business,Central,Bhopal,Kabir Joshi,Monitor,Electronics,1,31504.6,0.1,3150.46,31504.6,28354.14,22608.35,5745.79,20.26,Marketplace,Cash,Cancelled
+ORD00120,2025-06-03,CUST0108,Corporate,Central,Raipur,Kabir Joshi,Smartphone,Electronics,4,45375.42,0.05,9075.08,181501.68,172426.6,132471.43,39955.17,23.17,Marketplace,UPI,Completed
+ORD00335,2025-06-03,CUST0185,Consumer,South,Chennai,Ananya Desai,Desk,Furniture,2,17438.39,0.2,6975.36,34876.78,27901.42,18455.74,9445.68,33.85,Marketplace,Cash,Completed
+ORD00754,2025-06-04,CUST0160,Small Business,South,Kochi,Rohan Singh,Desk,Furniture,7,17392.62,0.0,0.0,121748.34,121748.34,95056.38,26691.96,21.92,Online,Debit Card,Completed
+ORD00998,2025-06-04,CUST0040,Consumer,East,Bhubaneswar,Diya Patel,Desk,Furniture,4,16114.92,0.15,9668.95,64459.68,54790.73,43096.43,11694.3,21.34,Retail Store,Debit Card,Cancelled
+ORD00150,2025-06-05,CUST0133,Consumer,West,Pune,Kabir Joshi,Monitor,Electronics,8,19545.49,0.2,31272.78,156363.92,125091.14,99620.62,25470.52,20.36,Distributor,Cash,Completed
+ORD00009,2025-06-06,CUST0221,Consumer,South,Kochi,Meera Nair,Smartphone,Electronics,8,28544.99,0.15,34253.99,228359.92,194105.93,152899.59,41206.34,21.23,Online,Net Banking,Cancelled
+ORD00094,2025-06-06,CUST0208,Consumer,West,Mumbai,Kabir Joshi,Smartphone,Electronics,2,47766.19,0.1,9553.24,95532.38,85979.14,65729.73,20249.41,23.55,Online,Net Banking,Completed
+ORD00179,2025-06-06,CUST0066,Small Business,South,Hyderabad,Meera Nair,Keyboard,Accessories,4,1639.52,0.1,655.81,6558.08,5902.27,3173.42,2728.85,46.23,Marketplace,Cash,Completed
+ORD00386,2025-06-07,CUST0012,Consumer,Central,Nagpur,Diya Patel,Desk,Furniture,6,13786.29,0.0,0.0,82717.74,82717.74,52718.18,29999.56,36.27,Online,Credit Card,Completed
+ORD00650,2025-06-07,CUST0122,Consumer,East,Patna,Rohan Singh,Monitor,Electronics,7,12105.12,0.0,0.0,84735.84,84735.84,64866.85,19868.99,23.45,Marketplace,Debit Card,Completed
+ORD00714,2025-06-07,CUST0029,Corporate,East,Patna,Kabir Joshi,Monitor,Electronics,4,7647.75,0.0,0.0,30591.0,30591.0,22124.02,8466.98,27.68,Marketplace,UPI,Cancelled
+ORD00113,2025-06-08,CUST0034,Corporate,North,Jaipur,Ananya Desai,Smartphone,Electronics,1,33830.66,0.2,6766.13,33830.66,27064.53,21665.55,5398.98,19.95,Retail Store,Credit Card,Cancelled
+ORD00381,2025-06-08,CUST0016,Small Business,East,Kolkata,Meera Nair,Keyboard,Accessories,2,973.1,0.2,389.24,1946.2,1556.96,863.59,693.37,44.53,Retail Store,Net Banking,Completed
+ORD00431,2025-06-09,CUST0077,Corporate,West,Ahmedabad,Meera Nair,USB Drive,Accessories,7,1475.98,0.2,2066.37,10331.86,8265.49,3008.68,5256.81,63.6,Distributor,Net Banking,Cancelled
+ORD00503,2025-06-09,CUST0187,Small Business,North,Jaipur,Rohan Singh,Office Chair,Furniture,5,10897.79,0.15,8173.34,54488.95,46315.61,33349.08,12966.53,28.0,Online,Cash,Cancelled
+ORD00299,2025-06-10,CUST0072,Consumer,Central,Raipur,Kabir Joshi,USB Drive,Accessories,2,1604.12,0.1,320.82,3208.24,2887.42,1242.05,1645.37,56.98,Retail Store,Net Banking,Completed
+ORD00322,2025-06-10,CUST0003,Corporate,Central,Indore,Kabir Joshi,Headphones,Accessories,5,5056.5,0.2,5056.5,25282.5,20226.0,9830.22,10395.78,51.4,Retail Store,UPI,Completed
+ORD00642,2025-06-10,CUST0059,Corporate,East,Guwahati,Aarav Sharma,Smartphone,Electronics,2,17776.2,0.05,1777.62,35552.4,33774.78,27583.05,6191.73,18.33,Marketplace,Net Banking,Completed
+ORD00985,2025-06-10,CUST0168,Corporate,South,Kochi,Ananya Desai,Headphones,Accessories,3,5658.44,0.05,848.77,16975.32,16126.55,11114.04,5012.51,31.08,Distributor,Credit Card,Returned
+ORD00761,2025-06-11,CUST0039,Consumer,North,Chandigarh,Ananya Desai,Desk,Furniture,4,8684.27,0.0,0.0,34737.08,34737.08,21615.01,13122.07,37.78,Retail Store,Net Banking,Returned
+ORD00284,2025-06-12,CUST0099,Consumer,West,Mumbai,Aarav Sharma,Headphones,Accessories,7,4302.53,0.1,3011.77,30117.71,27105.94,15104.96,12000.98,44.27,Retail Store,Debit Card,Returned
+ORD00445,2025-06-12,CUST0140,Corporate,West,Surat,Diya Patel,Smartphone,Electronics,7,26650.71,0.1,18655.5,186554.97,167899.47,140209.77,27689.7,16.49,Retail Store,UPI,Completed
+ORD00331,2025-06-13,CUST0017,Small Business,South,Chennai,Rohan Singh,USB Drive,Accessories,1,1708.76,0.0,0.0,1708.76,1708.76,923.36,785.4,45.96,Retail Store,UPI,Completed
+ORD00742,2025-06-13,CUST0067,Small Business,Central,Indore,Diya Patel,Laptop,Electronics,8,79803.67,0.15,95764.4,638429.36,542664.96,452170.5,90494.46,16.68,Distributor,Debit Card,Cancelled
+ORD00940,2025-06-13,CUST0172,Small Business,East,Kolkata,Ananya Desai,USB Drive,Accessories,7,1124.74,0.2,1574.64,7873.18,6298.54,2539.09,3759.45,59.69,Retail Store,UPI,Returned
+ORD00258,2025-06-14,CUST0156,Small Business,North,Delhi,Diya Patel,Desk,Furniture,8,17286.58,0.2,27658.53,138292.64,110634.11,69210.35,41423.76,37.44,Online,UPI,Completed
+ORD00763,2025-06-14,CUST0236,Corporate,North,Lucknow,Kabir Joshi,Monitor,Electronics,8,23997.59,0.15,28797.11,191980.72,163183.61,129539.24,33644.37,20.62,Distributor,Credit Card,Completed
+ORD00614,2025-06-15,CUST0225,Small Business,Central,Bhopal,Diya Patel,Office Chair,Furniture,2,5711.15,0.0,0.0,11422.3,11422.3,8344.14,3078.16,26.95,Distributor,Debit Card,Completed
+ORD00901,2025-06-15,CUST0194,Corporate,East,Guwahati,Aarav Sharma,Monitor,Electronics,4,12390.38,0.0,0.0,49561.52,49561.52,33987.9,15573.62,31.42,Marketplace,Cash,Completed
+ORD00028,2025-06-16,CUST0069,Consumer,South,Kochi,Meera Nair,Laptop,Electronics,6,49712.51,0.1,29827.51,298275.06,268447.55,227739.53,40708.02,15.16,Online,Cash,Completed
+ORD00187,2025-06-16,CUST0203,Corporate,Central,Indore,Meera Nair,Monitor,Electronics,6,23925.87,0.1,14355.52,143555.22,129199.7,103475.71,25723.99,19.91,Online,Net Banking,Completed
+ORD00513,2025-06-17,CUST0164,Consumer,North,Jaipur,Kabir Joshi,Desk,Furniture,6,13970.77,0.0,0.0,83824.62,83824.62,56344.74,27479.88,32.78,Retail Store,Credit Card,Cancelled
+ORD00983,2025-06-17,CUST0211,Consumer,South,Bengaluru,Diya Patel,Monitor,Electronics,2,23824.4,0.1,4764.88,47648.8,42883.92,31510.64,11373.28,26.52,Online,Credit Card,Cancelled
+ORD00240,2025-06-18,CUST0068,Consumer,West,Surat,Aarav Sharma,Desk,Furniture,6,13723.74,0.0,0.0,82342.44,82342.44,57750.46,24591.98,29.87,Retail Store,Debit Card,Returned
+ORD00433,2025-06-19,CUST0070,Small Business,Central,Raipur,Aarav Sharma,Headphones,Accessories,5,4192.59,0.2,4192.59,20962.95,16770.36,11143.15,5627.21,33.55,Marketplace,Credit Card,Completed
+ORD00047,2025-06-21,CUST0148,Corporate,Central,Bhopal,Ananya Desai,Headphones,Accessories,2,6298.91,0.15,1889.67,12597.82,10708.15,4887.41,5820.74,54.36,Marketplace,Credit Card,Completed
+ORD00365,2025-06-21,CUST0081,Small Business,East,Patna,Meera Nair,Monitor,Electronics,2,28222.52,0.0,0.0,56445.04,56445.04,39845.68,16599.36,29.41,Distributor,Debit Card,Completed
+ORD00180,2025-06-22,CUST0165,Consumer,East,Bhubaneswar,Kabir Joshi,Headphones,Accessories,8,4905.79,0.0,0.0,39246.32,39246.32,26657.08,12589.24,32.08,Online,UPI,Cancelled
+ORD00193,2025-06-23,CUST0108,Small Business,South,Hyderabad,Ananya Desai,Office Chair,Furniture,3,8123.49,0.0,0.0,24370.47,24370.47,15355.77,9014.7,36.99,Online,Debit Card,Completed
+ORD00349,2025-06-23,CUST0091,Corporate,North,Jaipur,Ananya Desai,Keyboard,Accessories,3,2465.06,0.0,0.0,7395.18,7395.18,4800.98,2594.2,35.08,Marketplace,Net Banking,Returned
+ORD00369,2025-06-24,CUST0240,Small Business,North,Delhi,Kabir Joshi,Desk,Furniture,6,22347.01,0.1,13408.21,134082.06,120673.85,84965.83,35708.02,29.59,Marketplace,Credit Card,Cancelled
+ORD00420,2025-06-24,CUST0080,Corporate,East,Bhubaneswar,Ananya Desai,Headphones,Accessories,3,5752.27,0.2,3451.36,17256.81,13805.45,6389.54,7415.91,53.72,Distributor,Credit Card,Completed
+ORD00717,2025-06-24,CUST0003,Corporate,East,Patna,Kabir Joshi,Headphones,Accessories,7,2767.49,0.1,1937.24,19372.43,17435.19,10427.6,7007.59,40.19,Retail Store,Credit Card,Completed
+ORD00791,2025-06-24,CUST0213,Consumer,Central,Raipur,Kabir Joshi,Keyboard,Accessories,7,2167.22,0.0,0.0,15170.54,15170.54,8405.5,6765.04,44.59,Marketplace,Credit Card,Returned
+ORD00812,2025-06-24,CUST0164,Small Business,South,Kochi,Meera Nair,Smartphone,Electronics,3,17430.41,0.15,7843.68,52291.23,44447.55,39254.73,5192.82,11.68,Online,Net Banking,Returned
+ORD00974,2025-06-24,CUST0124,Consumer,East,Bhubaneswar,Ananya Desai,Desk,Furniture,7,15943.41,0.1,11160.39,111603.87,100443.48,73997.49,26445.99,26.33,Marketplace,UPI,Cancelled
+ORD00006,2025-06-25,CUST0176,Small Business,Central,Indore,Aarav Sharma,Headphones,Accessories,5,3434.88,0.2,3434.88,17174.4,13739.52,8546.54,5192.98,37.8,Retail Store,UPI,Completed
+ORD00576,2025-06-25,CUST0093,Corporate,West,Surat,Meera Nair,Monitor,Electronics,8,28719.51,0.05,11487.8,229756.08,218268.28,170022.24,48246.04,22.1,Marketplace,Debit Card,Cancelled
+ORD00963,2025-06-26,CUST0058,Consumer,North,Lucknow,Kabir Joshi,Monitor,Electronics,7,31356.18,0.0,0.0,219493.26,219493.26,171605.69,47887.57,21.82,Online,Net Banking,Cancelled
+ORD00458,2025-06-28,CUST0125,Consumer,Central,Indore,Kabir Joshi,USB Drive,Accessories,3,854.65,0.05,128.2,2563.95,2435.75,1329.02,1106.73,45.44,Online,Debit Card,Completed
+ORD00636,2025-06-28,CUST0213,Corporate,East,Bhubaneswar,Diya Patel,Headphones,Accessories,3,1917.13,0.05,287.57,5751.39,5463.82,3702.62,1761.2,32.23,Marketplace,UPI,Completed
+ORD00102,2025-06-29,CUST0112,Consumer,South,Kochi,Ananya Desai,Keyboard,Accessories,6,2000.79,0.0,0.0,12004.74,12004.74,5993.58,6011.16,50.07,Online,Debit Card,Completed
+ORD00501,2025-06-29,CUST0095,Consumer,South,Chennai,Diya Patel,Keyboard,Accessories,6,850.75,0.15,765.67,5104.5,4338.82,1872.71,2466.11,56.84,Online,Debit Card,Completed
+ORD00716,2025-06-29,CUST0142,Small Business,Central,Nagpur,Kabir Joshi,USB Drive,Accessories,6,443.31,0.2,531.97,2659.86,2127.89,1049.13,1078.76,50.7,Online,UPI,Completed
+ORD00828,2025-06-29,CUST0149,Corporate,East,Guwahati,Meera Nair,Desk,Furniture,7,13429.5,0.05,4700.32,94006.5,89306.18,60342.24,28963.94,32.43,Distributor,Net Banking,Completed
+ORD00050,2025-06-30,CUST0072,Small Business,Central,Nagpur,Diya Patel,USB Drive,Accessories,5,997.31,0.05,249.33,4986.55,4737.22,2666.72,2070.5,43.71,Marketplace,Net Banking,Completed
+ORD00157,2025-06-30,CUST0155,Consumer,North,Lucknow,Rohan Singh,USB Drive,Accessories,5,579.47,0.0,0.0,2897.35,2897.35,1020.79,1876.56,64.77,Distributor,Cash,Cancelled
+ORD00786,2025-06-30,CUST0217,Corporate,West,Surat,Meera Nair,Desk,Furniture,3,9361.01,0.15,4212.45,28083.03,23870.58,16672.59,7197.99,30.15,Marketplace,Debit Card,Completed
+ORD00106,2025-07-01,CUST0018,Small Business,West,Surat,Ananya Desai,USB Drive,Accessories,6,1321.7,0.2,1586.04,7930.2,6344.16,2721.86,3622.3,57.1,Distributor,Debit Card,Returned
+ORD00931,2025-07-01,CUST0198,Corporate,East,Guwahati,Kabir Joshi,USB Drive,Accessories,8,696.82,0.05,278.73,5574.56,5295.83,2619.71,2676.12,50.53,Marketplace,Credit Card,Completed
+ORD00467,2025-07-02,CUST0028,Consumer,West,Mumbai,Kabir Joshi,USB Drive,Accessories,4,1769.13,0.15,1061.48,7076.52,6015.04,2695.69,3319.35,55.18,Marketplace,Credit Card,Returned
+ORD00662,2025-07-02,CUST0100,Corporate,South,Bengaluru,Rohan Singh,Keyboard,Accessories,1,1826.17,0.2,365.23,1826.17,1460.94,880.77,580.17,39.71,Marketplace,UPI,Completed
+ORD00798,2025-07-02,CUST0140,Consumer,Central,Bhopal,Diya Patel,Smartphone,Electronics,6,53964.38,0.1,32378.63,323786.28,291407.65,262044.66,29362.99,10.08,Distributor,UPI,Cancelled
+ORD00921,2025-07-02,CUST0144,Consumer,North,Jaipur,Ananya Desai,USB Drive,Accessories,6,1456.12,0.2,1747.34,8736.72,6989.38,3187.29,3802.09,54.4,Distributor,Credit Card,Cancelled
+ORD00511,2025-07-03,CUST0154,Corporate,West,Pune,Rohan Singh,Laptop,Electronics,5,47132.25,0.1,23566.12,235661.25,212095.12,186451.39,25643.73,12.09,Marketplace,Net Banking,Completed
+ORD00947,2025-07-03,CUST0132,Corporate,West,Surat,Meera Nair,Smartphone,Electronics,6,18466.65,0.2,22159.98,110799.9,88639.92,74326.61,14313.31,16.15,Marketplace,Cash,Completed
+ORD00127,2025-07-04,CUST0155,Corporate,Central,Nagpur,Ananya Desai,Desk,Furniture,6,7949.36,0.2,9539.23,47696.16,38156.93,25687.82,12469.11,32.68,Retail Store,Cash,Returned
+ORD00283,2025-07-04,CUST0116,Small Business,North,Lucknow,Diya Patel,Desk,Furniture,3,17989.62,0.05,2698.44,53968.86,51270.42,37643.25,13627.17,26.58,Retail Store,Net Banking,Completed
+ORD00565,2025-07-04,CUST0107,Consumer,South,Hyderabad,Diya Patel,Keyboard,Accessories,1,2250.64,0.15,337.6,2250.64,1913.04,1131.97,781.07,40.83,Marketplace,UPI,Completed
+ORD00114,2025-07-05,CUST0157,Small Business,Central,Indore,Meera Nair,USB Drive,Accessories,6,365.54,0.2,438.65,2193.24,1754.59,929.75,824.84,47.01,Marketplace,Credit Card,Returned
+ORD00999,2025-07-05,CUST0238,Consumer,North,Delhi,Meera Nair,Laptop,Electronics,6,75516.92,0.0,0.0,453101.52,453101.52,349972.79,103128.73,22.76,Retail Store,Credit Card,Completed
+ORD00057,2025-07-08,CUST0162,Corporate,North,Jaipur,Aarav Sharma,USB Drive,Accessories,2,471.13,0.1,94.23,942.26,848.03,401.06,446.97,52.71,Retail Store,Credit Card,Cancelled
+ORD00360,2025-07-08,CUST0116,Consumer,West,Surat,Kabir Joshi,Keyboard,Accessories,6,1757.28,0.05,527.18,10543.68,10016.5,6145.94,3870.56,38.64,Retail Store,Net Banking,Completed
+ORD00413,2025-07-08,CUST0237,Small Business,West,Surat,Ananya Desai,USB Drive,Accessories,4,506.27,0.0,0.0,2025.08,2025.08,725.09,1299.99,64.19,Retail Store,Credit Card,Completed
+ORD00423,2025-07-09,CUST0077,Small Business,South,Bengaluru,Aarav Sharma,Desk,Furniture,1,6697.7,0.2,1339.54,6697.7,5358.16,3879.61,1478.55,27.59,Online,UPI,Cancelled
+ORD00822,2025-07-09,CUST0043,Consumer,Central,Raipur,Rohan Singh,Office Chair,Furniture,4,16009.61,0.0,0.0,64038.44,64038.44,42055.34,21983.1,34.33,Marketplace,Credit Card,Completed
+ORD00159,2025-07-10,CUST0212,Small Business,North,Jaipur,Kabir Joshi,Office Chair,Furniture,4,12165.05,0.0,0.0,48660.2,48660.2,34547.37,14112.83,29.0,Distributor,UPI,Returned
+ORD00208,2025-07-10,CUST0159,Consumer,West,Pune,Rohan Singh,Headphones,Accessories,3,3590.96,0.0,0.0,10772.88,10772.88,5695.03,5077.85,47.14,Online,Cash,Returned
+ORD00571,2025-07-10,CUST0239,Small Business,West,Surat,Kabir Joshi,Smartphone,Electronics,6,13738.84,0.1,8243.3,82433.04,74189.74,63170.04,11019.7,14.85,Online,Debit Card,Completed
+ORD00067,2025-07-12,CUST0238,Small Business,Central,Nagpur,Ananya Desai,USB Drive,Accessories,1,1238.11,0.0,0.0,1238.11,1238.11,516.0,722.11,58.32,Marketplace,UPI,Completed
+ORD00914,2025-07-12,CUST0018,Small Business,South,Bengaluru,Meera Nair,USB Drive,Accessories,1,796.55,0.15,119.48,796.55,677.07,316.31,360.76,53.28,Retail Store,Debit Card,Completed
+ORD00525,2025-07-13,CUST0134,Corporate,North,Lucknow,Meera Nair,Desk,Furniture,8,9406.65,0.2,15050.64,75253.2,60202.56,38465.28,21737.28,36.11,Online,UPI,Returned
+ORD00032,2025-07-14,CUST0160,Small Business,East,Kolkata,Meera Nair,Monitor,Electronics,4,7042.28,0.05,1408.46,28169.12,26760.66,20043.94,6716.72,25.1,Online,Debit Card,Completed
+ORD00175,2025-07-15,CUST0186,Corporate,North,Jaipur,Kabir Joshi,Monitor,Electronics,1,23841.8,0.0,0.0,23841.8,23841.8,16930.21,6911.59,28.99,Retail Store,Cash,Cancelled
+ORD00543,2025-07-16,CUST0052,Consumer,North,Chandigarh,Rohan Singh,Office Chair,Furniture,7,10766.16,0.1,7536.31,75363.12,67826.81,48594.24,19232.57,28.36,Retail Store,UPI,Completed
+ORD00799,2025-07-17,CUST0231,Consumer,Central,Bhopal,Aarav Sharma,Laptop,Electronics,3,64273.78,0.0,0.0,192821.34,192821.34,165575.66,27245.68,14.13,Distributor,Credit Card,Completed
+ORD00428,2025-07-18,CUST0107,Small Business,North,Delhi,Aarav Sharma,Laptop,Electronics,2,61990.08,0.2,24796.03,123980.16,99184.13,84870.98,14313.15,14.43,Distributor,Debit Card,Cancelled
+ORD00819,2025-07-18,CUST0111,Consumer,East,Bhubaneswar,Meera Nair,Monitor,Electronics,5,11416.13,0.15,8562.1,57080.65,48518.55,37708.21,10810.34,22.28,Online,Credit Card,Cancelled
+ORD00860,2025-07-18,CUST0192,Corporate,East,Patna,Kabir Joshi,Laptop,Electronics,2,52241.32,0.15,15672.4,104482.64,88810.24,64086.17,24724.07,27.84,Online,UPI,Returned
+ORD00351,2025-07-19,CUST0129,Small Business,West,Surat,Rohan Singh,Laptop,Electronics,7,53227.62,0.15,55889.0,372593.34,316704.34,233421.99,83282.35,26.3,Online,Net Banking,Completed
+ORD00463,2025-07-19,CUST0004,Small Business,Central,Nagpur,Aarav Sharma,Headphones,Accessories,1,2585.64,0.2,517.13,2585.64,2068.51,935.21,1133.3,54.79,Online,Cash,Completed
+ORD00137,2025-07-21,CUST0149,Consumer,Central,Nagpur,Diya Patel,Headphones,Accessories,2,4362.63,0.15,1308.79,8725.26,7416.47,4525.88,2890.59,38.98,Distributor,Net Banking,Cancelled
+ORD00036,2025-07-23,CUST0117,Small Business,South,Bengaluru,Meera Nair,Laptop,Electronics,8,52528.23,0.15,63033.88,420225.84,357191.96,305741.33,51450.63,14.4,Retail Store,Cash,Completed
+ORD00554,2025-07-23,CUST0237,Corporate,North,Lucknow,Meera Nair,Desk,Furniture,7,9455.9,0.15,9928.69,66191.3,56262.61,37156.26,19106.35,33.96,Retail Store,UPI,Completed
+ORD00520,2025-07-24,CUST0219,Corporate,South,Hyderabad,Meera Nair,Laptop,Electronics,5,45903.51,0.15,34427.63,229517.55,195089.92,151322.25,43767.67,22.43,Retail Store,Net Banking,Completed
+ORD00081,2025-07-25,CUST0192,Small Business,South,Hyderabad,Aarav Sharma,Office Chair,Furniture,5,15711.38,0.1,7855.69,78556.9,70701.21,54731.87,15969.34,22.59,Marketplace,UPI,Completed
+ORD00350,2025-07-25,CUST0090,Small Business,Central,Bhopal,Rohan Singh,Smartphone,Electronics,5,51524.63,0.2,51524.63,257623.15,206098.52,180225.88,25872.64,12.55,Retail Store,Net Banking,Cancelled
+ORD00632,2025-07-25,CUST0154,Corporate,South,Bengaluru,Rohan Singh,Desk,Furniture,8,9597.76,0.2,15356.42,76782.08,61425.66,45733.33,15692.33,25.55,Distributor,Net Banking,Returned
+ORD00530,2025-07-26,CUST0111,Consumer,East,Patna,Ananya Desai,USB Drive,Accessories,6,1057.19,0.15,951.47,6343.14,5391.67,2623.88,2767.79,51.33,Marketplace,Debit Card,Completed
+ORD00140,2025-07-28,CUST0103,Consumer,East,Bhubaneswar,Rohan Singh,Desk,Furniture,6,22368.22,0.2,26841.86,134209.32,107367.46,85662.51,21704.95,20.22,Online,Debit Card,Completed
+ORD00414,2025-07-29,CUST0228,Consumer,North,Chandigarh,Ananya Desai,USB Drive,Accessories,8,1600.69,0.2,2561.1,12805.52,10244.42,4417.64,5826.78,56.88,Marketplace,UPI,Returned
+ORD00237,2025-07-30,CUST0012,Consumer,Central,Indore,Kabir Joshi,Monitor,Electronics,1,19300.72,0.0,0.0,19300.72,19300.72,15322.15,3978.57,20.61,Marketplace,Debit Card,Completed
+ORD00448,2025-07-30,CUST0023,Corporate,East,Guwahati,Aarav Sharma,Office Chair,Furniture,7,16899.77,0.2,23659.68,118298.39,94638.71,73521.45,21117.26,22.31,Marketplace,Credit Card,Completed
+ORD00672,2025-07-30,CUST0083,Consumer,Central,Bhopal,Ananya Desai,Keyboard,Accessories,4,2904.36,0.15,1742.62,11617.44,9874.82,6104.38,3770.44,38.18,Online,UPI,Cancelled
+ORD00332,2025-07-31,CUST0027,Corporate,Central,Nagpur,Kabir Joshi,Monitor,Electronics,8,18741.86,0.0,0.0,149934.88,149934.88,102913.02,47021.86,31.36,Distributor,Debit Card,Completed
+ORD00966,2025-07-31,CUST0129,Corporate,Central,Raipur,Aarav Sharma,USB Drive,Accessories,8,667.57,0.0,0.0,5340.56,5340.56,2932.97,2407.59,45.08,Distributor,Credit Card,Returned
+ORD00508,2025-08-01,CUST0107,Consumer,East,Patna,Kabir Joshi,Desk,Furniture,7,7256.2,0.0,0.0,50793.4,50793.4,31552.42,19240.98,37.88,Marketplace,Net Banking,Completed
+ORD00958,2025-08-01,CUST0040,Corporate,Central,Nagpur,Kabir Joshi,Office Chair,Furniture,6,8439.61,0.1,5063.77,50637.66,45573.89,32877.47,12696.42,27.86,Retail Store,Net Banking,Completed
+ORD00979,2025-08-01,CUST0051,Small Business,South,Chennai,Aarav Sharma,USB Drive,Accessories,1,996.41,0.05,49.82,996.41,946.59,518.26,428.33,45.25,Marketplace,UPI,Completed
+ORD00176,2025-08-02,CUST0235,Consumer,East,Guwahati,Meera Nair,Laptop,Electronics,4,51107.73,0.2,40886.18,204430.92,163544.74,120822.04,42722.7,26.12,Retail Store,Cash,Returned
+ORD00426,2025-08-03,CUST0240,Corporate,South,Bengaluru,Rohan Singh,Smartphone,Electronics,2,36568.78,0.1,7313.76,73137.56,65823.8,56517.05,9306.75,14.14,Marketplace,Net Banking,Cancelled
+ORD00318,2025-08-04,CUST0192,Corporate,South,Kochi,Diya Patel,Smartphone,Electronics,7,20839.92,0.2,29175.89,145879.44,116703.55,101825.38,14878.17,12.75,Online,Cash,Completed
+ORD00336,2025-08-04,CUST0035,Corporate,Central,Indore,Kabir Joshi,Monitor,Electronics,1,7561.15,0.0,0.0,7561.15,7561.15,5835.38,1725.77,22.82,Online,Net Banking,Completed
+ORD00359,2025-08-04,CUST0069,Small Business,West,Mumbai,Kabir Joshi,Desk,Furniture,5,12870.44,0.0,0.0,64352.2,64352.2,46252.59,18099.61,28.13,Distributor,Debit Card,Completed
+ORD00913,2025-08-04,CUST0039,Small Business,East,Bhubaneswar,Aarav Sharma,Headphones,Accessories,8,3788.96,0.0,0.0,30311.68,30311.68,16047.67,14264.01,47.06,Online,Debit Card,Completed
+ORD00957,2025-08-04,CUST0162,Small Business,Central,Indore,Kabir Joshi,Monitor,Electronics,1,13392.31,0.2,2678.46,13392.31,10713.85,8746.43,1967.42,18.36,Distributor,UPI,Completed
+ORD00970,2025-08-04,CUST0193,Consumer,East,Kolkata,Rohan Singh,Desk,Furniture,2,18198.68,0.1,3639.74,36397.36,32757.62,25611.71,7145.91,21.81,Distributor,Debit Card,Returned
+ORD00474,2025-08-05,CUST0126,Corporate,Central,Raipur,Aarav Sharma,Headphones,Accessories,4,5023.99,0.0,0.0,20095.96,20095.96,9228.46,10867.5,54.08,Marketplace,Net Banking,Completed
+ORD00877,2025-08-05,CUST0196,Corporate,East,Guwahati,Aarav Sharma,Keyboard,Accessories,1,1636.52,0.2,327.3,1636.52,1309.22,761.4,547.82,41.84,Online,Credit Card,Returned
+ORD00035,2025-08-07,CUST0086,Consumer,Central,Raipur,Diya Patel,Headphones,Accessories,5,4555.45,0.15,3416.59,22777.25,19360.66,11925.46,7435.2,38.4,Distributor,Credit Card,Cancelled
+ORD00477,2025-08-07,CUST0179,Small Business,North,Chandigarh,Kabir Joshi,Desk,Furniture,5,7201.22,0.0,0.0,36006.1,36006.1,27233.54,8772.56,24.36,Retail Store,Cash,Completed
+ORD00634,2025-08-07,CUST0093,Consumer,South,Kochi,Aarav Sharma,Desk,Furniture,7,21338.15,0.0,0.0,149367.05,149367.05,103370.4,45996.65,30.79,Distributor,UPI,Completed
+ORD00724,2025-08-07,CUST0015,Small Business,North,Lucknow,Aarav Sharma,Keyboard,Accessories,1,3269.17,0.1,326.92,3269.17,2942.25,1833.39,1108.86,37.69,Marketplace,Debit Card,Returned
+ORD00984,2025-08-07,CUST0054,Corporate,East,Guwahati,Meera Nair,Desk,Furniture,8,20561.99,0.0,0.0,164495.92,164495.92,122262.31,42233.61,25.67,Retail Store,Debit Card,Cancelled
+ORD00154,2025-08-08,CUST0058,Corporate,South,Hyderabad,Diya Patel,Office Chair,Furniture,4,6353.18,0.0,0.0,25412.72,25412.72,15479.85,9932.87,39.09,Online,UPI,Cancelled
+ORD00245,2025-08-08,CUST0063,Corporate,South,Hyderabad,Rohan Singh,Office Chair,Furniture,3,10521.15,0.0,0.0,31563.45,31563.45,22427.07,9136.38,28.95,Marketplace,Cash,Cancelled
+ORD00920,2025-08-08,CUST0176,Consumer,South,Hyderabad,Kabir Joshi,Headphones,Accessories,8,5587.29,0.1,4469.83,44698.32,40228.49,25093.52,15134.97,37.62,Marketplace,Debit Card,Completed
+ORD00055,2025-08-10,CUST0078,Consumer,West,Ahmedabad,Meera Nair,Office Chair,Furniture,4,17736.89,0.05,3547.38,70947.56,67400.18,43199.94,24200.24,35.91,Retail Store,Debit Card,Completed
+ORD00088,2025-08-10,CUST0034,Corporate,South,Hyderabad,Rohan Singh,Headphones,Accessories,1,5295.27,0.05,264.76,5295.27,5030.51,3343.28,1687.23,33.54,Retail Store,UPI,Completed
+ORD00338,2025-08-10,CUST0211,Consumer,West,Surat,Kabir Joshi,USB Drive,Accessories,7,555.85,0.15,583.64,3890.95,3307.31,1275.56,2031.75,61.43,Distributor,Credit Card,Cancelled
+ORD00422,2025-08-11,CUST0226,Corporate,Central,Raipur,Rohan Singh,USB Drive,Accessories,2,915.23,0.15,274.57,1830.46,1555.89,777.98,777.91,50.0,Retail Store,UPI,Completed
+ORD00961,2025-08-11,CUST0129,Corporate,West,Ahmedabad,Kabir Joshi,Desk,Furniture,2,20639.49,0.2,8255.8,41278.98,33023.18,25733.52,7289.66,22.07,Marketplace,Credit Card,Completed
+ORD00163,2025-08-12,CUST0016,Corporate,South,Bengaluru,Kabir Joshi,USB Drive,Accessories,6,1092.26,0.0,0.0,6553.56,6553.56,3796.55,2757.01,42.07,Retail Store,Net Banking,Completed
+ORD00276,2025-08-12,CUST0144,Corporate,West,Ahmedabad,Kabir Joshi,Monitor,Electronics,1,21612.18,0.15,3241.83,21612.18,18370.35,15429.42,2940.93,16.01,Distributor,Debit Card,Completed
+ORD00667,2025-08-12,CUST0044,Small Business,West,Ahmedabad,Aarav Sharma,USB Drive,Accessories,2,1774.65,0.2,709.86,3549.3,2839.44,1374.42,1465.02,51.6,Distributor,Cash,Cancelled
+ORD00784,2025-08-12,CUST0174,Corporate,South,Kochi,Aarav Sharma,Headphones,Accessories,4,4225.38,0.05,845.08,16901.52,16056.44,8067.41,7989.03,49.76,Distributor,Debit Card,Completed
+ORD00800,2025-08-14,CUST0167,Small Business,North,Chandigarh,Ananya Desai,Office Chair,Furniture,4,8194.5,0.0,0.0,32778.0,32778.0,21723.28,11054.72,33.73,Marketplace,Cash,Cancelled
+ORD00388,2025-08-15,CUST0120,Corporate,Central,Bhopal,Aarav Sharma,Laptop,Electronics,4,81999.07,0.2,65599.26,327996.28,262397.02,209556.79,52840.23,20.14,Distributor,Net Banking,Completed
+ORD00899,2025-08-15,CUST0155,Corporate,Central,Indore,Aarav Sharma,Keyboard,Accessories,2,2838.66,0.15,851.6,5677.32,4825.72,2667.12,2158.6,44.73,Online,Cash,Completed
+ORD00234,2025-08-17,CUST0084,Consumer,Central,Bhopal,Kabir Joshi,Monitor,Electronics,8,8723.16,0.05,3489.26,69785.28,66296.02,53286.38,13009.64,19.62,Marketplace,UPI,Completed
+ORD00647,2025-08-22,CUST0203,Consumer,South,Chennai,Rohan Singh,USB Drive,Accessories,8,650.58,0.2,1040.93,5204.64,4163.71,2305.03,1858.68,44.64,Retail Store,Cash,Completed
+ORD00973,2025-08-22,CUST0191,Corporate,North,Chandigarh,Ananya Desai,Office Chair,Furniture,1,6502.91,0.05,325.15,6502.91,6177.76,4111.6,2066.16,33.45,Marketplace,Net Banking,Cancelled
+ORD00015,2025-08-23,CUST0139,Consumer,North,Delhi,Meera Nair,Desk,Furniture,4,7346.29,0.05,1469.26,29385.16,27915.9,20669.38,7246.52,25.96,Marketplace,Credit Card,Completed
+ORD00361,2025-08-23,CUST0122,Consumer,North,Jaipur,Diya Patel,Keyboard,Accessories,7,2166.02,0.0,0.0,15162.14,15162.14,6617.68,8544.46,56.35,Marketplace,Cash,Completed
+ORD00943,2025-08-24,CUST0168,Consumer,South,Kochi,Ananya Desai,Keyboard,Accessories,5,632.74,0.1,316.37,3163.7,2847.33,1205.03,1642.3,57.68,Retail Store,Debit Card,Returned
+ORD00293,2025-08-25,CUST0093,Corporate,West,Ahmedabad,Rohan Singh,Office Chair,Furniture,2,10767.74,0.0,0.0,21535.48,21535.48,16309.79,5225.69,24.27,Marketplace,UPI,Completed
+ORD00005,2025-08-27,CUST0172,Small Business,North,Lucknow,Meera Nair,Office Chair,Furniture,6,10621.04,0.0,0.0,63726.24,63726.24,42481.99,21244.25,33.34,Online,Net Banking,Completed
+ORD00376,2025-08-27,CUST0096,Small Business,North,Chandigarh,Meera Nair,Laptop,Electronics,6,63223.92,0.1,37934.35,379343.52,341409.17,262834.62,78574.55,23.01,Online,Debit Card,Returned
+ORD00527,2025-08-27,CUST0122,Corporate,West,Surat,Kabir Joshi,Office Chair,Furniture,5,14825.03,0.2,14825.03,74125.15,59300.12,45648.08,13652.04,23.02,Marketplace,Cash,Completed
+ORD00669,2025-08-27,CUST0194,Consumer,Central,Bhopal,Kabir Joshi,Keyboard,Accessories,2,563.64,0.05,56.36,1127.28,1070.92,491.66,579.26,54.09,Online,UPI,Returned
+ORD00619,2025-08-28,CUST0029,Small Business,West,Ahmedabad,Kabir Joshi,Laptop,Electronics,4,54072.52,0.0,0.0,216290.08,216290.08,162514.72,53775.36,24.86,Marketplace,Credit Card,Returned
+ORD00644,2025-08-28,CUST0202,Small Business,East,Kolkata,Diya Patel,Desk,Furniture,5,23128.04,0.15,17346.03,115640.2,98294.17,70015.17,28279.0,28.77,Online,UPI,Completed
+ORD00292,2025-08-29,CUST0020,Corporate,North,Delhi,Meera Nair,Smartphone,Electronics,8,50995.84,0.0,0.0,407966.72,407966.72,364076.4,43890.32,10.76,Online,Debit Card,Cancelled
+ORD00367,2025-08-29,CUST0141,Consumer,East,Kolkata,Aarav Sharma,Keyboard,Accessories,2,1000.73,0.0,0.0,2001.46,2001.46,832.5,1168.96,58.41,Marketplace,Net Banking,Returned
+ORD00865,2025-08-29,CUST0077,Consumer,West,Surat,Aarav Sharma,Smartphone,Electronics,1,12915.45,0.05,645.77,12915.45,12269.68,9713.85,2555.83,20.83,Distributor,Net Banking,Returned
+ORD00380,2025-08-30,CUST0003,Consumer,West,Ahmedabad,Kabir Joshi,Laptop,Electronics,5,49196.5,0.15,36897.38,245982.5,209085.12,154544.0,54541.12,26.09,Marketplace,Net Banking,Completed
+ORD00546,2025-09-01,CUST0056,Consumer,Central,Bhopal,Aarav Sharma,Desk,Furniture,7,12256.43,0.2,17159.0,85795.01,68636.01,51745.55,16890.46,24.61,Retail Store,Credit Card,Returned
+ORD00625,2025-09-02,CUST0113,Consumer,East,Kolkata,Meera Nair,Desk,Furniture,4,15873.83,0.0,0.0,63495.32,63495.32,48233.26,15262.06,24.04,Marketplace,Net Banking,Cancelled
+ORD00177,2025-09-03,CUST0226,Small Business,Central,Nagpur,Ananya Desai,Office Chair,Furniture,6,9638.93,0.05,2891.68,57833.58,54941.9,35551.86,19390.04,35.29,Online,Cash,Cancelled
+ORD00225,2025-09-03,CUST0093,Small Business,West,Surat,Diya Patel,Smartphone,Electronics,2,22366.52,0.15,6709.96,44733.04,38023.08,33586.12,4436.96,11.67,Marketplace,Net Banking,Completed
+ORD00657,2025-09-03,CUST0233,Small Business,South,Hyderabad,Ananya Desai,Office Chair,Furniture,2,13499.87,0.2,5399.95,26999.74,21599.79,15784.63,5815.16,26.92,Online,Debit Card,Completed
+ORD00409,2025-09-04,CUST0168,Consumer,Central,Indore,Kabir Joshi,Monitor,Electronics,6,31263.43,0.1,18758.06,187580.58,168822.52,129445.92,39376.6,23.32,Retail Store,Credit Card,Completed
+ORD00141,2025-09-05,CUST0222,Corporate,West,Mumbai,Ananya Desai,Office Chair,Furniture,3,10569.55,0.0,0.0,31708.65,31708.65,19314.02,12394.63,39.09,Retail Store,Credit Card,Returned
+ORD00790,2025-09-05,CUST0210,Corporate,North,Lucknow,Kabir Joshi,Laptop,Electronics,3,42667.79,0.05,6400.17,128003.37,121603.2,103912.75,17690.45,14.55,Distributor,Debit Card,Cancelled
+ORD00196,2025-09-06,CUST0052,Corporate,East,Patna,Kabir Joshi,Office Chair,Furniture,7,15522.68,0.05,5432.94,108658.76,103225.82,64051.6,39174.22,37.95,Retail Store,Net Banking,Cancelled
+ORD00184,2025-09-07,CUST0142,Small Business,South,Hyderabad,Aarav Sharma,Smartphone,Electronics,1,40110.64,0.0,0.0,40110.64,40110.64,32521.38,7589.26,18.92,Online,Credit Card,Returned
+ORD00478,2025-09-07,CUST0021,Consumer,Central,Bhopal,Aarav Sharma,Headphones,Accessories,7,1369.82,0.0,0.0,9588.74,9588.74,4352.4,5236.34,54.61,Retail Store,UPI,Returned
+ORD00951,2025-09-07,CUST0098,Corporate,Central,Raipur,Meera Nair,Laptop,Electronics,6,45291.05,0.0,0.0,271746.3,271746.3,202037.96,69708.34,25.65,Online,Debit Card,Completed
+ORD00076,2025-09-08,CUST0175,Consumer,Central,Raipur,Ananya Desai,Headphones,Accessories,2,1768.91,0.15,530.67,3537.82,3007.15,2007.9,999.25,33.23,Retail Store,Credit Card,Cancelled
+ORD00827,2025-09-08,CUST0164,Consumer,Central,Raipur,Rohan Singh,Desk,Furniture,2,9919.84,0.0,0.0,19839.68,19839.68,15588.36,4251.32,21.43,Marketplace,Net Banking,Returned
+ORD00967,2025-09-08,CUST0019,Small Business,West,Mumbai,Rohan Singh,Laptop,Electronics,7,74190.17,0.15,77899.68,519331.19,441431.51,388144.34,53287.17,12.07,Online,Net Banking,Returned
+ORD00589,2025-09-09,CUST0093,Corporate,West,Ahmedabad,Meera Nair,Office Chair,Furniture,2,11317.81,0.05,1131.78,22635.62,21503.84,14343.89,7159.95,33.3,Retail Store,Credit Card,Returned
+ORD00804,2025-09-09,CUST0184,Small Business,North,Chandigarh,Diya Patel,Desk,Furniture,6,13067.32,0.0,0.0,78403.92,78403.92,48746.38,29657.54,37.83,Marketplace,Net Banking,Completed
+ORD00021,2025-09-10,CUST0062,Small Business,Central,Bhopal,Ananya Desai,Smartphone,Electronics,6,30026.67,0.05,9008.0,180160.02,171152.02,133607.92,37544.1,21.94,Retail Store,Debit Card,Completed
+ORD00597,2025-09-11,CUST0213,Small Business,North,Jaipur,Aarav Sharma,Keyboard,Accessories,6,2968.53,0.1,1781.12,17811.18,16030.06,6804.71,9225.35,57.55,Online,UPI,Returned
+ORD00732,2025-09-11,CUST0047,Consumer,West,Pune,Kabir Joshi,USB Drive,Accessories,2,1359.69,0.2,543.88,2719.38,2175.5,1158.7,1016.8,46.74,Retail Store,Credit Card,Cancelled
+ORD00824,2025-09-11,CUST0194,Consumer,West,Mumbai,Aarav Sharma,Laptop,Electronics,5,77213.84,0.0,0.0,386069.2,386069.2,310416.26,75652.94,19.6,Online,Debit Card,Completed
+ORD00354,2025-09-12,CUST0122,Small Business,East,Kolkata,Rohan Singh,Monitor,Electronics,6,23842.45,0.0,0.0,143054.7,143054.7,109970.19,33084.51,23.13,Retail Store,Net Banking,Completed
+ORD00378,2025-09-12,CUST0134,Corporate,West,Surat,Diya Patel,Keyboard,Accessories,1,2712.86,0.0,0.0,2712.86,2712.86,1397.69,1315.17,48.48,Marketplace,Cash,Completed
+ORD00744,2025-09-12,CUST0068,Corporate,South,Bengaluru,Diya Patel,Laptop,Electronics,6,69891.76,0.05,20967.53,419350.56,398383.03,292142.0,106241.03,26.67,Marketplace,Net Banking,Cancelled
+ORD00553,2025-09-13,CUST0067,Consumer,Central,Indore,Meera Nair,Monitor,Electronics,6,26816.06,0.1,16089.64,160896.36,144806.72,109551.86,35254.86,24.35,Distributor,Debit Card,Completed
+ORD00861,2025-09-13,CUST0155,Corporate,North,Delhi,Diya Patel,Laptop,Electronics,3,47448.78,0.05,7117.32,142346.34,135229.02,98310.84,36918.18,27.3,Distributor,Credit Card,Completed
+ORD00078,2025-09-14,CUST0092,Corporate,West,Ahmedabad,Rohan Singh,Keyboard,Accessories,8,3498.12,0.0,0.0,27984.96,27984.96,12853.53,15131.43,54.07,Distributor,UPI,Cancelled
+ORD00080,2025-09-14,CUST0024,Small Business,South,Bengaluru,Rohan Singh,Laptop,Electronics,8,55284.11,0.0,0.0,442272.88,442272.88,359449.24,82823.64,18.73,Marketplace,Credit Card,Completed
+ORD00194,2025-09-15,CUST0086,Corporate,South,Kochi,Ananya Desai,Keyboard,Accessories,3,1873.58,0.05,281.04,5620.74,5339.7,2144.91,3194.79,59.83,Distributor,Cash,Returned
+ORD00324,2025-09-16,CUST0019,Small Business,South,Bengaluru,Meera Nair,Headphones,Accessories,1,4624.57,0.15,693.69,4624.57,3930.88,2222.19,1708.69,43.47,Online,Debit Card,Cancelled
+ORD00344,2025-09-17,CUST0124,Consumer,East,Patna,Rohan Singh,Desk,Furniture,7,17625.73,0.0,0.0,123380.11,123380.11,85672.81,37707.3,30.56,Marketplace,Debit Card,Cancelled
+ORD00549,2025-09-17,CUST0220,Small Business,Central,Raipur,Ananya Desai,Office Chair,Furniture,6,13125.81,0.2,15750.97,78754.86,63003.89,39186.51,23817.38,37.8,Online,Cash,Completed
+ORD00560,2025-09-17,CUST0011,Corporate,Central,Raipur,Diya Patel,Office Chair,Furniture,6,17696.57,0.0,0.0,106179.42,106179.42,82209.46,23969.96,22.57,Distributor,Credit Card,Cancelled
+ORD00550,2025-09-19,CUST0203,Consumer,East,Kolkata,Rohan Singh,Keyboard,Accessories,3,1392.27,0.1,417.68,4176.81,3759.13,2096.99,1662.14,44.22,Online,Cash,Returned
+ORD00352,2025-09-21,CUST0175,Small Business,Central,Nagpur,Kabir Joshi,USB Drive,Accessories,8,1749.08,0.0,0.0,13992.64,13992.64,7547.19,6445.45,46.06,Online,Cash,Returned
+ORD00608,2025-09-21,CUST0040,Small Business,North,Delhi,Ananya Desai,Smartphone,Electronics,5,35296.51,0.0,0.0,176482.55,176482.55,137197.59,39284.96,22.26,Retail Store,UPI,Completed
+ORD00694,2025-09-21,CUST0224,Consumer,West,Mumbai,Kabir Joshi,Headphones,Accessories,8,6059.6,0.0,0.0,48476.8,48476.8,31455.87,17020.93,35.11,Online,Debit Card,Completed
+ORD00746,2025-09-21,CUST0040,Small Business,Central,Indore,Diya Patel,USB Drive,Accessories,5,630.96,0.0,0.0,3154.8,3154.8,1562.94,1591.86,50.46,Marketplace,Debit Card,Returned
+ORD00544,2025-09-22,CUST0081,Corporate,East,Bhubaneswar,Rohan Singh,Laptop,Electronics,8,83442.84,0.0,0.0,667542.72,667542.72,486540.09,181002.63,27.11,Online,Cash,Completed
+ORD00586,2025-09-22,CUST0155,Corporate,East,Guwahati,Aarav Sharma,Laptop,Electronics,5,75114.08,0.0,0.0,375570.4,375570.4,321693.06,53877.34,14.35,Online,Cash,Cancelled
+ORD00874,2025-09-23,CUST0020,Corporate,East,Kolkata,Ananya Desai,Desk,Furniture,1,16268.39,0.15,2440.26,16268.39,13828.13,9157.62,4670.51,33.78,Online,Net Banking,Completed
+ORD00795,2025-09-24,CUST0029,Small Business,North,Jaipur,Kabir Joshi,Smartphone,Electronics,1,52203.96,0.2,10440.79,52203.96,41763.17,37491.62,4271.55,10.23,Online,UPI,Completed
+ORD00239,2025-09-25,CUST0035,Corporate,East,Patna,Aarav Sharma,Desk,Furniture,5,12043.1,0.0,0.0,60215.5,60215.5,38143.13,22072.37,36.66,Retail Store,UPI,Completed
+ORD00615,2025-09-25,CUST0085,Consumer,West,Ahmedabad,Meera Nair,Keyboard,Accessories,6,2486.83,0.05,746.05,14920.98,14174.93,6416.37,7758.56,54.73,Retail Store,UPI,Cancelled
+ORD00646,2025-09-25,CUST0121,Corporate,North,Jaipur,Kabir Joshi,Office Chair,Furniture,7,15601.17,0.1,10920.82,109208.19,98287.37,73512.57,24774.8,25.21,Retail Store,Cash,Completed
+ORD00856,2025-09-25,CUST0061,Small Business,South,Hyderabad,Aarav Sharma,Laptop,Electronics,6,47989.41,0.2,57587.29,287936.46,230349.17,199475.73,30873.44,13.4,Online,Debit Card,Completed
+ORD00953,2025-09-25,CUST0071,Corporate,East,Bhubaneswar,Meera Nair,Laptop,Electronics,8,58092.16,0.0,0.0,464737.28,464737.28,391176.36,73560.92,15.83,Retail Store,Debit Card,Returned
+ORD00347,2025-09-27,CUST0074,Corporate,South,Hyderabad,Kabir Joshi,Smartphone,Electronics,7,38188.24,0.1,26731.77,267317.68,240585.91,202596.15,37989.76,15.79,Online,Credit Card,Cancelled
+ORD00986,2025-09-27,CUST0116,Small Business,West,Ahmedabad,Ananya Desai,Desk,Furniture,6,8754.74,0.2,10505.69,52528.44,42022.75,28731.29,13291.46,31.63,Marketplace,Cash,Completed
+ORD00982,2025-09-28,CUST0125,Consumer,Central,Indore,Rohan Singh,Desk,Furniture,5,11230.48,0.2,11230.48,56152.4,44921.92,31409.76,13512.16,30.08,Marketplace,Cash,Completed
+ORD00575,2025-09-29,CUST0005,Consumer,East,Bhubaneswar,Ananya Desai,Keyboard,Accessories,5,1055.26,0.2,1055.26,5276.3,4221.04,1800.62,2420.42,57.34,Online,UPI,Cancelled
+ORD00729,2025-09-30,CUST0129,Corporate,North,Lucknow,Meera Nair,USB Drive,Accessories,3,1125.19,0.05,168.78,3375.57,3206.79,1724.52,1482.27,46.22,Marketplace,Credit Card,Returned
+ORD00010,2025-10-01,CUST0129,Consumer,East,Kolkata,Kabir Joshi,Office Chair,Furniture,8,10369.33,0.0,0.0,82954.64,82954.64,64015.01,18939.63,22.83,Online,Debit Card,Completed
+ORD00955,2025-10-01,CUST0157,Small Business,West,Ahmedabad,Meera Nair,Smartphone,Electronics,1,21516.92,0.2,4303.38,21516.92,17213.54,13748.31,3465.23,20.13,Marketplace,Net Banking,Completed
+ORD00909,2025-10-02,CUST0132,Corporate,South,Kochi,Meera Nair,USB Drive,Accessories,4,769.52,0.05,153.9,3078.08,2924.18,1360.75,1563.43,53.47,Online,UPI,Returned
+ORD00355,2025-10-03,CUST0053,Consumer,South,Chennai,Diya Patel,USB Drive,Accessories,4,1405.67,0.2,1124.54,5622.68,4498.14,1846.55,2651.59,58.95,Retail Store,Net Banking,Completed
+ORD00567,2025-10-03,CUST0034,Consumer,Central,Bhopal,Aarav Sharma,Desk,Furniture,8,24425.64,0.05,9770.26,195405.12,185634.86,146750.91,38883.95,20.95,Distributor,Debit Card,Cancelled
+ORD00290,2025-10-04,CUST0073,Consumer,Central,Indore,Aarav Sharma,Monitor,Electronics,2,27766.32,0.15,8329.9,55532.64,47202.74,37526.3,9676.44,20.5,Marketplace,Credit Card,Completed
+ORD00903,2025-10-04,CUST0155,Consumer,North,Delhi,Aarav Sharma,Smartphone,Electronics,7,33693.92,0.0,0.0,235857.44,235857.44,177414.62,58442.82,24.78,Marketplace,Credit Card,Cancelled
+ORD00832,2025-10-05,CUST0239,Small Business,South,Chennai,Diya Patel,Monitor,Electronics,2,21630.62,0.05,2163.06,43261.24,41098.18,29385.91,11712.27,28.5,Marketplace,Cash,Returned
+ORD00675,2025-10-06,CUST0157,Corporate,West,Mumbai,Ananya Desai,Desk,Furniture,3,13566.64,0.1,4069.99,40699.92,36629.93,25620.72,11009.21,30.06,Retail Store,Cash,Cancelled
+ORD00043,2025-10-07,CUST0236,Consumer,West,Surat,Kabir Joshi,Laptop,Electronics,7,58720.86,0.2,82209.2,411046.02,328836.82,245446.16,83390.66,25.36,Online,Cash,Returned
+ORD00100,2025-10-07,CUST0135,Corporate,South,Bengaluru,Rohan Singh,Desk,Furniture,5,14168.36,0.2,14168.36,70841.8,56673.44,42058.92,14614.52,25.79,Online,Credit Card,Returned
+ORD00923,2025-10-07,CUST0211,Consumer,North,Jaipur,Meera Nair,USB Drive,Accessories,5,897.44,0.05,224.36,4487.2,4262.84,2158.35,2104.49,49.37,Marketplace,Net Banking,Cancelled
+ORD00219,2025-10-08,CUST0186,Corporate,North,Jaipur,Diya Patel,Office Chair,Furniture,3,5612.68,0.0,0.0,16838.04,16838.04,11304.07,5533.97,32.87,Marketplace,UPI,Completed
+ORD00780,2025-10-08,CUST0048,Consumer,West,Mumbai,Aarav Sharma,Office Chair,Furniture,8,16295.97,0.1,13036.78,130367.76,117330.98,81481.68,35849.3,30.55,Marketplace,Debit Card,Completed
+ORD00547,2025-10-09,CUST0082,Corporate,West,Surat,Ananya Desai,Office Chair,Furniture,1,16149.15,0.1,1614.91,16149.15,14534.24,10116.19,4418.05,30.4,Marketplace,Credit Card,Completed
+ORD00052,2025-10-10,CUST0177,Small Business,Central,Bhopal,Meera Nair,Keyboard,Accessories,7,756.84,0.1,529.79,5297.88,4768.09,2569.02,2199.07,46.12,Marketplace,Cash,Completed
+ORD00070,2025-10-10,CUST0149,Corporate,West,Ahmedabad,Ananya Desai,Office Chair,Furniture,5,15577.42,0.2,15577.42,77887.1,62309.68,40734.33,21575.35,34.63,Retail Store,Cash,Cancelled
+ORD00327,2025-10-11,CUST0125,Corporate,East,Bhubaneswar,Aarav Sharma,Desk,Furniture,8,22679.83,0.1,18143.86,181438.64,163294.78,111787.28,51507.5,31.54,Retail Store,Net Banking,Completed
+ORD00466,2025-10-11,CUST0100,Small Business,West,Ahmedabad,Aarav Sharma,Office Chair,Furniture,2,6686.54,0.05,668.65,13373.08,12704.43,9399.74,3304.69,26.01,Distributor,Debit Card,Returned
+ORD00003,2025-10-12,CUST0155,Small Business,South,Chennai,Aarav Sharma,Desk,Furniture,7,7942.0,0.0,0.0,55594.0,55594.0,38060.56,17533.44,31.54,Marketplace,Net Banking,Completed
+ORD00548,2025-10-12,CUST0009,Corporate,South,Hyderabad,Meera Nair,USB Drive,Accessories,5,1373.51,0.0,0.0,6867.55,6867.55,3511.72,3355.83,48.87,Online,Credit Card,Cancelled
+ORD00131,2025-10-13,CUST0031,Small Business,South,Bengaluru,Rohan Singh,Laptop,Electronics,8,73634.02,0.15,88360.82,589072.16,500711.34,391515.2,109196.14,21.81,Marketplace,Credit Card,Cancelled
+ORD00990,2025-10-14,CUST0237,Small Business,Central,Raipur,Aarav Sharma,Laptop,Electronics,6,46361.92,0.05,13908.58,278171.52,264262.94,213012.66,51250.28,19.39,Marketplace,Credit Card,Returned
+ORD00061,2025-10-17,CUST0166,Consumer,West,Mumbai,Rohan Singh,Keyboard,Accessories,4,3271.73,0.1,1308.69,13086.92,11778.23,5049.26,6728.97,57.13,Retail Store,UPI,Completed
+ORD00317,2025-10-17,CUST0022,Consumer,North,Jaipur,Diya Patel,USB Drive,Accessories,5,1030.21,0.2,1030.21,5151.05,4120.84,1640.62,2480.22,60.19,Online,UPI,Cancelled
+ORD00701,2025-10-17,CUST0218,Corporate,East,Bhubaneswar,Rohan Singh,Monitor,Electronics,6,9432.99,0.15,8489.69,56597.94,48108.25,39378.38,8729.87,18.15,Marketplace,Credit Card,Completed
+ORD00893,2025-10-17,CUST0143,Corporate,South,Chennai,Diya Patel,Smartphone,Electronics,4,52885.81,0.0,0.0,211543.24,211543.24,172439.01,39104.23,18.49,Retail Store,UPI,Returned
+ORD00844,2025-10-18,CUST0114,Consumer,West,Mumbai,Rohan Singh,Monitor,Electronics,5,7275.49,0.0,0.0,36377.45,36377.45,28491.45,7886.0,21.68,Retail Store,Cash,Cancelled
+ORD00156,2025-10-22,CUST0190,Corporate,East,Guwahati,Aarav Sharma,Laptop,Electronics,2,81041.29,0.2,32416.52,162082.58,129666.06,105270.86,24395.2,18.81,Retail Store,Cash,Cancelled
+ORD00652,2025-10-26,CUST0101,Consumer,Central,Bhopal,Aarav Sharma,USB Drive,Accessories,1,386.18,0.0,0.0,386.18,386.18,166.71,219.47,56.83,Retail Store,Net Banking,Returned
+ORD00905,2025-10-26,CUST0130,Consumer,West,Mumbai,Ananya Desai,Keyboard,Accessories,5,3400.66,0.1,1700.33,17003.3,15302.97,7209.32,8093.65,52.89,Online,Cash,Cancelled
+ORD00210,2025-10-27,CUST0141,Corporate,North,Jaipur,Aarav Sharma,Keyboard,Accessories,3,2112.83,0.1,633.85,6338.49,5704.64,3088.56,2616.08,45.86,Online,Debit Card,Returned
+ORD00449,2025-10-29,CUST0061,Small Business,North,Jaipur,Meera Nair,Laptop,Electronics,6,42036.26,0.0,0.0,252217.56,252217.56,216352.14,35865.42,14.22,Marketplace,Debit Card,Completed
+ORD00639,2025-10-29,CUST0227,Small Business,South,Hyderabad,Diya Patel,Keyboard,Accessories,5,659.78,0.0,0.0,3298.9,3298.9,2021.82,1277.08,38.71,Online,Cash,Cancelled
+ORD00745,2025-10-29,CUST0066,Consumer,East,Kolkata,Kabir Joshi,Laptop,Electronics,4,77429.07,0.2,61943.26,309716.28,247773.02,216661.75,31111.27,12.56,Online,Cash,Completed
+ORD00988,2025-10-29,CUST0205,Consumer,East,Kolkata,Kabir Joshi,Desk,Furniture,7,14122.47,0.05,4942.86,98857.29,93914.43,67660.86,26253.57,27.95,Marketplace,Debit Card,Completed
+ORD00162,2025-10-30,CUST0096,Small Business,East,Bhubaneswar,Meera Nair,Keyboard,Accessories,8,3372.08,0.0,0.0,26976.64,26976.64,13859.1,13117.54,48.63,Marketplace,Net Banking,Cancelled
+ORD00949,2025-10-31,CUST0163,Consumer,North,Jaipur,Kabir Joshi,Headphones,Accessories,7,2471.47,0.0,0.0,17300.29,17300.29,9717.44,7582.85,43.83,Online,Debit Card,Completed
+ORD00059,2025-11-01,CUST0196,Consumer,Central,Raipur,Meera Nair,Office Chair,Furniture,1,12176.5,0.15,1826.47,12176.5,10350.02,7998.7,2351.32,22.72,Retail Store,Debit Card,Completed
+ORD00781,2025-11-01,CUST0179,Small Business,South,Chennai,Rohan Singh,Desk,Furniture,8,23896.89,0.1,19117.51,191175.12,172057.61,123260.55,48797.06,28.36,Marketplace,UPI,Completed
+ORD00725,2025-11-02,CUST0111,Small Business,East,Kolkata,Diya Patel,Laptop,Electronics,3,57038.03,0.1,17111.41,171114.09,154002.68,119617.76,34384.92,22.33,Online,Net Banking,Completed
+ORD00264,2025-11-03,CUST0045,Consumer,North,Lucknow,Diya Patel,Laptop,Electronics,3,63590.36,0.0,0.0,190771.08,190771.08,166329.64,24441.44,12.81,Retail Store,Credit Card,Returned
+ORD00633,2025-11-03,CUST0164,Consumer,West,Ahmedabad,Meera Nair,Headphones,Accessories,1,1397.63,0.1,139.76,1397.63,1257.87,635.04,622.83,49.51,Retail Store,Cash,Completed
+ORD00762,2025-11-03,CUST0226,Corporate,West,Surat,Aarav Sharma,Desk,Furniture,1,14435.5,0.05,721.78,14435.5,13713.73,8777.17,4936.56,36.0,Retail Store,Net Banking,Completed
+ORD00172,2025-11-04,CUST0165,Corporate,East,Kolkata,Ananya Desai,Headphones,Accessories,7,4368.16,0.15,4586.57,30577.12,25990.55,14916.11,11074.44,42.61,Distributor,Cash,Completed
+ORD00395,2025-11-04,CUST0210,Consumer,North,Lucknow,Kabir Joshi,Keyboard,Accessories,6,2702.8,0.1,1621.68,16216.8,14595.12,6468.93,8126.19,55.68,Distributor,UPI,Cancelled
+ORD00314,2025-11-05,CUST0134,Consumer,West,Ahmedabad,Kabir Joshi,Smartphone,Electronics,6,45713.35,0.15,41142.01,274280.1,233138.08,182545.79,50592.29,21.7,Retail Store,Cash,Completed
+ORD00952,2025-11-06,CUST0215,Small Business,West,Surat,Aarav Sharma,Laptop,Electronics,5,49909.01,0.2,49909.01,249545.05,199636.04,164592.58,35043.46,17.55,Retail Store,Net Banking,Completed
+ORD00269,2025-11-07,CUST0199,Small Business,East,Guwahati,Rohan Singh,USB Drive,Accessories,2,1587.35,0.0,0.0,3174.7,3174.7,1217.8,1956.9,61.64,Marketplace,Net Banking,Returned
+ORD00946,2025-11-07,CUST0183,Small Business,West,Ahmedabad,Kabir Joshi,Smartphone,Electronics,8,37956.35,0.15,45547.62,303650.8,258103.18,208011.49,50091.69,19.41,Distributor,UPI,Returned
+ORD01000,2025-11-07,CUST0032,Small Business,South,Kochi,Aarav Sharma,Office Chair,Furniture,4,7645.21,0.05,1529.04,30580.84,29051.8,17573.82,11477.98,39.51,Marketplace,Credit Card,Returned
+ORD00595,2025-11-08,CUST0013,Corporate,West,Mumbai,Aarav Sharma,Laptop,Electronics,5,78188.09,0.2,78188.09,390940.45,312752.36,250577.16,62175.2,19.88,Marketplace,Debit Card,Completed
+ORD00602,2025-11-09,CUST0018,Consumer,East,Bhubaneswar,Ananya Desai,Headphones,Accessories,8,5469.01,0.0,0.0,43752.08,43752.08,21026.46,22725.62,51.94,Marketplace,Net Banking,Completed
+ORD00677,2025-11-10,CUST0051,Consumer,West,Ahmedabad,Diya Patel,Monitor,Electronics,8,21053.55,0.0,0.0,168428.4,168428.4,123511.49,44916.91,26.67,Online,UPI,Returned
+ORD00831,2025-11-10,CUST0225,Small Business,North,Lucknow,Kabir Joshi,Desk,Furniture,1,18544.81,0.0,0.0,18544.81,18544.81,12337.08,6207.73,33.47,Retail Store,UPI,Completed
+ORD00345,2025-11-11,CUST0026,Consumer,Central,Nagpur,Kabir Joshi,Monitor,Electronics,2,25394.56,0.2,10157.82,50789.12,40631.3,29123.03,11508.27,28.32,Marketplace,Debit Card,Completed
+ORD00939,2025-11-11,CUST0176,Corporate,North,Chandigarh,Rohan Singh,Keyboard,Accessories,7,3073.29,0.0,0.0,21513.03,21513.03,12499.79,9013.24,41.9,Online,Cash,Completed
+ORD00972,2025-11-11,CUST0038,Corporate,South,Hyderabad,Rohan Singh,USB Drive,Accessories,5,1369.62,0.0,0.0,6848.1,6848.1,3670.12,3177.98,46.41,Marketplace,Debit Card,Completed
+ORD00410,2025-11-13,CUST0082,Consumer,Central,Indore,Kabir Joshi,Monitor,Electronics,3,31892.15,0.2,19135.29,95676.45,76541.16,63474.42,13066.74,17.07,Online,Credit Card,Completed
+ORD00442,2025-11-14,CUST0101,Consumer,West,Surat,Meera Nair,Keyboard,Accessories,3,3342.34,0.15,1504.05,10027.02,8522.97,3959.03,4563.94,53.55,Distributor,Debit Card,Completed
+ORD00603,2025-11-14,CUST0196,Consumer,Central,Raipur,Kabir Joshi,Desk,Furniture,8,20845.64,0.2,33353.02,166765.12,133412.1,102735.73,30676.37,22.99,Marketplace,Cash,Completed
+ORD00748,2025-11-14,CUST0063,Small Business,South,Chennai,Meera Nair,Monitor,Electronics,4,24184.17,0.0,0.0,96736.68,96736.68,68002.36,28734.32,29.7,Marketplace,UPI,Returned
+ORD00271,2025-11-15,CUST0215,Consumer,Central,Raipur,Diya Patel,Headphones,Accessories,1,5248.94,0.0,0.0,5248.94,5248.94,2614.97,2633.97,50.18,Online,Cash,Completed
+ORD00624,2025-11-15,CUST0216,Small Business,North,Delhi,Diya Patel,Laptop,Electronics,1,62638.56,0.15,9395.78,62638.56,53242.78,45126.2,8116.58,15.24,Online,Cash,Completed
+ORD00944,2025-11-15,CUST0214,Consumer,West,Surat,Ananya Desai,Laptop,Electronics,7,53223.84,0.0,0.0,372566.88,372566.88,277997.06,94569.82,25.38,Online,Debit Card,Cancelled
+ORD00379,2025-11-16,CUST0051,Small Business,East,Bhubaneswar,Aarav Sharma,Laptop,Electronics,2,74023.16,0.05,7402.32,148046.32,140644.0,112092.81,28551.19,20.3,Retail Store,UPI,Completed
+ORD00207,2025-11-17,CUST0108,Corporate,North,Chandigarh,Diya Patel,Office Chair,Furniture,6,6078.81,0.2,7294.57,36472.86,29178.29,18249.4,10928.89,37.46,Marketplace,Cash,Returned
+ORD00066,2025-11-19,CUST0169,Corporate,East,Guwahati,Ananya Desai,Smartphone,Electronics,7,53717.94,0.15,56403.84,376025.58,319621.74,279266.01,40355.73,12.63,Marketplace,UPI,Completed
+ORD00007,2025-11-20,CUST0227,Corporate,West,Ahmedabad,Ananya Desai,Smartphone,Electronics,6,21072.26,0.0,0.0,126433.56,126433.56,107255.59,19177.97,15.17,Retail Store,Debit Card,Returned
+ORD00253,2025-11-21,CUST0033,Consumer,South,Hyderabad,Meera Nair,Keyboard,Accessories,3,2496.6,0.1,748.98,7489.8,6740.82,3213.39,3527.43,52.33,Online,Net Banking,Completed
+ORD00427,2025-11-21,CUST0127,Consumer,East,Guwahati,Kabir Joshi,Headphones,Accessories,8,4301.45,0.15,5161.74,34411.6,29249.86,18494.57,10755.29,36.77,Retail Store,Debit Card,Returned
+ORD00783,2025-11-21,CUST0163,Small Business,North,Lucknow,Meera Nair,Office Chair,Furniture,1,11529.34,0.1,1152.93,11529.34,10376.41,7987.74,2388.67,23.02,Online,UPI,Completed
+ORD00926,2025-11-21,CUST0017,Consumer,South,Hyderabad,Kabir Joshi,Laptop,Electronics,7,82443.44,0.1,57710.41,577104.08,519393.67,443580.2,75813.47,14.6,Retail Store,Debit Card,Completed
+ORD00411,2025-11-22,CUST0039,Consumer,South,Bengaluru,Aarav Sharma,Desk,Furniture,7,22722.51,0.1,15905.76,159057.57,143151.81,96570.59,46581.22,32.54,Retail Store,Credit Card,Completed
+ORD00929,2025-11-22,CUST0225,Corporate,Central,Bhopal,Diya Patel,Headphones,Accessories,4,5295.8,0.2,4236.64,21183.2,16946.56,9212.7,7733.86,45.64,Distributor,Credit Card,Completed
+ORD00147,2025-11-23,CUST0209,Consumer,South,Kochi,Rohan Singh,Office Chair,Furniture,8,12515.28,0.2,20024.45,100122.24,80097.79,56174.69,23923.1,29.87,Distributor,UPI,Returned
+ORD00438,2025-11-23,CUST0144,Corporate,West,Mumbai,Aarav Sharma,Office Chair,Furniture,5,6515.83,0.0,0.0,32579.15,32579.15,19636.96,12942.19,39.73,Retail Store,Net Banking,Cancelled
+ORD00542,2025-11-23,CUST0061,Small Business,North,Chandigarh,Diya Patel,Monitor,Electronics,5,13673.37,0.2,13673.37,68366.85,54693.48,38596.83,16096.65,29.43,Online,Credit Card,Cancelled
+ORD00178,2025-11-24,CUST0142,Corporate,South,Hyderabad,Kabir Joshi,Desk,Furniture,4,13864.67,0.2,11091.74,55458.68,44366.94,28672.85,15694.09,35.37,Marketplace,Debit Card,Completed
+ORD00065,2025-11-25,CUST0209,Corporate,North,Chandigarh,Aarav Sharma,Desk,Furniture,8,13821.26,0.05,5528.5,110570.08,105041.58,77653.57,27388.01,26.07,Marketplace,UPI,Returned
+ORD00375,2025-11-25,CUST0069,Consumer,North,Chandigarh,Meera Nair,Laptop,Electronics,1,83697.8,0.0,0.0,83697.8,83697.8,73283.55,10414.25,12.44,Marketplace,UPI,Completed
+ORD00495,2025-11-25,CUST0129,Corporate,East,Guwahati,Aarav Sharma,Monitor,Electronics,2,13928.63,0.05,1392.86,27857.26,26464.4,19457.59,7006.81,26.48,Marketplace,Net Banking,Returned
+ORD00533,2025-11-25,CUST0007,Corporate,North,Delhi,Rohan Singh,Laptop,Electronics,6,47512.52,0.05,14253.76,285075.12,270821.36,230070.48,40750.88,15.05,Marketplace,UPI,Cancelled
+ORD00850,2025-11-25,CUST0174,Small Business,North,Lucknow,Diya Patel,Monitor,Electronics,4,10330.42,0.0,0.0,41321.68,41321.68,29768.1,11553.58,27.96,Retail Store,Credit Card,Returned
+ORD00993,2025-11-25,CUST0066,Corporate,West,Pune,Meera Nair,USB Drive,Accessories,4,843.31,0.2,674.65,3373.24,2698.59,1599.89,1098.7,40.71,Online,Credit Card,Completed
+ORD00805,2025-11-26,CUST0072,Corporate,South,Bengaluru,Kabir Joshi,Monitor,Electronics,4,14090.36,0.15,8454.22,56361.44,47907.22,34243.8,13663.42,28.52,Online,Net Banking,Cancelled
+ORD00665,2025-11-27,CUST0028,Small Business,Central,Indore,Rohan Singh,Keyboard,Accessories,7,3302.98,0.1,2312.09,23120.86,20808.77,8951.95,11856.82,56.98,Retail Store,UPI,Completed
+ORD00912,2025-11-27,CUST0133,Corporate,Central,Nagpur,Rohan Singh,Headphones,Accessories,4,1606.65,0.15,963.99,6426.6,5462.61,3758.27,1704.34,31.2,Marketplace,Cash,Completed
+ORD00266,2025-11-30,CUST0146,Corporate,East,Patna,Kabir Joshi,Laptop,Electronics,7,75821.68,0.0,0.0,530751.76,530751.76,417335.83,113415.93,21.37,Online,UPI,Completed
+ORD00891,2025-12-01,CUST0111,Consumer,South,Hyderabad,Meera Nair,Office Chair,Furniture,2,10621.76,0.2,4248.7,21243.52,16994.82,12301.34,4693.48,27.62,Distributor,Credit Card,Completed
+ORD00142,2025-12-02,CUST0128,Consumer,Central,Nagpur,Aarav Sharma,Keyboard,Accessories,8,2789.36,0.15,3347.23,22314.88,18967.65,9800.66,9166.99,48.33,Marketplace,Net Banking,Completed
+ORD00030,2025-12-03,CUST0085,Consumer,East,Kolkata,Aarav Sharma,Office Chair,Furniture,7,9240.47,0.2,12936.66,64683.29,51746.63,40186.79,11559.84,22.34,Distributor,Credit Card,Cancelled
+ORD00074,2025-12-03,CUST0061,Corporate,Central,Raipur,Meera Nair,Desk,Furniture,8,17909.18,0.15,21491.02,143273.44,121782.42,76292.04,45490.38,37.35,Distributor,Credit Card,Completed
+ORD00326,2025-12-03,CUST0002,Small Business,Central,Nagpur,Diya Patel,Headphones,Accessories,6,4023.65,0.05,1207.1,24141.9,22934.81,15817.33,7117.48,31.03,Retail Store,Cash,Completed
+ORD00566,2025-12-03,CUST0118,Corporate,North,Jaipur,Meera Nair,Smartphone,Electronics,2,28949.3,0.05,2894.93,57898.6,55003.67,42521.48,12482.19,22.69,Marketplace,Cash,Completed
+ORD00655,2025-12-03,CUST0089,Corporate,Central,Raipur,Meera Nair,USB Drive,Accessories,1,994.04,0.2,198.81,994.04,795.23,296.44,498.79,62.72,Distributor,Cash,Returned
+ORD00715,2025-12-04,CUST0097,Consumer,North,Jaipur,Ananya Desai,Desk,Furniture,3,20783.35,0.0,0.0,62350.05,62350.05,41728.17,20621.88,33.07,Online,UPI,Completed
+ORD00259,2025-12-06,CUST0025,Consumer,South,Chennai,Ananya Desai,Monitor,Electronics,5,24429.92,0.2,24429.92,122149.6,97719.68,70851.04,26868.64,27.5,Marketplace,Credit Card,Completed
+ORD00281,2025-12-06,CUST0149,Corporate,East,Guwahati,Aarav Sharma,Office Chair,Furniture,2,10760.77,0.1,2152.15,21521.54,19369.39,11808.78,7560.61,39.03,Marketplace,Credit Card,Cancelled
+ORD00302,2025-12-06,CUST0001,Small Business,Central,Raipur,Rohan Singh,Desk,Furniture,2,19602.36,0.0,0.0,39204.72,39204.72,29665.33,9539.39,24.33,Distributor,Net Banking,Completed
+ORD00319,2025-12-06,CUST0234,Small Business,North,Delhi,Ananya Desai,Smartphone,Electronics,5,14333.53,0.15,10750.15,71667.65,60917.5,46331.8,14585.7,23.94,Marketplace,Cash,Completed
+ORD00751,2025-12-06,CUST0212,Consumer,West,Pune,Aarav Sharma,Keyboard,Accessories,5,667.63,0.2,667.63,3338.15,2670.52,1431.14,1239.38,46.41,Distributor,UPI,Completed
+ORD00907,2025-12-07,CUST0037,Small Business,South,Bengaluru,Kabir Joshi,Smartphone,Electronics,4,36118.07,0.1,14447.23,144472.28,130025.05,109092.5,20932.55,16.1,Marketplace,Net Banking,Completed
+ORD00195,2025-12-09,CUST0082,Small Business,West,Pune,Meera Nair,Office Chair,Furniture,4,8828.98,0.1,3531.59,35315.92,31784.33,20868.1,10916.23,34.34,Marketplace,Net Banking,Returned
+ORD00825,2025-12-10,CUST0118,Consumer,West,Surat,Rohan Singh,Desk,Furniture,5,24806.07,0.2,24806.07,124030.35,99224.28,70208.0,29016.28,29.24,Distributor,Debit Card,Completed
+ORD00045,2025-12-12,CUST0014,Small Business,West,Ahmedabad,Diya Patel,Monitor,Electronics,2,13306.79,0.1,2661.36,26613.58,23952.22,16361.79,7590.43,31.69,Online,UPI,Cancelled
+ORD00664,2025-12-12,CUST0012,Small Business,South,Bengaluru,Kabir Joshi,Keyboard,Accessories,2,3376.24,0.2,1350.5,6752.48,5401.98,2387.52,3014.46,55.8,Online,Debit Card,Completed
+ORD00637,2025-12-13,CUST0205,Corporate,South,Hyderabad,Ananya Desai,USB Drive,Accessories,6,660.22,0.2,792.26,3961.32,3169.06,1244.93,1924.13,60.72,Online,UPI,Cancelled
+ORD00649,2025-12-14,CUST0151,Consumer,South,Kochi,Kabir Joshi,Monitor,Electronics,7,24144.07,0.2,33801.7,169008.49,135206.79,103570.65,31636.14,23.4,Online,Credit Card,Completed
+ORD00771,2025-12-14,CUST0156,Consumer,East,Guwahati,Diya Patel,Monitor,Electronics,7,8000.32,0.0,0.0,56002.24,56002.24,39952.63,16049.61,28.66,Marketplace,UPI,Cancelled
+ORD00997,2025-12-14,CUST0005,Consumer,West,Surat,Diya Patel,Laptop,Electronics,5,59263.04,0.0,0.0,296315.2,296315.2,242916.34,53398.86,18.02,Distributor,Cash,Returned
+ORD00815,2025-12-15,CUST0057,Small Business,South,Hyderabad,Ananya Desai,Office Chair,Furniture,3,14064.92,0.15,6329.21,42194.76,35865.55,22201.45,13664.1,38.1,Marketplace,Net Banking,Completed
+ORD00430,2025-12-16,CUST0205,Consumer,West,Mumbai,Meera Nair,Headphones,Accessories,6,1905.89,0.2,2287.07,11435.34,9148.27,5212.47,3935.8,43.02,Retail Store,Cash,Returned
+ORD00886,2025-12-16,CUST0209,Corporate,North,Lucknow,Meera Nair,Office Chair,Furniture,6,8857.8,0.0,0.0,53146.8,53146.8,41009.8,12137.0,22.84,Retail Store,Cash,Completed
+ORD00287,2025-12-17,CUST0055,Corporate,West,Ahmedabad,Aarav Sharma,Keyboard,Accessories,7,994.65,0.0,0.0,6962.55,6962.55,3182.61,3779.94,54.29,Retail Store,UPI,Completed
+ORD00295,2025-12-17,CUST0205,Small Business,South,Bengaluru,Meera Nair,Monitor,Electronics,8,17006.26,0.05,6802.5,136050.08,129247.58,105170.48,24077.1,18.63,Retail Store,UPI,Returned
+ORD00339,2025-12-17,CUST0221,Corporate,West,Mumbai,Meera Nair,Keyboard,Accessories,3,1634.63,0.0,0.0,4903.89,4903.89,1981.86,2922.03,59.59,Marketplace,Credit Card,Cancelled
+ORD00659,2025-12-18,CUST0084,Corporate,West,Pune,Meera Nair,Monitor,Electronics,5,7944.37,0.0,0.0,39721.85,39721.85,31517.54,8204.31,20.65,Marketplace,Cash,Completed
+ORD00263,2025-12-19,CUST0176,Small Business,Central,Raipur,Kabir Joshi,Keyboard,Accessories,7,2160.81,0.15,2268.85,15125.67,12856.82,6488.3,6368.52,49.53,Retail Store,Cash,Cancelled
+ORD00502,2025-12-19,CUST0104,Small Business,South,Hyderabad,Diya Patel,USB Drive,Accessories,3,1109.8,0.15,499.41,3329.4,2829.99,1203.85,1626.14,57.46,Marketplace,Debit Card,Completed
+ORD00123,2025-12-20,CUST0213,Corporate,South,Bengaluru,Ananya Desai,Desk,Furniture,6,8534.78,0.15,7681.3,51208.68,43527.38,29639.47,13887.91,31.91,Marketplace,Credit Card,Completed
+ORD00460,2025-12-20,CUST0192,Corporate,North,Jaipur,Diya Patel,Smartphone,Electronics,8,14258.5,0.1,11406.8,114068.0,102661.2,84329.48,18331.72,17.86,Marketplace,Cash,Returned
+ORD00188,2025-12-21,CUST0153,Small Business,North,Delhi,Rohan Singh,Monitor,Electronics,2,12803.6,0.05,1280.36,25607.2,24326.84,18897.75,5429.09,22.32,Online,Debit Card,Cancelled
+ORD00864,2025-12-21,CUST0054,Consumer,West,Surat,Rohan Singh,Office Chair,Furniture,3,5559.02,0.15,2501.56,16677.06,14175.5,9093.53,5081.97,35.85,Retail Store,UPI,Cancelled
+ORD00255,2025-12-22,CUST0064,Corporate,East,Bhubaneswar,Aarav Sharma,Smartphone,Electronics,6,47331.46,0.1,28398.88,283988.76,255589.88,192129.3,63460.58,24.83,Distributor,Debit Card,Completed
+ORD00439,2025-12-25,CUST0080,Corporate,Central,Nagpur,Rohan Singh,Office Chair,Furniture,5,6411.02,0.15,4808.27,32055.1,27246.84,17548.83,9698.01,35.59,Marketplace,UPI,Completed
+ORD00128,2025-12-26,CUST0020,Corporate,West,Mumbai,Meera Nair,Desk,Furniture,7,17682.18,0.05,6188.76,123775.26,117586.5,86438.36,31148.14,26.49,Marketplace,Debit Card,Completed
+ORD00464,2025-12-26,CUST0169,Consumer,South,Hyderabad,Kabir Joshi,Office Chair,Furniture,1,7106.57,0.15,1065.99,7106.57,6040.58,3724.32,2316.26,38.34,Online,UPI,Cancelled
+ORD00735,2025-12-26,CUST0055,Small Business,West,Pune,Ananya Desai,Desk,Furniture,3,23007.02,0.0,0.0,69021.06,69021.06,42799.72,26221.34,37.99,Distributor,Net Banking,Completed
+ORD00789,2025-12-26,CUST0226,Corporate,West,Surat,Rohan Singh,Monitor,Electronics,6,7190.13,0.0,0.0,43140.78,43140.78,32839.18,10301.6,23.88,Distributor,Cash,Completed
+ORD00711,2025-12-27,CUST0077,Consumer,Central,Indore,Diya Patel,Smartphone,Electronics,1,40492.53,0.0,0.0,40492.53,40492.53,30592.52,9900.01,24.45,Retail Store,Net Banking,Completed
+ORD00846,2025-12-27,CUST0237,Small Business,Central,Nagpur,Aarav Sharma,USB Drive,Accessories,3,1372.77,0.05,205.92,4118.31,3912.39,2137.1,1775.29,45.38,Marketplace,Cash,Completed
+ORD00959,2025-12-27,CUST0061,Small Business,Central,Raipur,Kabir Joshi,Monitor,Electronics,1,31895.65,0.05,1594.78,31895.65,30300.87,23302.29,6998.58,23.1,Retail Store,Cash,Returned
+ORD00719,2025-12-29,CUST0079,Small Business,West,Ahmedabad,Rohan Singh,Office Chair,Furniture,4,17360.32,0.05,3472.06,69441.28,65969.22,47129.36,18839.86,28.56,Online,UPI,Completed
+ORD00356,2025-12-31,CUST0011,Small Business,South,Bengaluru,Rohan Singh,Smartphone,Electronics,8,51568.09,0.15,61881.71,412544.72,350663.01,263345.66,87317.35,24.9,Distributor,Cash,Cancelled
+ORD00441,2025-12-31,CUST0209,Corporate,East,Guwahati,Ananya Desai,Keyboard,Accessories,2,2638.7,0.1,527.74,5277.4,4749.66,2574.07,2175.59,45.81,Online,Cash,Completed
+ORD00321,2026-01-02,CUST0098,Small Business,Central,Bhopal,Meera Nair,Office Chair,Furniture,5,15123.04,0.15,11342.28,75615.2,64272.92,39564.54,24708.38,38.44,Online,Cash,Returned
+ORD00935,2026-01-02,CUST0152,Corporate,East,Bhubaneswar,Meera Nair,USB Drive,Accessories,1,1120.17,0.1,112.02,1120.17,1008.15,556.81,451.34,44.77,Marketplace,Cash,Returned
+ORD00247,2026-01-03,CUST0082,Corporate,West,Surat,Diya Patel,Desk,Furniture,6,23340.86,0.1,14004.52,140045.16,126040.64,84280.66,41759.98,33.13,Online,Debit Card,Completed
+ORD00585,2026-01-03,CUST0159,Consumer,East,Guwahati,Aarav Sharma,Headphones,Accessories,1,1795.87,0.0,0.0,1795.87,1795.87,959.77,836.1,46.56,Retail Store,Cash,Completed
+ORD00712,2026-01-03,CUST0103,Small Business,East,Bhubaneswar,Aarav Sharma,Monitor,Electronics,5,8858.99,0.05,2214.75,44294.95,42080.2,31185.01,10895.19,25.89,Distributor,Cash,Completed
+ORD00728,2026-01-03,CUST0231,Consumer,South,Bengaluru,Diya Patel,Keyboard,Accessories,3,1354.7,0.1,406.41,4064.1,3657.69,1848.1,1809.59,49.47,Retail Store,Cash,Completed
+ORD00191,2026-01-04,CUST0105,Consumer,East,Kolkata,Aarav Sharma,Headphones,Accessories,7,1297.59,0.1,908.31,9083.13,8174.82,4816.98,3357.84,41.08,Online,Debit Card,Cancelled
+ORD00134,2026-01-05,CUST0080,Small Business,Central,Nagpur,Meera Nair,USB Drive,Accessories,3,1505.49,0.15,677.47,4516.47,3839.0,2192.31,1646.69,42.89,Marketplace,Net Banking,Completed
+ORD00737,2026-01-05,CUST0034,Corporate,East,Guwahati,Meera Nair,Keyboard,Accessories,4,2450.75,0.15,1470.45,9803.0,8332.55,4133.05,4199.5,50.4,Online,UPI,Completed
+ORD00779,2026-01-06,CUST0163,Consumer,West,Surat,Aarav Sharma,Keyboard,Accessories,1,662.23,0.2,132.45,662.23,529.78,267.93,261.85,49.43,Retail Store,UPI,Completed
+ORD00545,2026-01-08,CUST0199,Corporate,North,Lucknow,Rohan Singh,Headphones,Accessories,2,2145.43,0.15,643.63,4290.86,3647.23,2246.89,1400.34,38.39,Marketplace,UPI,Cancelled
+ORD00774,2026-01-08,CUST0081,Small Business,East,Patna,Aarav Sharma,Monitor,Electronics,3,28425.02,0.1,8527.51,85275.06,76747.55,56691.66,20055.89,26.13,Marketplace,Net Banking,Cancelled
+ORD00727,2026-01-09,CUST0036,Small Business,West,Pune,Meera Nair,Office Chair,Furniture,8,5967.38,0.2,9547.81,47739.04,38191.23,28684.83,9506.4,24.89,Marketplace,UPI,Completed
+ORD00401,2026-01-10,CUST0158,Small Business,East,Bhubaneswar,Kabir Joshi,Desk,Furniture,1,12545.97,0.05,627.3,12545.97,11918.67,7752.69,4165.98,34.95,Retail Store,Cash,Completed
+ORD00288,2026-01-11,CUST0168,Consumer,North,Lucknow,Aarav Sharma,Office Chair,Furniture,1,14911.87,0.15,2236.78,14911.87,12675.09,9874.43,2800.66,22.1,Online,Cash,Completed
+ORD00235,2026-01-13,CUST0198,Consumer,South,Hyderabad,Meera Nair,Office Chair,Furniture,4,14484.28,0.1,5793.71,57937.12,52143.41,34742.59,17400.82,33.37,Retail Store,Credit Card,Returned
+ORD00425,2026-01-13,CUST0178,Small Business,West,Mumbai,Rohan Singh,Monitor,Electronics,2,28082.74,0.05,2808.27,56165.48,53357.21,40302.34,13054.87,24.47,Marketplace,Net Banking,Completed
+ORD00023,2026-01-14,CUST0003,Corporate,East,Bhubaneswar,Kabir Joshi,USB Drive,Accessories,5,1550.62,0.15,1162.96,7753.1,6590.13,3927.48,2662.65,40.4,Distributor,UPI,Cancelled
+ORD00618,2026-01-15,CUST0050,Consumer,South,Kochi,Kabir Joshi,Laptop,Electronics,1,51525.39,0.05,2576.27,51525.39,48949.12,40573.37,8375.75,17.11,Distributor,Credit Card,Completed
+ORD00434,2026-01-16,CUST0200,Consumer,West,Ahmedabad,Aarav Sharma,Keyboard,Accessories,3,2075.3,0.0,0.0,6225.9,6225.9,3072.82,3153.08,50.64,Marketplace,Net Banking,Completed
+ORD00485,2026-01-20,CUST0117,Consumer,South,Bengaluru,Ananya Desai,USB Drive,Accessories,1,1177.64,0.1,117.76,1177.64,1059.88,409.36,650.52,61.38,Distributor,Credit Card,Cancelled
+ORD00531,2026-01-21,CUST0035,Small Business,West,Surat,Meera Nair,Laptop,Electronics,5,43412.97,0.2,43412.97,217064.85,173651.88,129589.99,44061.89,25.37,Marketplace,Cash,Returned
+ORD00695,2026-01-22,CUST0088,Corporate,West,Surat,Kabir Joshi,Keyboard,Accessories,2,1170.65,0.05,117.07,2341.3,2224.24,938.45,1285.79,57.81,Retail Store,UPI,Completed
+ORD00300,2026-01-23,CUST0081,Consumer,West,Pune,Ananya Desai,Smartphone,Electronics,8,31741.07,0.0,0.0,253928.56,253928.56,223073.29,30855.27,12.15,Online,UPI,Returned
+ORD00373,2026-01-23,CUST0207,Corporate,South,Hyderabad,Meera Nair,Smartphone,Electronics,4,30156.29,0.15,18093.77,120625.16,102531.39,88656.92,13874.47,13.53,Distributor,Debit Card,Cancelled
+ORD00723,2026-01-24,CUST0075,Small Business,South,Hyderabad,Ananya Desai,Smartphone,Electronics,4,26532.22,0.15,15919.33,106128.88,90209.55,79169.39,11040.16,12.24,Distributor,Debit Card,Completed
+ORD00083,2026-01-26,CUST0163,Small Business,East,Kolkata,Meera Nair,Keyboard,Accessories,6,1914.43,0.15,1722.99,11486.58,9763.59,4445.77,5317.82,54.47,Distributor,Cash,Completed
+ORD00450,2026-01-27,CUST0099,Small Business,West,Surat,Ananya Desai,Monitor,Electronics,3,20627.97,0.1,6188.39,61883.91,55695.52,39112.24,16583.28,29.77,Retail Store,Debit Card,Cancelled
+ORD00794,2026-01-27,CUST0077,Consumer,North,Chandigarh,Kabir Joshi,USB Drive,Accessories,6,1251.69,0.0,0.0,7510.14,7510.14,3078.64,4431.5,59.01,Retail Store,Cash,Completed
+ORD00628,2026-01-29,CUST0050,Consumer,West,Surat,Aarav Sharma,Smartphone,Electronics,1,26603.51,0.1,2660.35,26603.51,23943.16,19814.93,4128.23,17.24,Online,Net Banking,Cancelled
+ORD00849,2026-01-29,CUST0114,Small Business,West,Mumbai,Kabir Joshi,Laptop,Electronics,2,68311.86,0.0,0.0,136623.72,136623.72,116879.99,19743.73,14.45,Online,Credit Card,Completed
+ORD00866,2026-01-29,CUST0169,Small Business,West,Mumbai,Kabir Joshi,Monitor,Electronics,1,16616.58,0.0,0.0,16616.58,16616.58,11846.24,4770.34,28.71,Online,Debit Card,Completed
+ORD00390,2026-01-30,CUST0192,Consumer,South,Chennai,Meera Nair,Keyboard,Accessories,3,2210.08,0.15,994.54,6630.24,5635.7,3309.84,2325.86,41.27,Distributor,Cash,Returned
+ORD00680,2026-01-30,CUST0179,Corporate,West,Pune,Meera Nair,Keyboard,Accessories,6,1933.18,0.2,2319.82,11599.08,9279.26,5350.79,3928.47,42.34,Retail Store,Debit Card,Completed
+ORD00126,2026-01-31,CUST0187,Small Business,East,Bhubaneswar,Aarav Sharma,USB Drive,Accessories,6,1338.1,0.15,1204.29,8028.6,6824.31,2843.55,3980.76,58.33,Marketplace,Net Banking,Completed
+ORD00274,2026-01-31,CUST0132,Consumer,North,Chandigarh,Meera Nair,Keyboard,Accessories,4,3071.33,0.2,2457.06,12285.32,9828.26,4439.26,5389.0,54.83,Online,Cash,Returned
+ORD00941,2026-02-01,CUST0153,Small Business,South,Hyderabad,Kabir Joshi,Headphones,Accessories,6,3079.34,0.05,923.8,18476.04,17552.24,11495.8,6056.44,34.51,Online,Debit Card,Returned
+ORD00249,2026-02-02,CUST0008,Corporate,East,Bhubaneswar,Meera Nair,Headphones,Accessories,6,2148.34,0.2,2578.01,12890.04,10312.03,6438.9,3873.13,37.56,Distributor,Net Banking,Cancelled
+ORD00405,2026-02-02,CUST0182,Consumer,East,Guwahati,Rohan Singh,Smartphone,Electronics,7,12820.37,0.0,0.0,89742.59,89742.59,80496.31,9246.28,10.3,Marketplace,Net Banking,Cancelled
+ORD00473,2026-02-03,CUST0087,Corporate,North,Jaipur,Aarav Sharma,USB Drive,Accessories,8,1100.91,0.0,0.0,8807.28,8807.28,3164.11,5643.17,64.07,Marketplace,UPI,Completed
+ORD00472,2026-02-04,CUST0050,Consumer,North,Jaipur,Meera Nair,USB Drive,Accessories,8,427.29,0.2,683.66,3418.32,2734.66,1086.66,1648.0,60.26,Retail Store,Cash,Completed
+ORD00792,2026-02-04,CUST0130,Consumer,South,Kochi,Meera Nair,Desk,Furniture,7,15828.26,0.0,0.0,110797.82,110797.82,70680.59,40117.23,36.21,Marketplace,Debit Card,Completed
+ORD00254,2026-02-05,CUST0037,Small Business,Central,Bhopal,Meera Nair,Headphones,Accessories,4,4233.62,0.2,3386.9,16934.48,13547.58,8011.87,5535.71,40.86,Online,Credit Card,Returned
+ORD00206,2026-02-06,CUST0236,Corporate,Central,Bhopal,Kabir Joshi,Desk,Furniture,8,12687.71,0.15,15225.25,101501.68,86276.43,56170.7,30105.73,34.89,Online,Credit Card,Completed
+ORD00821,2026-02-07,CUST0181,Corporate,North,Chandigarh,Rohan Singh,Office Chair,Furniture,3,11184.82,0.0,0.0,33554.46,33554.46,22232.31,11322.15,33.74,Online,UPI,Completed
+ORD00837,2026-02-07,CUST0213,Corporate,South,Kochi,Aarav Sharma,Laptop,Electronics,8,61900.74,0.0,0.0,495205.92,495205.92,363256.05,131949.87,26.65,Distributor,Net Banking,Completed
+ORD00906,2026-02-08,CUST0095,Small Business,East,Kolkata,Kabir Joshi,USB Drive,Accessories,1,636.09,0.1,63.61,636.09,572.48,310.74,261.74,45.72,Online,Debit Card,Returned
+ORD00101,2026-02-09,CUST0084,Consumer,Central,Bhopal,Aarav Sharma,Laptop,Electronics,4,50790.19,0.0,0.0,203160.76,203160.76,171115.35,32045.41,15.77,Marketplace,Cash,Completed
+ORD00079,2026-02-10,CUST0156,Small Business,East,Kolkata,Diya Patel,Laptop,Electronics,8,81156.53,0.05,32462.61,649252.24,616789.63,520643.57,96146.06,15.59,Retail Store,Net Banking,Completed
+ORD00399,2026-02-13,CUST0125,Small Business,East,Kolkata,Meera Nair,Monitor,Electronics,3,19545.58,0.0,0.0,58636.74,58636.74,44384.94,14251.8,24.31,Retail Store,Net Banking,Completed
+ORD00833,2026-02-13,CUST0206,Corporate,North,Jaipur,Diya Patel,Office Chair,Furniture,3,12560.02,0.15,5652.01,37680.06,32028.05,21729.33,10298.72,32.16,Retail Store,Debit Card,Completed
+ORD00809,2026-02-14,CUST0127,Corporate,North,Jaipur,Aarav Sharma,USB Drive,Accessories,7,1218.48,0.05,426.47,8529.36,8102.89,4246.84,3856.05,47.59,Distributor,Net Banking,Returned
+ORD00098,2026-02-15,CUST0041,Small Business,North,Chandigarh,Rohan Singh,Laptop,Electronics,4,45945.58,0.1,18378.23,183782.32,165404.09,130201.67,35202.42,21.28,Distributor,Net Banking,Completed
+ORD00160,2026-02-15,CUST0115,Small Business,North,Chandigarh,Rohan Singh,Headphones,Accessories,4,3521.49,0.0,0.0,14085.96,14085.96,7257.03,6828.93,48.48,Distributor,Net Banking,Completed
+ORD00666,2026-02-16,CUST0167,Corporate,East,Kolkata,Rohan Singh,Monitor,Electronics,4,12319.2,0.0,0.0,49276.8,49276.8,38695.78,10581.02,21.47,Online,UPI,Completed
+ORD00017,2026-02-17,CUST0119,Consumer,East,Kolkata,Aarav Sharma,Keyboard,Accessories,8,1074.77,0.0,0.0,8598.16,8598.16,4346.12,4252.04,49.45,Marketplace,Net Banking,Completed
+ORD00268,2026-02-17,CUST0236,Small Business,South,Kochi,Rohan Singh,Laptop,Electronics,6,59019.09,0.2,70822.91,354114.54,283291.63,214738.65,68552.98,24.2,Online,Debit Card,Returned
+ORD00569,2026-02-17,CUST0232,Corporate,East,Bhubaneswar,Kabir Joshi,Smartphone,Electronics,7,24837.51,0.2,34772.51,173862.57,139090.06,121140.9,17949.16,12.9,Retail Store,Debit Card,Completed
+ORD00301,2026-02-18,CUST0088,Small Business,West,Mumbai,Aarav Sharma,Laptop,Electronics,5,77514.08,0.15,58135.56,387570.4,329434.84,266833.4,62601.44,19.0,Retail Store,Cash,Returned
+ORD00962,2026-02-18,CUST0103,Small Business,West,Surat,Aarav Sharma,Office Chair,Furniture,8,15652.87,0.0,0.0,125222.96,125222.96,95958.84,29264.12,23.37,Distributor,Cash,Completed
+ORD00242,2026-02-19,CUST0034,Consumer,West,Pune,Ananya Desai,Smartphone,Electronics,3,31867.86,0.0,0.0,95603.58,95603.58,71874.15,23729.43,24.82,Distributor,UPI,Completed
+ORD00320,2026-02-19,CUST0017,Corporate,West,Ahmedabad,Kabir Joshi,Laptop,Electronics,2,58748.58,0.15,17624.57,117497.16,99872.59,72002.53,27870.06,27.91,Online,UPI,Cancelled
+ORD00334,2026-02-20,CUST0043,Consumer,East,Guwahati,Aarav Sharma,USB Drive,Accessories,1,1488.99,0.15,223.35,1488.99,1265.64,722.06,543.58,42.95,Distributor,Credit Card,Returned
+ORD00876,2026-02-22,CUST0234,Corporate,East,Patna,Aarav Sharma,Office Chair,Furniture,3,12895.87,0.05,1934.38,38687.61,36753.23,22347.06,14406.17,39.2,Online,Net Banking,Completed
+ORD00110,2026-02-23,CUST0065,Corporate,East,Kolkata,Meera Nair,Desk,Furniture,2,7252.33,0.15,2175.7,14504.66,12328.96,9149.42,3179.54,25.79,Retail Store,Debit Card,Completed
+ORD00173,2026-02-23,CUST0220,Corporate,South,Hyderabad,Diya Patel,Monitor,Electronics,8,11596.97,0.0,0.0,92775.76,92775.76,75695.24,17080.52,18.41,Marketplace,UPI,Completed
+ORD00072,2026-02-25,CUST0127,Consumer,North,Jaipur,Diya Patel,USB Drive,Accessories,7,1357.84,0.1,950.49,9504.88,8554.39,5107.86,3446.53,40.29,Distributor,UPI,Completed
+ORD00135,2026-02-25,CUST0089,Consumer,West,Mumbai,Kabir Joshi,Headphones,Accessories,2,6342.56,0.1,1268.51,12685.12,11416.61,6467.03,4949.58,43.35,Retail Store,Credit Card,Cancelled
+ORD00214,2026-02-26,CUST0213,Consumer,North,Jaipur,Meera Nair,Headphones,Accessories,3,4798.13,0.0,0.0,14394.39,14394.39,7003.75,7390.64,51.34,Marketplace,Cash,Completed
+ORD00371,2026-02-27,CUST0003,Corporate,East,Bhubaneswar,Ananya Desai,Office Chair,Furniture,3,4642.5,0.05,696.38,13927.5,13231.12,8621.63,4609.49,34.84,Marketplace,Debit Card,Cancelled
+ORD00392,2026-02-27,CUST0093,Small Business,West,Ahmedabad,Ananya Desai,Keyboard,Accessories,4,2189.43,0.1,875.77,8757.72,7881.95,4661.6,3220.35,40.86,Marketplace,UPI,Completed
+ORD00155,2026-02-28,CUST0105,Corporate,East,Patna,Ananya Desai,Smartphone,Electronics,3,41291.26,0.0,0.0,123873.78,123873.78,110827.12,13046.66,10.53,Marketplace,Credit Card,Completed
+ORD00418,2026-02-28,CUST0178,Corporate,East,Patna,Meera Nair,Laptop,Electronics,4,49691.78,0.1,19876.71,198767.12,178890.41,131382.26,47508.15,26.56,Retail Store,UPI,Completed
+ORD00690,2026-02-28,CUST0174,Small Business,South,Bengaluru,Diya Patel,Desk,Furniture,6,6315.98,0.0,0.0,37895.88,37895.88,30109.32,7786.56,20.55,Marketplace,Cash,Completed
+ORD00757,2026-02-28,CUST0138,Corporate,Central,Nagpur,Ananya Desai,Headphones,Accessories,4,5372.2,0.1,2148.88,21488.8,19339.92,10727.17,8612.75,44.53,Retail Store,Cash,Returned
+ORD00041,2026-03-01,CUST0179,Consumer,West,Ahmedabad,Kabir Joshi,USB Drive,Accessories,4,923.66,0.1,369.46,3694.64,3325.18,1487.58,1837.6,55.26,Marketplace,Cash,Cancelled
+ORD00540,2026-03-01,CUST0221,Consumer,West,Ahmedabad,Kabir Joshi,USB Drive,Accessories,3,1307.34,0.0,0.0,3922.02,3922.02,1988.31,1933.71,49.3,Marketplace,Credit Card,Cancelled
+ORD00389,2026-03-02,CUST0133,Consumer,East,Kolkata,Aarav Sharma,Office Chair,Furniture,2,11641.78,0.05,1164.18,23283.56,22119.38,13581.93,8537.45,38.6,Retail Store,Net Banking,Completed
+ORD00148,2026-03-03,CUST0148,Consumer,Central,Nagpur,Meera Nair,Laptop,Electronics,5,67667.11,0.2,67667.11,338335.55,270668.44,228786.46,41881.98,15.47,Online,Net Banking,Cancelled
+ORD00424,2026-03-03,CUST0239,Consumer,South,Chennai,Aarav Sharma,Office Chair,Furniture,3,12749.71,0.1,3824.91,38249.13,34424.22,25297.68,9126.54,26.51,Distributor,Debit Card,Completed
+ORD00648,2026-03-04,CUST0079,Corporate,South,Kochi,Aarav Sharma,USB Drive,Accessories,1,1579.42,0.05,78.97,1579.42,1500.45,577.28,923.17,61.53,Marketplace,Debit Card,Completed
+ORD00487,2026-03-05,CUST0148,Corporate,South,Hyderabad,Diya Patel,Keyboard,Accessories,3,3159.23,0.2,1895.54,9477.69,7582.15,4838.85,2743.3,36.18,Online,Cash,Completed
+ORD00653,2026-03-05,CUST0111,Corporate,West,Mumbai,Meera Nair,Monitor,Electronics,4,30877.42,0.0,0.0,123509.68,123509.68,101188.0,22321.68,18.07,Marketplace,Credit Card,Completed
+ORD00894,2026-03-05,CUST0225,Small Business,East,Patna,Diya Patel,Keyboard,Accessories,8,2413.14,0.15,2895.77,19305.12,16409.35,9258.73,7150.62,43.58,Distributor,Cash,Completed
+ORD00085,2026-03-06,CUST0009,Corporate,Central,Indore,Rohan Singh,Monitor,Electronics,8,23373.05,0.15,28047.66,186984.4,158936.74,118455.32,40481.42,25.47,Retail Store,Cash,Completed
+ORD00233,2026-03-06,CUST0096,Consumer,South,Hyderabad,Kabir Joshi,Keyboard,Accessories,6,1748.77,0.05,524.63,10492.62,9967.99,6045.58,3922.41,39.35,Online,Credit Card,Cancelled
+ORD00167,2026-03-07,CUST0035,Corporate,East,Patna,Rohan Singh,USB Drive,Accessories,7,1604.43,0.1,1123.1,11231.01,10107.91,3740.56,6367.35,62.99,Online,Credit Card,Cancelled
+ORD00226,2026-03-07,CUST0068,Consumer,East,Bhubaneswar,Aarav Sharma,USB Drive,Accessories,2,1731.68,0.0,0.0,3463.36,3463.36,1720.74,1742.62,50.32,Online,Cash,Completed
+ORD00956,2026-03-07,CUST0211,Small Business,Central,Nagpur,Diya Patel,Monitor,Electronics,1,18890.07,0.05,944.5,18890.07,17945.57,13180.94,4764.63,26.55,Marketplace,Cash,Completed
+ORD00806,2026-03-08,CUST0108,Consumer,West,Ahmedabad,Aarav Sharma,Desk,Furniture,1,9764.86,0.1,976.49,9764.86,8788.37,6237.61,2550.76,29.02,Marketplace,Credit Card,Completed
+ORD00198,2026-03-10,CUST0237,Corporate,West,Mumbai,Ananya Desai,USB Drive,Accessories,8,1786.05,0.15,2143.26,14288.4,12145.14,5467.76,6677.38,54.98,Online,Debit Card,Cancelled
+ORD00764,2026-03-10,CUST0015,Consumer,South,Hyderabad,Ananya Desai,Smartphone,Electronics,3,34424.54,0.2,20654.72,103273.62,82618.9,64589.77,18029.13,21.82,Retail Store,Net Banking,Cancelled
+ORD00598,2026-03-12,CUST0144,Corporate,South,Kochi,Ananya Desai,Keyboard,Accessories,6,1838.49,0.2,2206.19,11030.94,8824.75,4690.92,4133.83,46.84,Distributor,Net Banking,Cancelled
+ORD00910,2026-03-12,CUST0051,Small Business,North,Lucknow,Aarav Sharma,Headphones,Accessories,3,5114.25,0.15,2301.41,15342.75,13041.34,8307.82,4733.52,36.3,Online,Cash,Completed
+ORD00937,2026-03-13,CUST0051,Corporate,East,Patna,Diya Patel,Laptop,Electronics,3,49053.12,0.05,7357.97,147159.36,139801.39,120488.56,19312.83,13.81,Retail Store,Debit Card,Cancelled
+ORD00026,2026-03-14,CUST0150,Corporate,Central,Bhopal,Diya Patel,Smartphone,Electronics,3,15235.49,0.15,6855.97,45706.47,38850.5,29347.83,9502.67,24.46,Marketplace,Credit Card,Completed
+ORD00391,2026-03-14,CUST0114,Small Business,North,Chandigarh,Rohan Singh,Headphones,Accessories,6,3934.8,0.2,4721.76,23608.8,18887.04,9246.04,9641.0,51.05,Distributor,Debit Card,Cancelled
+ORD00049,2026-03-15,CUST0163,Small Business,East,Kolkata,Meera Nair,Desk,Furniture,7,6240.39,0.1,4368.27,43682.73,39314.46,25121.82,14192.64,36.1,Retail Store,Cash,Completed
+ORD00313,2026-03-15,CUST0011,Consumer,East,Guwahati,Rohan Singh,Headphones,Accessories,5,1717.29,0.0,0.0,8586.45,8586.45,4573.49,4012.96,46.74,Online,Net Banking,Completed
+ORD00534,2026-03-15,CUST0152,Consumer,East,Guwahati,Meera Nair,Monitor,Electronics,4,15781.73,0.0,0.0,63126.92,63126.92,45296.06,17830.86,28.25,Online,Debit Card,Completed
+ORD00217,2026-03-16,CUST0145,Small Business,South,Kochi,Rohan Singh,Office Chair,Furniture,5,8858.68,0.05,2214.67,44293.4,42078.73,29392.66,12686.07,30.15,Online,UPI,Completed
+ORD00688,2026-03-16,CUST0157,Consumer,East,Guwahati,Rohan Singh,Desk,Furniture,4,24989.46,0.05,4997.89,99957.84,94959.95,70243.21,24716.74,26.03,Distributor,UPI,Returned
+ORD00200,2026-03-17,CUST0198,Corporate,North,Delhi,Kabir Joshi,Smartphone,Electronics,4,23125.75,0.1,9250.3,92503.0,83252.7,67111.49,16141.21,19.39,Retail Store,Debit Card,Returned
+ORD00557,2026-03-18,CUST0008,Small Business,South,Chennai,Rohan Singh,Office Chair,Furniture,4,14310.56,0.1,5724.22,57242.24,51518.02,32583.43,18934.59,36.75,Retail Store,Net Banking,Completed
+ORD00818,2026-03-18,CUST0026,Consumer,South,Chennai,Meera Nair,Monitor,Electronics,6,19554.76,0.0,0.0,117328.56,117328.56,88068.52,29260.04,24.94,Marketplace,Cash,Completed
+ORD00204,2026-03-19,CUST0053,Small Business,West,Mumbai,Meera Nair,Keyboard,Accessories,7,1848.73,0.1,1294.11,12941.11,11647.0,4671.76,6975.24,59.89,Online,Net Banking,Completed
+ORD00136,2026-03-20,CUST0089,Corporate,Central,Bhopal,Rohan Singh,Smartphone,Electronics,5,34278.39,0.0,0.0,171391.95,171391.95,132707.94,38684.01,22.57,Online,Debit Card,Completed
+ORD00704,2026-03-21,CUST0045,Corporate,South,Kochi,Meera Nair,Keyboard,Accessories,4,601.98,0.1,240.79,2407.92,2167.13,1131.58,1035.55,47.78,Marketplace,UPI,Cancelled
+ORD00851,2026-03-21,CUST0229,Consumer,Central,Indore,Rohan Singh,Smartphone,Electronics,2,37030.64,0.0,0.0,74061.28,74061.28,55915.22,18146.06,24.5,Marketplace,Net Banking,Completed
+ORD00512,2026-03-23,CUST0038,Small Business,East,Patna,Ananya Desai,Smartphone,Electronics,1,28047.7,0.05,1402.39,28047.7,26645.32,20634.86,6010.46,22.56,Retail Store,Debit Card,Completed
+ORD00578,2026-03-23,CUST0030,Consumer,Central,Indore,Diya Patel,Smartphone,Electronics,8,24939.47,0.0,0.0,199515.76,199515.76,163822.06,35693.7,17.89,Marketplace,Cash,Completed
+ORD00582,2026-03-23,CUST0057,Corporate,North,Chandigarh,Meera Nair,Office Chair,Furniture,8,14303.82,0.05,5721.53,114430.56,108709.03,73798.2,34910.83,32.11,Distributor,Net Banking,Cancelled
+ORD00104,2026-03-24,CUST0057,Small Business,North,Chandigarh,Diya Patel,Monitor,Electronics,2,21721.78,0.1,4344.36,43443.56,39099.2,32033.35,7065.85,18.07,Online,Net Banking,Completed
+ORD00073,2026-03-27,CUST0121,Small Business,North,Lucknow,Rohan Singh,Laptop,Electronics,7,73065.08,0.2,102291.11,511455.56,409164.45,358097.9,51066.55,12.48,Marketplace,UPI,Completed
+ORD00517,2026-03-29,CUST0033,Corporate,Central,Nagpur,Diya Patel,Headphones,Accessories,1,4846.4,0.2,969.28,4846.4,3877.12,2534.25,1342.87,34.64,Retail Store,Debit Card,Completed
+ORD00588,2026-03-29,CUST0218,Consumer,Central,Raipur,Ananya Desai,Smartphone,Electronics,6,18634.72,0.05,5590.42,111808.32,106217.9,92714.86,13503.04,12.71,Marketplace,UPI,Completed
+ORD00898,2026-03-29,CUST0163,Consumer,West,Surat,Rohan Singh,Office Chair,Furniture,5,16816.98,0.1,8408.49,84084.9,75676.41,55325.03,20351.38,26.89,Marketplace,Cash,Completed
+ORD00289,2026-03-31,CUST0078,Small Business,West,Mumbai,Meera Nair,Office Chair,Furniture,3,10904.35,0.0,0.0,32713.05,32713.05,23721.36,8991.69,27.49,Online,Net Banking,Completed
+ORD00863,2026-03-31,CUST0179,Corporate,East,Guwahati,Kabir Joshi,Office Chair,Furniture,4,16231.11,0.15,9738.67,64924.44,55185.77,41981.81,13203.96,23.93,Online,UPI,Completed
+ORD00086,2026-04-01,CUST0016,Small Business,South,Hyderabad,Rohan Singh,Smartphone,Electronics,6,54179.89,0.15,48761.9,325079.34,276317.44,244611.24,31706.2,11.47,Retail Store,UPI,Completed
+ORD00890,2026-04-01,CUST0091,Consumer,West,Surat,Meera Nair,Office Chair,Furniture,3,5672.66,0.05,850.9,17017.98,16167.08,11829.36,4337.72,26.83,Retail Store,UPI,Completed
+ORD00971,2026-04-01,CUST0007,Consumer,East,Patna,Rohan Singh,Office Chair,Furniture,1,12171.12,0.0,0.0,12171.12,12171.12,7626.96,4544.16,37.34,Distributor,Debit Card,Completed
+ORD00039,2026-04-02,CUST0125,Corporate,South,Kochi,Diya Patel,USB Drive,Accessories,4,688.79,0.2,551.03,2755.16,2204.13,924.25,1279.88,58.07,Distributor,Cash,Cancelled
+ORD00262,2026-04-02,CUST0193,Corporate,North,Jaipur,Meera Nair,USB Drive,Accessories,4,997.59,0.05,199.52,3990.36,3790.84,1861.54,1929.3,50.89,Online,UPI,Completed
+ORD00593,2026-04-02,CUST0010,Corporate,South,Kochi,Rohan Singh,Desk,Furniture,7,22865.82,0.0,0.0,160060.74,160060.74,124619.36,35441.38,22.14,Marketplace,Credit Card,Completed
+ORD00802,2026-04-02,CUST0096,Corporate,West,Ahmedabad,Aarav Sharma,Desk,Furniture,7,17835.31,0.1,12484.72,124847.17,112362.45,73704.12,38658.33,34.41,Marketplace,Credit Card,Completed
+ORD00977,2026-04-03,CUST0059,Corporate,Central,Indore,Meera Nair,Keyboard,Accessories,3,1268.22,0.2,760.93,3804.66,3043.73,1929.98,1113.75,36.59,Marketplace,Credit Card,Completed
+ORD00604,2026-04-05,CUST0087,Corporate,South,Hyderabad,Aarav Sharma,Smartphone,Electronics,7,46391.9,0.1,32474.33,324743.3,292268.97,229408.74,62860.23,21.51,Marketplace,Debit Card,Returned
+ORD00363,2026-04-06,CUST0090,Corporate,East,Guwahati,Kabir Joshi,Desk,Furniture,5,12845.83,0.05,3211.46,64229.15,61017.69,38048.82,22968.87,37.64,Retail Store,Net Banking,Completed
+ORD00775,2026-04-06,CUST0040,Consumer,East,Kolkata,Rohan Singh,Laptop,Electronics,4,73864.83,0.2,59091.86,295459.32,236367.46,201242.69,35124.77,14.86,Marketplace,Credit Card,Completed
+ORD00189,2026-04-07,CUST0170,Small Business,West,Pune,Aarav Sharma,Desk,Furniture,7,16507.72,0.1,11555.4,115554.04,103998.64,67956.12,36042.52,34.66,Distributor,Credit Card,Cancelled
+ORD00558,2026-04-07,CUST0176,Consumer,South,Hyderabad,Meera Nair,USB Drive,Accessories,8,428.61,0.0,0.0,3428.88,3428.88,1947.13,1481.75,43.21,Marketplace,Cash,Returned
+ORD00093,2026-04-08,CUST0110,Small Business,South,Kochi,Meera Nair,Desk,Furniture,7,21720.97,0.1,15204.68,152046.79,136842.11,102813.62,34028.49,24.87,Distributor,Debit Card,Completed
+ORD00165,2026-04-10,CUST0102,Small Business,South,Kochi,Aarav Sharma,USB Drive,Accessories,8,1145.87,0.2,1833.39,9166.96,7333.57,4046.14,3287.43,44.83,Retail Store,Net Banking,Completed
+ORD00229,2026-04-10,CUST0180,Consumer,Central,Bhopal,Diya Patel,Office Chair,Furniture,3,13492.07,0.0,0.0,40476.21,40476.21,24378.0,16098.21,39.77,Marketplace,Debit Card,Completed
+ORD00443,2026-04-10,CUST0073,Small Business,West,Mumbai,Kabir Joshi,Smartphone,Electronics,6,32439.38,0.1,19463.63,194636.28,175172.65,143499.03,31673.62,18.08,Retail Store,Net Banking,Completed
+ORD00483,2026-04-10,CUST0132,Consumer,North,Delhi,Aarav Sharma,Laptop,Electronics,3,81769.04,0.0,0.0,245307.12,245307.12,207451.01,37856.11,15.43,Retail Store,Cash,Returned
+ORD00882,2026-04-10,CUST0214,Small Business,North,Chandigarh,Aarav Sharma,Smartphone,Electronics,8,30000.9,0.2,48001.44,240007.2,192005.76,146913.07,45092.69,23.49,Retail Store,UPI,Completed
+ORD00087,2026-04-11,CUST0053,Consumer,North,Chandigarh,Kabir Joshi,Laptop,Electronics,6,44174.88,0.0,0.0,265049.28,265049.28,232769.28,32280.0,12.18,Retail Store,Net Banking,Cancelled
+ORD00216,2026-04-11,CUST0218,Consumer,West,Ahmedabad,Kabir Joshi,Laptop,Electronics,2,79363.03,0.2,31745.21,158726.06,126980.85,111177.33,15803.52,12.45,Marketplace,Credit Card,Completed
+ORD00924,2026-04-11,CUST0229,Corporate,West,Pune,Diya Patel,USB Drive,Accessories,2,1424.9,0.0,0.0,2849.8,2849.8,1260.7,1589.1,55.76,Retail Store,Credit Card,Cancelled
+ORD00022,2026-04-14,CUST0068,Consumer,East,Kolkata,Rohan Singh,Laptop,Electronics,2,61706.28,0.0,0.0,123412.56,123412.56,99473.18,23939.38,19.4,Online,Credit Card,Cancelled
+ORD00143,2026-04-14,CUST0074,Corporate,South,Chennai,Aarav Sharma,Desk,Furniture,5,6924.5,0.1,3462.25,34622.5,31160.25,22670.75,8489.5,27.24,Online,Cash,Returned
+ORD00305,2026-04-14,CUST0124,Corporate,Central,Indore,Diya Patel,USB Drive,Accessories,1,306.51,0.15,45.98,306.51,260.53,152.1,108.43,41.62,Retail Store,Credit Card,Cancelled
+ORD00486,2026-04-14,CUST0072,Consumer,South,Hyderabad,Aarav Sharma,Office Chair,Furniture,3,7229.85,0.0,0.0,21689.55,21689.55,15716.2,5973.35,27.54,Marketplace,Cash,Completed
+ORD00587,2026-04-14,CUST0223,Consumer,North,Delhi,Rohan Singh,Smartphone,Electronics,1,47415.24,0.15,7112.29,47415.24,40302.95,30864.47,9438.48,23.42,Retail Store,Debit Card,Completed
+ORD00238,2026-04-15,CUST0112,Corporate,North,Delhi,Diya Patel,Headphones,Accessories,7,4432.13,0.0,0.0,31024.91,31024.91,18552.09,12472.82,40.2,Retail Store,Debit Card,Completed
+ORD00845,2026-04-15,CUST0100,Corporate,East,Kolkata,Aarav Sharma,Headphones,Accessories,4,2839.16,0.05,567.83,11356.64,10788.81,7289.33,3499.48,32.44,Retail Store,Credit Card,Cancelled
+ORD00169,2026-04-17,CUST0158,Consumer,East,Bhubaneswar,Diya Patel,Office Chair,Furniture,2,7044.49,0.0,0.0,14088.98,14088.98,10506.24,3582.74,25.43,Retail Store,UPI,Returned
+ORD00077,2026-04-18,CUST0019,Small Business,East,Patna,Rohan Singh,Office Chair,Furniture,8,13502.35,0.05,5400.94,108018.8,102617.86,74087.01,28530.85,27.8,Distributor,Cash,Completed
+ORD00660,2026-04-18,CUST0216,Consumer,North,Delhi,Diya Patel,Keyboard,Accessories,8,2640.74,0.0,0.0,21125.92,21125.92,10936.82,10189.1,48.23,Online,Net Banking,Completed
+ORD00555,2026-04-19,CUST0095,Consumer,South,Hyderabad,Kabir Joshi,Headphones,Accessories,7,1083.76,0.15,1137.95,7586.32,6448.37,3321.16,3127.21,48.5,Online,UPI,Completed
+ORD00510,2026-04-20,CUST0032,Corporate,South,Bengaluru,Meera Nair,Laptop,Electronics,5,48623.03,0.2,48623.03,243115.15,194492.12,165994.92,28497.2,14.65,Distributor,Cash,Returned
+ORD00705,2026-04-20,CUST0165,Corporate,West,Ahmedabad,Kabir Joshi,USB Drive,Accessories,2,850.98,0.0,0.0,1701.96,1701.96,630.85,1071.11,62.93,Retail Store,UPI,Returned
+ORD00330,2026-04-21,CUST0176,Consumer,Central,Bhopal,Kabir Joshi,Monitor,Electronics,1,16096.64,0.2,3219.33,16096.64,12877.31,9248.75,3628.56,28.18,Retail Store,Cash,Cancelled
+ORD00492,2026-04-21,CUST0193,Small Business,North,Delhi,Meera Nair,Monitor,Electronics,6,29335.86,0.15,26402.27,176015.16,149612.89,102519.88,47093.01,31.48,Retail Store,UPI,Returned
+ORD00613,2026-04-21,CUST0090,Corporate,Central,Nagpur,Diya Patel,Headphones,Accessories,8,803.09,0.05,321.24,6424.72,6103.48,3658.83,2444.65,40.05,Distributor,UPI,Returned
+ORD00541,2026-04-24,CUST0192,Corporate,East,Patna,Rohan Singh,Laptop,Electronics,6,64457.59,0.1,38674.55,386745.54,348070.99,258839.16,89231.83,25.64,Marketplace,Cash,Completed
+ORD00869,2026-04-24,CUST0076,Small Business,South,Chennai,Kabir Joshi,Laptop,Electronics,5,54070.11,0.0,0.0,270350.55,270350.55,237856.84,32493.71,12.02,Marketplace,UPI,Cancelled
+ORD00572,2026-04-25,CUST0134,Small Business,West,Mumbai,Rohan Singh,USB Drive,Accessories,3,750.59,0.2,450.35,2251.77,1801.42,1037.12,764.3,42.43,Online,Net Banking,Completed
+ORD00583,2026-04-25,CUST0160,Consumer,South,Hyderabad,Rohan Singh,Monitor,Electronics,6,30995.08,0.1,18597.05,185970.48,167373.43,135231.17,32142.26,19.2,Online,Cash,Completed
+ORD00536,2026-04-26,CUST0026,Corporate,Central,Bhopal,Meera Nair,Desk,Furniture,7,13177.01,0.05,4611.95,92239.07,87627.12,63359.4,24267.72,27.69,Retail Store,Debit Card,Returned
+ORD00551,2026-04-28,CUST0017,Small Business,West,Ahmedabad,Ananya Desai,Monitor,Electronics,2,28919.03,0.0,0.0,57838.06,57838.06,45793.7,12044.36,20.82,Distributor,Cash,Cancelled
+ORD00579,2026-04-28,CUST0162,Corporate,North,Lucknow,Ananya Desai,Keyboard,Accessories,7,1104.02,0.0,0.0,7728.14,7728.14,3736.27,3991.87,51.65,Marketplace,Cash,Completed
+ORD00847,2026-04-29,CUST0150,Corporate,Central,Indore,Ananya Desai,Office Chair,Furniture,6,6247.2,0.15,5622.48,37483.2,31860.72,24594.41,7266.31,22.81,Online,UPI,Completed
+ORD00016,2026-04-30,CUST0222,Corporate,West,Pune,Aarav Sharma,Smartphone,Electronics,7,16168.03,0.05,5658.81,113176.21,107517.4,87469.36,20048.04,18.65,Online,UPI,Returned
+ORD00125,2026-04-30,CUST0205,Small Business,East,Kolkata,Ananya Desai,Keyboard,Accessories,1,1358.33,0.2,271.67,1358.33,1086.66,524.84,561.82,51.7,Marketplace,Cash,Completed
+ORD00936,2026-04-30,CUST0238,Consumer,South,Hyderabad,Kabir Joshi,Desk,Furniture,8,17417.9,0.2,27868.64,139343.2,111474.56,77163.53,34311.03,30.78,Online,Cash,Completed
+ORD00461,2026-05-01,CUST0175,Consumer,East,Bhubaneswar,Aarav Sharma,Monitor,Electronics,8,7296.58,0.1,5837.26,58372.64,52535.38,41427.24,11108.14,21.14,Distributor,Cash,Cancelled
+ORD00482,2026-05-01,CUST0054,Small Business,West,Pune,Rohan Singh,Headphones,Accessories,1,4619.81,0.0,0.0,4619.81,4619.81,2823.7,1796.11,38.88,Distributor,Net Banking,Completed
+ORD00641,2026-05-01,CUST0056,Small Business,East,Patna,Ananya Desai,Laptop,Electronics,4,50909.58,0.1,20363.83,203638.32,183274.49,157269.11,26005.38,14.19,Marketplace,Net Banking,Returned
+ORD00013,2026-05-02,CUST0183,Small Business,Central,Indore,Ananya Desai,Office Chair,Furniture,7,11623.6,0.0,0.0,81365.2,81365.2,62423.74,18941.46,23.28,Distributor,Cash,Completed
+ORD00522,2026-05-02,CUST0109,Consumer,East,Bhubaneswar,Kabir Joshi,USB Drive,Accessories,2,1310.29,0.0,0.0,2620.58,2620.58,1464.08,1156.5,44.13,Retail Store,Cash,Returned
+ORD00918,2026-05-02,CUST0109,Corporate,North,Jaipur,Ananya Desai,Smartphone,Electronics,1,50525.99,0.0,0.0,50525.99,50525.99,41772.65,8753.34,17.32,Distributor,Debit Card,Returned
+ORD00980,2026-05-03,CUST0221,Consumer,South,Bengaluru,Meera Nair,Keyboard,Accessories,5,2294.88,0.15,1721.16,11474.4,9753.24,3924.71,5828.53,59.76,Marketplace,Credit Card,Returned
+ORD00251,2026-05-05,CUST0016,Consumer,North,Jaipur,Diya Patel,Keyboard,Accessories,6,2919.34,0.2,3503.21,17516.04,14012.83,6226.81,7786.02,55.56,Retail Store,UPI,Completed
+ORD00858,2026-05-05,CUST0175,Corporate,East,Bhubaneswar,Meera Nair,Laptop,Electronics,1,82043.6,0.0,0.0,82043.6,82043.6,66083.64,15959.96,19.45,Online,Net Banking,Returned
+ORD00257,2026-05-06,CUST0027,Consumer,Central,Indore,Rohan Singh,Headphones,Accessories,1,3372.34,0.05,168.62,3372.34,3203.72,1457.76,1745.96,54.5,Retail Store,Cash,Completed
+ORD00149,2026-05-07,CUST0049,Consumer,South,Kochi,Ananya Desai,Headphones,Accessories,4,5483.47,0.0,0.0,21933.88,21933.88,13009.92,8923.96,40.69,Distributor,Cash,Completed
+ORD00731,2026-05-07,CUST0048,Consumer,East,Guwahati,Rohan Singh,USB Drive,Accessories,7,423.92,0.0,0.0,2967.44,2967.44,1496.79,1470.65,49.56,Online,Debit Card,Cancelled
+ORD00693,2026-05-09,CUST0042,Small Business,Central,Indore,Ananya Desai,Keyboard,Accessories,2,1134.92,0.0,0.0,2269.84,2269.84,1154.72,1115.12,49.13,Distributor,Credit Card,Completed
+ORD00859,2026-05-09,CUST0030,Small Business,North,Lucknow,Aarav Sharma,Monitor,Electronics,7,24386.01,0.2,34140.41,170702.07,136561.66,102188.19,34373.47,25.17,Distributor,Debit Card,Completed
+ORD00297,2026-05-10,CUST0181,Corporate,West,Mumbai,Kabir Joshi,Monitor,Electronics,2,18017.2,0.05,1801.72,36034.4,34232.68,26865.66,7367.02,21.52,Retail Store,Debit Card,Completed
+ORD00500,2026-05-11,CUST0237,Consumer,East,Guwahati,Meera Nair,Laptop,Electronics,5,48378.55,0.1,24189.28,241892.75,217703.48,190053.88,27649.6,12.7,Distributor,Credit Card,Cancelled
+ORD00457,2026-05-12,CUST0071,Small Business,North,Chandigarh,Aarav Sharma,Smartphone,Electronics,5,48612.15,0.05,12153.04,243060.75,230907.71,177771.42,53136.29,23.01,Online,Net Banking,Completed
+ORD00700,2026-05-15,CUST0090,Small Business,West,Ahmedabad,Ananya Desai,Headphones,Accessories,7,6449.06,0.05,2257.17,45143.42,42886.25,23828.0,19058.25,44.44,Online,Net Banking,Returned
+ORD00025,2026-05-16,CUST0164,Small Business,East,Kolkata,Diya Patel,Smartphone,Electronics,5,39274.23,0.0,0.0,196371.15,196371.15,147382.8,48988.35,24.95,Marketplace,Net Banking,Completed
+ORD00889,2026-05-16,CUST0213,Small Business,North,Jaipur,Rohan Singh,Keyboard,Accessories,7,1345.51,0.2,1883.71,9418.57,7534.86,3851.87,3682.99,48.88,Online,UPI,Completed
+ORD00942,2026-05-16,CUST0129,Consumer,Central,Bhopal,Kabir Joshi,Keyboard,Accessories,3,3156.76,0.0,0.0,9470.28,9470.28,4662.06,4808.22,50.77,Marketplace,UPI,Completed
+ORD00407,2026-05-17,CUST0129,Small Business,West,Pune,Aarav Sharma,Laptop,Electronics,6,56911.54,0.05,17073.46,341469.24,324395.78,266016.53,58379.25,18.0,Distributor,Cash,Completed
+ORD00895,2026-05-17,CUST0108,Small Business,West,Ahmedabad,Rohan Singh,USB Drive,Accessories,4,743.13,0.0,0.0,2972.52,2972.52,1755.96,1216.56,40.93,Retail Store,Cash,Completed
+ORD00563,2026-05-19,CUST0067,Consumer,South,Kochi,Meera Nair,Laptop,Electronics,1,50123.56,0.0,0.0,50123.56,50123.56,37557.71,12565.85,25.07,Marketplace,Cash,Returned
+ORD00673,2026-05-19,CUST0152,Corporate,North,Chandigarh,Diya Patel,Laptop,Electronics,3,69277.78,0.0,0.0,207833.34,207833.34,153815.33,54018.01,25.99,Retail Store,Net Banking,Completed
+ORD00524,2026-05-21,CUST0058,Corporate,North,Lucknow,Ananya Desai,Office Chair,Furniture,5,10668.77,0.2,10668.77,53343.85,42675.08,33103.58,9571.5,22.43,Distributor,Cash,Returned
+ORD00037,2026-05-22,CUST0046,Corporate,West,Pune,Kabir Joshi,Headphones,Accessories,1,4539.53,0.0,0.0,4539.53,4539.53,2926.2,1613.33,35.54,Marketplace,UPI,Completed
+ORD00348,2026-05-22,CUST0131,Corporate,West,Mumbai,Meera Nair,Keyboard,Accessories,5,3051.7,0.0,0.0,15258.5,15258.5,6231.61,9026.89,59.16,Retail Store,Net Banking,Cancelled
+ORD00447,2026-05-22,CUST0137,Small Business,North,Delhi,Ananya Desai,Keyboard,Accessories,1,2951.1,0.0,0.0,2951.1,2951.1,1668.02,1283.08,43.48,Marketplace,Credit Card,Returned
+ORD00699,2026-05-22,CUST0218,Corporate,East,Patna,Diya Patel,Laptop,Electronics,6,84189.14,0.0,0.0,505134.84,505134.84,430608.03,74526.81,14.75,Online,Credit Card,Completed
+ORD00911,2026-05-23,CUST0112,Small Business,South,Kochi,Meera Nair,Headphones,Accessories,7,5069.26,0.1,3548.48,35484.82,31936.34,14445.27,17491.07,54.77,Distributor,Net Banking,Completed
+ORD00537,2026-05-24,CUST0216,Corporate,Central,Nagpur,Diya Patel,Headphones,Accessories,6,4304.52,0.1,2582.71,25827.12,23244.41,11632.42,11611.99,49.96,Distributor,Debit Card,Completed
+ORD00721,2026-05-25,CUST0180,Corporate,Central,Bhopal,Meera Nair,Monitor,Electronics,4,7347.51,0.2,5878.01,29390.04,23512.03,16015.61,7496.42,31.88,Distributor,Credit Card,Returned
+ORD00069,2026-05-26,CUST0099,Consumer,East,Guwahati,Kabir Joshi,Monitor,Electronics,8,27868.1,0.0,0.0,222944.8,222944.8,167896.57,55048.23,24.69,Retail Store,UPI,Completed
+ORD00529,2026-05-26,CUST0025,Consumer,North,Chandigarh,Meera Nair,Monitor,Electronics,6,22114.6,0.0,0.0,132687.6,132687.6,96655.01,36032.59,27.16,Marketplace,Cash,Cancelled
+ORD00599,2026-05-26,CUST0125,Corporate,West,Surat,Ananya Desai,USB Drive,Accessories,7,1397.58,0.0,0.0,9783.06,9783.06,3777.11,6005.95,61.39,Retail Store,Net Banking,Completed
+ORD00854,2026-05-26,CUST0018,Consumer,South,Bengaluru,Rohan Singh,Desk,Furniture,5,6428.31,0.05,1607.08,32141.55,30534.47,21077.23,9457.24,30.97,Online,Net Banking,Completed
+ORD00562,2026-05-27,CUST0133,Small Business,East,Guwahati,Ananya Desai,Monitor,Electronics,5,14073.14,0.15,10554.85,70365.7,59810.85,48610.33,11200.52,18.73,Retail Store,Debit Card,Completed
+ORD00755,2026-05-27,CUST0100,Small Business,East,Guwahati,Meera Nair,Smartphone,Electronics,3,45920.81,0.2,27552.49,137762.43,110209.94,85080.79,25129.15,22.8,Marketplace,UPI,Completed
+ORD00282,2026-05-28,CUST0105,Corporate,North,Lucknow,Ananya Desai,Office Chair,Furniture,3,10076.95,0.0,0.0,30230.85,30230.85,23538.42,6692.43,22.14,Retail Store,Debit Card,Completed
+ORD00612,2026-05-28,CUST0234,Corporate,South,Chennai,Ananya Desai,Desk,Furniture,3,16268.36,0.0,0.0,48805.08,48805.08,34981.35,13823.73,28.32,Online,UPI,Returned
+ORD00678,2026-05-28,CUST0079,Corporate,East,Patna,Kabir Joshi,Monitor,Electronics,7,30142.28,0.2,42199.19,210995.96,168796.77,124859.51,43937.26,26.03,Online,Cash,Returned
+ORD00919,2026-05-28,CUST0215,Corporate,North,Chandigarh,Rohan Singh,Monitor,Electronics,7,16432.74,0.2,23005.84,115029.18,92023.34,69561.96,22461.38,24.41,Online,Net Banking,Completed
+ORD00453,2026-05-29,CUST0029,Corporate,East,Patna,Ananya Desai,Desk,Furniture,1,6635.78,0.15,995.37,6635.78,5640.41,3987.7,1652.71,29.3,Online,Credit Card,Completed
+ORD00954,2026-05-29,CUST0201,Small Business,North,Lucknow,Meera Nair,Headphones,Accessories,5,4665.79,0.0,0.0,23328.95,23328.95,12872.81,10456.14,44.82,Retail Store,Debit Card,Completed
+ORD00308,2026-05-31,CUST0173,Corporate,Central,Nagpur,Kabir Joshi,Smartphone,Electronics,8,44713.33,0.15,53656.0,357706.64,304050.64,254063.42,49987.22,16.44,Distributor,Cash,Returned
+ORD00561,2026-05-31,CUST0067,Consumer,West,Ahmedabad,Rohan Singh,USB Drive,Accessories,6,497.88,0.2,597.46,2987.28,2389.82,1153.34,1236.48,51.74,Online,Credit Card,Completed
+ORD00769,2026-05-31,CUST0075,Consumer,North,Chandigarh,Diya Patel,Laptop,Electronics,7,67248.55,0.1,47073.99,470739.85,423665.87,344786.62,78879.25,18.62,Marketplace,UPI,Completed
+ORD00788,2026-05-31,CUST0098,Consumer,Central,Bhopal,Diya Patel,Office Chair,Furniture,4,15998.02,0.0,0.0,63992.08,63992.08,47343.8,16648.28,26.02,Marketplace,UPI,Cancelled
+ORD00145,2026-06-01,CUST0143,Small Business,West,Ahmedabad,Diya Patel,Smartphone,Electronics,2,17532.53,0.1,3506.51,35065.06,31558.55,25435.55,6123.0,19.4,Retail Store,Net Banking,Completed
+ORD00995,2026-06-01,CUST0143,Consumer,East,Patna,Kabir Joshi,Office Chair,Furniture,2,12260.01,0.2,4904.0,24520.02,19616.02,12036.38,7579.64,38.64,Retail Store,Net Banking,Completed
+ORD00227,2026-06-03,CUST0040,Small Business,East,Patna,Aarav Sharma,Monitor,Electronics,2,24545.27,0.2,9818.11,49090.54,39272.43,30076.81,9195.62,23.41,Distributor,UPI,Cancelled
+ORD00011,2026-06-04,CUST0236,Consumer,Central,Indore,Kabir Joshi,Headphones,Accessories,3,2931.31,0.15,1319.09,8793.93,7474.84,5145.49,2329.35,31.16,Distributor,Cash,Cancelled
+ORD00033,2026-06-04,CUST0171,Small Business,East,Patna,Meera Nair,Desk,Furniture,5,13645.61,0.15,10234.21,68228.05,57993.84,37284.92,20708.92,35.71,Retail Store,Net Banking,Returned
+ORD00096,2026-06-04,CUST0030,Small Business,South,Chennai,Kabir Joshi,USB Drive,Accessories,2,636.37,0.05,63.64,1272.74,1209.1,678.72,530.38,43.87,Retail Store,Cash,Completed
+ORD00146,2026-06-06,CUST0156,Corporate,West,Mumbai,Diya Patel,Laptop,Electronics,6,43673.3,0.1,26203.98,262039.8,235835.82,189398.15,46437.67,19.69,Distributor,Net Banking,Completed
+ORD00228,2026-06-08,CUST0015,Consumer,South,Chennai,Aarav Sharma,Desk,Furniture,2,13423.9,0.05,1342.39,26847.8,25505.41,19020.96,6484.45,25.42,Marketplace,UPI,Completed
+ORD00311,2026-06-08,CUST0052,Corporate,East,Kolkata,Ananya Desai,Monitor,Electronics,6,16688.87,0.15,15019.98,100133.22,85113.24,58609.69,26503.55,31.14,Retail Store,Debit Card,Completed
+ORD00394,2026-06-08,CUST0228,Corporate,Central,Indore,Diya Patel,Smartphone,Electronics,6,13622.66,0.0,0.0,81735.96,81735.96,62998.91,18737.05,22.92,Retail Store,Debit Card,Completed
+ORD00528,2026-06-08,CUST0008,Consumer,East,Bhubaneswar,Meera Nair,USB Drive,Accessories,5,462.06,0.1,231.03,2310.3,2079.27,986.24,1093.03,52.57,Online,UPI,Completed
+ORD00752,2026-06-08,CUST0091,Corporate,West,Pune,Rohan Singh,Laptop,Electronics,1,81223.18,0.0,0.0,81223.18,81223.18,64031.62,17191.56,21.17,Retail Store,Cash,Completed
+ORD00965,2026-06-08,CUST0083,Consumer,South,Chennai,Rohan Singh,USB Drive,Accessories,4,853.6,0.0,0.0,3414.4,3414.4,1598.08,1816.32,53.2,Online,UPI,Completed
+ORD00801,2026-06-09,CUST0080,Consumer,West,Pune,Diya Patel,Office Chair,Furniture,5,6834.95,0.1,3417.48,34174.75,30757.28,19024.02,11733.26,38.15,Marketplace,Cash,Cancelled
+ORD00129,2026-06-10,CUST0200,Corporate,South,Bengaluru,Rohan Singh,Headphones,Accessories,8,5637.42,0.0,0.0,45099.36,45099.36,21717.94,23381.42,51.84,Distributor,Cash,Completed
+ORD00816,2026-06-10,CUST0166,Consumer,South,Kochi,Diya Patel,Keyboard,Accessories,7,705.92,0.0,0.0,4941.44,4941.44,2824.36,2117.08,42.84,Marketplace,UPI,Cancelled
+ORD00933,2026-06-10,CUST0122,Consumer,South,Hyderabad,Ananya Desai,Keyboard,Accessories,1,1903.06,0.0,0.0,1903.06,1903.06,1007.21,895.85,47.07,Distributor,Debit Card,Completed
+ORD00726,2026-06-11,CUST0058,Small Business,South,Kochi,Ananya Desai,Smartphone,Electronics,1,51263.69,0.0,0.0,51263.69,51263.69,44364.48,6899.21,13.46,Distributor,Debit Card,Completed
+ORD00014,2026-06-14,CUST0151,Consumer,West,Mumbai,Aarav Sharma,Keyboard,Accessories,6,1174.09,0.0,0.0,7044.54,7044.54,3853.91,3190.63,45.29,Online,UPI,Completed
+ORD00826,2026-06-15,CUST0169,Consumer,Central,Raipur,Rohan Singh,Smartphone,Electronics,1,23607.31,0.0,0.0,23607.31,23607.31,21170.93,2436.38,10.32,Marketplace,UPI,Completed
+ORD00298,2026-06-16,CUST0039,Corporate,Central,Bhopal,Kabir Joshi,Monitor,Electronics,4,23542.83,0.1,9417.13,94171.32,84754.19,62321.44,22432.75,26.47,Online,UPI,Returned
+ORD00708,2026-06-16,CUST0002,Corporate,Central,Bhopal,Ananya Desai,Keyboard,Accessories,2,3397.04,0.0,0.0,6794.08,6794.08,4181.76,2612.32,38.45,Distributor,UPI,Completed
+ORD00887,2026-06-16,CUST0113,Consumer,East,Guwahati,Diya Patel,Smartphone,Electronics,3,26935.86,0.0,0.0,80807.58,80807.58,64094.67,16712.91,20.68,Distributor,Debit Card,Returned
+ORD00594,2026-06-17,CUST0006,Consumer,Central,Nagpur,Kabir Joshi,Keyboard,Accessories,5,778.46,0.15,583.85,3892.3,3308.45,1605.18,1703.27,51.48,Distributor,Credit Card,Completed
+ORD00692,2026-06-17,CUST0224,Small Business,Central,Bhopal,Diya Patel,Headphones,Accessories,2,3638.17,0.05,363.82,7276.34,6912.52,4549.05,2363.47,34.19,Marketplace,UPI,Cancelled
+ORD00202,2026-06-18,CUST0208,Corporate,West,Ahmedabad,Aarav Sharma,USB Drive,Accessories,8,446.43,0.05,178.57,3571.44,3392.87,1244.48,2148.39,63.32,Online,Debit Card,Completed
+ORD00303,2026-06-19,CUST0028,Small Business,East,Kolkata,Kabir Joshi,Laptop,Electronics,8,80565.72,0.0,0.0,644525.76,644525.76,548809.94,95715.82,14.85,Retail Store,Credit Card,Returned
+ORD00488,2026-06-19,CUST0064,Small Business,West,Pune,Ananya Desai,USB Drive,Accessories,5,1555.48,0.0,0.0,7777.4,7777.4,4141.5,3635.9,46.75,Retail Store,Net Banking,Completed
+ORD00606,2026-06-19,CUST0063,Corporate,South,Kochi,Kabir Joshi,Laptop,Electronics,3,47172.18,0.0,0.0,141516.54,141516.54,108117.79,33398.75,23.6,Marketplace,UPI,Completed
+ORD00230,2026-06-20,CUST0086,Small Business,Central,Nagpur,Rohan Singh,Headphones,Accessories,5,2919.66,0.2,2919.66,14598.3,11678.64,7843.42,3835.22,32.84,Online,Debit Card,Completed
+ORD00122,2026-06-21,CUST0065,Corporate,East,Kolkata,Aarav Sharma,Laptop,Electronics,8,58789.51,0.0,0.0,470316.08,470316.08,386462.17,83853.91,17.83,Distributor,UPI,Completed
+ORD00740,2026-06-21,CUST0016,Corporate,Central,Bhopal,Diya Patel,Headphones,Accessories,3,4215.18,0.05,632.28,12645.54,12013.26,5542.45,6470.81,53.86,Marketplace,Cash,Cancelled
+ORD00734,2026-06-22,CUST0078,Consumer,East,Bhubaneswar,Rohan Singh,Keyboard,Accessories,8,1508.53,0.0,0.0,12068.24,12068.24,6365.59,5702.65,47.25,Distributor,Debit Card,Completed
+ORD00151,2026-06-23,CUST0157,Small Business,West,Ahmedabad,Diya Patel,Headphones,Accessories,6,3420.08,0.15,3078.07,20520.48,17442.41,9393.99,8048.42,46.14,Retail Store,Debit Card,Completed
+ORD00252,2026-06-23,CUST0083,Consumer,East,Kolkata,Diya Patel,Desk,Furniture,7,19386.22,0.15,20355.53,135703.54,115348.01,73613.46,41734.55,36.18,Marketplace,Cash,Completed
+ORD00556,2026-06-23,CUST0074,Corporate,West,Surat,Ananya Desai,USB Drive,Accessories,4,477.77,0.0,0.0,1911.08,1911.08,1120.87,790.21,41.35,Marketplace,Credit Card,Completed
+ORD00112,2026-06-24,CUST0197,Small Business,North,Lucknow,Diya Patel,Desk,Furniture,5,6346.38,0.0,0.0,31731.9,31731.9,25106.61,6625.29,20.88,Retail Store,Credit Card,Completed
+ORD00454,2026-06-24,CUST0176,Corporate,East,Patna,Kabir Joshi,Smartphone,Electronics,2,34504.34,0.0,0.0,69008.68,69008.68,56647.0,12361.68,17.91,Distributor,Net Banking,Completed
+ORD00505,2026-06-24,CUST0132,Small Business,South,Hyderabad,Diya Patel,Keyboard,Accessories,8,567.65,0.2,908.24,4541.2,3632.96,2063.12,1569.84,43.21,Marketplace,Debit Card,Completed
+ORD00749,2026-06-24,CUST0034,Consumer,South,Bengaluru,Aarav Sharma,Smartphone,Electronics,1,28248.63,0.0,0.0,28248.63,28248.63,24688.86,3559.77,12.6,Distributor,Credit Card,Completed
+ORD00116,2026-06-25,CUST0224,Small Business,West,Pune,Kabir Joshi,Keyboard,Accessories,3,2903.78,0.05,435.57,8711.34,8275.77,3418.27,4857.5,58.7,Online,Net Banking,Returned
+ORD00581,2026-06-25,CUST0030,Small Business,North,Lucknow,Kabir Joshi,Desk,Furniture,5,16511.86,0.2,16511.86,82559.3,66047.44,45908.57,20138.87,30.49,Distributor,Cash,Returned
+ORD00722,2026-06-25,CUST0132,Small Business,Central,Bhopal,Aarav Sharma,USB Drive,Accessories,4,1746.97,0.0,0.0,6987.88,6987.88,2576.99,4410.89,63.12,Marketplace,Cash,Completed
+ORD00813,2026-06-25,CUST0068,Small Business,South,Kochi,Meera Nair,USB Drive,Accessories,6,1764.52,0.2,2117.42,10587.12,8469.7,3986.49,4483.21,52.93,Online,Debit Card,Completed
+ORD00600,2026-06-26,CUST0155,Small Business,North,Chandigarh,Aarav Sharma,USB Drive,Accessories,3,1010.03,0.15,454.51,3030.09,2575.58,1139.26,1436.32,55.77,Online,Debit Card,Completed
+ORD00590,2026-06-27,CUST0204,Corporate,West,Pune,Rohan Singh,Headphones,Accessories,7,5370.08,0.1,3759.06,37590.56,33831.5,22819.9,11011.6,32.55,Online,Cash,Cancelled
+ORD00222,2026-06-28,CUST0158,Corporate,Central,Bhopal,Ananya Desai,Headphones,Accessories,4,3308.57,0.2,2646.86,13234.28,10587.42,6744.9,3842.52,36.29,Retail Store,UPI,Returned
+ORD00539,2026-06-28,CUST0206,Small Business,West,Surat,Ananya Desai,Keyboard,Accessories,2,1541.95,0.2,616.78,3083.9,2467.12,1494.91,972.21,39.41,Distributor,Credit Card,Cancelled
+ORD00992,2026-06-28,CUST0219,Small Business,East,Kolkata,Ananya Desai,Headphones,Accessories,2,5200.97,0.2,2080.39,10401.94,8321.55,5224.69,3096.86,37.21,Retail Store,Credit Card,Completed
+ORD00374,2026-06-29,CUST0159,Small Business,East,Patna,Rohan Singh,Keyboard,Accessories,3,3060.45,0.0,0.0,9181.35,9181.35,4337.26,4844.09,52.76,Marketplace,Credit Card,Returned
+ORD00406,2026-06-29,CUST0011,Consumer,North,Chandigarh,Kabir Joshi,Keyboard,Accessories,8,2001.95,0.15,2402.34,16015.6,13613.26,8597.96,5015.3,36.84,Distributor,Debit Card,Completed
+ORD00496,2026-06-30,CUST0023,Consumer,East,Patna,Ananya Desai,Desk,Furniture,2,21198.17,0.0,0.0,42396.34,42396.34,33092.15,9304.19,21.95,Retail Store,Debit Card,Returned
+ORD00741,2026-06-30,CUST0156,Small Business,Central,Bhopal,Diya Patel,Headphones,Accessories,7,3295.15,0.15,3459.91,23066.05,19606.14,12642.88,6963.26,35.52,Retail Store,UPI,Returned
+ORD00115,2026-07-01,CUST0113,Small Business,South,Hyderabad,Rohan Singh,USB Drive,Accessories,4,1655.96,0.05,331.19,6623.84,6292.65,3269.51,3023.14,48.04,Marketplace,Net Banking,Cancelled
+ORD00607,2026-07-01,CUST0107,Consumer,Central,Nagpur,Kabir Joshi,Monitor,Electronics,8,21722.33,0.0,0.0,173778.64,173778.64,127621.83,46156.81,26.56,Distributor,Cash,Completed
+ORD00968,2026-07-01,CUST0094,Small Business,North,Lucknow,Meera Nair,USB Drive,Accessories,1,1541.63,0.05,77.08,1541.63,1464.55,809.77,654.78,44.71,Marketplace,Cash,Completed
+ORD00432,2026-07-03,CUST0216,Consumer,North,Chandigarh,Rohan Singh,Desk,Furniture,6,21191.17,0.0,0.0,127147.02,127147.02,101022.17,26124.85,20.55,Marketplace,Net Banking,Completed
+ORD00164,2026-07-04,CUST0126,Consumer,South,Chennai,Kabir Joshi,Desk,Furniture,8,22235.23,0.0,0.0,177881.84,177881.84,132068.93,45812.91,25.75,Marketplace,UPI,Cancelled
+ORD00199,2026-07-04,CUST0145,Corporate,Central,Bhopal,Meera Nair,Smartphone,Electronics,6,45065.02,0.0,0.0,270390.12,270390.12,229033.94,41356.18,15.3,Marketplace,Debit Card,Completed
+ORD00168,2026-07-05,CUST0109,Corporate,West,Pune,Ananya Desai,Keyboard,Accessories,1,3004.46,0.05,150.22,3004.46,2854.24,1472.08,1382.16,48.42,Retail Store,Credit Card,Cancelled
+ORD00811,2026-07-05,CUST0020,Small Business,North,Delhi,Rohan Singh,Office Chair,Furniture,1,16424.81,0.0,0.0,16424.81,16424.81,9996.81,6428.0,39.14,Marketplace,Debit Card,Completed
+ORD00071,2026-07-06,CUST0179,Consumer,West,Ahmedabad,Kabir Joshi,Desk,Furniture,7,16486.43,0.1,11540.5,115405.01,103864.51,81836.24,22028.27,21.21,Marketplace,Credit Card,Completed
+ORD00617,2026-07-06,CUST0215,Corporate,North,Lucknow,Aarav Sharma,Smartphone,Electronics,7,27178.77,0.15,28537.71,190251.39,161713.68,129968.45,31745.23,19.63,Online,Cash,Completed
+ORD00341,2026-07-07,CUST0206,Small Business,North,Lucknow,Ananya Desai,Monitor,Electronics,1,16259.44,0.2,3251.89,16259.44,13007.55,9947.79,3059.76,23.52,Distributor,Net Banking,Completed
+ORD00370,2026-07-07,CUST0207,Consumer,South,Kochi,Ananya Desai,Monitor,Electronics,5,20086.5,0.05,5021.62,100432.5,95410.88,72232.17,23178.71,24.29,Distributor,Debit Card,Completed
+ORD00358,2026-07-08,CUST0118,Small Business,North,Jaipur,Meera Nair,Monitor,Electronics,3,28510.0,0.1,8553.0,85530.0,76977.0,64371.34,12605.66,16.38,Online,UPI,Cancelled
+ORD00498,2026-07-09,CUST0224,Consumer,South,Kochi,Kabir Joshi,Desk,Furniture,1,13982.47,0.05,699.12,13982.47,13283.35,8687.72,4595.63,34.6,Distributor,Cash,Completed
+ORD00158,2026-07-11,CUST0085,Consumer,Central,Raipur,Meera Nair,Headphones,Accessories,8,5651.04,0.05,2260.42,45208.32,42947.9,21396.77,21551.13,50.18,Marketplace,Debit Card,Completed
+ORD00211,2026-07-11,CUST0077,Consumer,East,Kolkata,Ananya Desai,USB Drive,Accessories,7,1119.53,0.0,0.0,7836.71,7836.71,4184.78,3651.93,46.6,Distributor,Debit Card,Completed
+ORD00315,2026-07-11,CUST0076,Consumer,Central,Raipur,Kabir Joshi,Smartphone,Electronics,4,27024.33,0.2,21619.46,108097.32,86477.86,69163.48,17314.38,20.02,Marketplace,Net Banking,Completed
+ORD00139,2026-07-13,CUST0041,Small Business,East,Guwahati,Ananya Desai,USB Drive,Accessories,7,667.32,0.05,233.56,4671.24,4437.68,2056.36,2381.32,53.66,Marketplace,Cash,Completed
+ORD00852,2026-07-14,CUST0212,Small Business,North,Jaipur,Kabir Joshi,Headphones,Accessories,8,4689.46,0.0,0.0,37515.68,37515.68,24689.1,12826.58,34.19,Distributor,Debit Card,Cancelled
+ORD00054,2026-07-18,CUST0081,Consumer,East,Guwahati,Meera Nair,USB Drive,Accessories,5,706.37,0.0,0.0,3531.85,3531.85,1342.68,2189.17,61.98,Retail Store,Credit Card,Completed
+ORD00133,2026-07-18,CUST0052,Consumer,Central,Nagpur,Diya Patel,Office Chair,Furniture,3,15993.39,0.05,2399.01,47980.17,45581.16,31522.84,14058.32,30.84,Marketplace,UPI,Completed
+ORD00246,2026-07-18,CUST0064,Corporate,West,Mumbai,Kabir Joshi,Smartphone,Electronics,3,24030.37,0.1,7209.11,72091.11,64882.0,50602.68,14279.32,22.01,Online,Cash,Cancelled
+ORD00346,2026-07-18,CUST0238,Corporate,Central,Bhopal,Ananya Desai,Headphones,Accessories,1,3017.89,0.0,0.0,3017.89,3017.89,1979.17,1038.72,34.42,Online,UPI,Returned
+ORD00767,2026-07-19,CUST0012,Consumer,South,Bengaluru,Rohan Singh,Keyboard,Accessories,1,1307.5,0.15,196.12,1307.5,1111.38,718.64,392.74,35.34,Online,Debit Card,Returned
+ORD00620,2026-07-20,CUST0220,Consumer,South,Chennai,Kabir Joshi,Smartphone,Electronics,2,37291.08,0.0,0.0,74582.16,74582.16,58841.12,15741.04,21.11,Distributor,Credit Card,Cancelled
+ORD00743,2026-07-20,CUST0227,Small Business,North,Chandigarh,Diya Patel,Keyboard,Accessories,4,636.84,0.05,127.37,2547.36,2419.99,991.65,1428.34,59.02,Distributor,UPI,Completed
+ORD00793,2026-07-21,CUST0040,Consumer,South,Hyderabad,Kabir Joshi,Keyboard,Accessories,1,779.76,0.1,77.98,779.76,701.78,282.74,419.04,59.71,Online,Net Banking,Cancelled
+ORD00192,2026-07-22,CUST0232,Consumer,North,Jaipur,Kabir Joshi,Monitor,Electronics,7,7308.52,0.1,5115.96,51159.64,46043.68,37049.83,8993.85,19.53,Retail Store,Cash,Cancelled
+ORD00635,2026-07-23,CUST0051,Small Business,North,Chandigarh,Diya Patel,Office Chair,Furniture,6,10445.51,0.0,0.0,62673.06,62673.06,48606.45,14066.61,22.44,Retail Store,Debit Card,Completed
+ORD00038,2026-07-25,CUST0153,Small Business,South,Bengaluru,Ananya Desai,USB Drive,Accessories,8,500.01,0.2,800.02,4000.08,3200.06,1544.93,1655.13,51.72,Marketplace,Net Banking,Cancelled
+ORD00152,2026-07-26,CUST0123,Small Business,East,Bhubaneswar,Kabir Joshi,Office Chair,Furniture,4,14910.85,0.2,11928.68,59643.4,47714.72,34683.73,13030.99,27.31,Distributor,Debit Card,Completed
+ORD00416,2026-07-26,CUST0119,Consumer,West,Mumbai,Ananya Desai,Keyboard,Accessories,7,1373.54,0.05,480.74,9614.78,9134.04,5420.32,3713.72,40.66,Distributor,Net Banking,Completed
+ORD00814,2026-07-26,CUST0120,Small Business,South,Chennai,Diya Patel,Smartphone,Electronics,8,15231.21,0.0,0.0,121849.68,121849.68,95270.77,26578.91,21.81,Marketplace,UPI,Completed
+ORD00830,2026-07-26,CUST0073,Corporate,South,Hyderabad,Aarav Sharma,USB Drive,Accessories,5,732.39,0.0,0.0,3661.95,3661.95,1697.18,1964.77,53.65,Online,Cash,Completed
+ORD00892,2026-07-26,CUST0121,Consumer,North,Delhi,Ananya Desai,Keyboard,Accessories,7,910.62,0.0,0.0,6374.34,6374.34,3622.77,2751.57,43.17,Retail Store,Cash,Completed
+ORD00516,2026-07-27,CUST0123,Small Business,Central,Bhopal,Rohan Singh,Monitor,Electronics,2,18512.28,0.0,0.0,37024.56,37024.56,30027.48,6997.08,18.9,Distributor,Credit Card,Completed
+ORD00429,2026-07-28,CUST0141,Small Business,South,Bengaluru,Aarav Sharma,Keyboard,Accessories,5,2570.05,0.0,0.0,12850.25,12850.25,6128.84,6721.41,52.31,Online,Debit Card,Cancelled
+ORD00097,2026-07-29,CUST0090,Consumer,Central,Bhopal,Diya Patel,Office Chair,Furniture,5,4890.87,0.2,4890.87,24454.35,19563.48,14422.86,5140.62,26.28,Retail Store,Net Banking,Completed
+ORD00507,2026-07-29,CUST0187,Small Business,North,Chandigarh,Diya Patel,USB Drive,Accessories,7,1412.29,0.1,988.6,9886.03,8897.43,3756.13,5141.3,57.78,Online,Credit Card,Returned
+ORD00782,2026-07-29,CUST0004,Consumer,Central,Indore,Ananya Desai,Smartphone,Electronics,3,43077.12,0.05,6461.57,129231.36,122769.79,104306.37,18463.42,15.04,Retail Store,Cash,Completed
+ORD00928,2026-07-29,CUST0030,Consumer,East,Kolkata,Diya Patel,Desk,Furniture,2,14858.79,0.15,4457.64,29717.58,25259.94,19890.92,5369.02,21.26,Online,Credit Card,Completed
+ORD00095,2026-07-30,CUST0154,Small Business,Central,Nagpur,Rohan Singh,Smartphone,Electronics,7,29664.77,0.2,41530.68,207653.39,166122.71,125873.99,40248.72,24.23,Online,Net Banking,Completed
+ORD00174,2026-07-30,CUST0237,Small Business,West,Surat,Rohan Singh,Headphones,Accessories,5,3013.99,0.0,0.0,15069.95,15069.95,8025.74,7044.21,46.74,Online,Net Banking,Completed
+ORD00058,2026-07-31,CUST0058,Corporate,East,Kolkata,Ananya Desai,Keyboard,Accessories,7,855.35,0.15,898.12,5987.45,5089.33,2794.2,2295.13,45.1,Marketplace,Cash,Cancelled
+ORD00267,2026-07-31,CUST0156,Small Business,North,Jaipur,Aarav Sharma,Desk,Furniture,5,22679.98,0.1,11339.99,113399.9,102059.91,75306.11,26753.8,26.21,Retail Store,Debit Card,Cancelled
+ORD00250,2026-08-01,CUST0060,Corporate,South,Chennai,Diya Patel,USB Drive,Accessories,3,1113.19,0.1,333.96,3339.57,3005.61,1080.49,1925.12,64.05,Online,Net Banking,Completed
+ORD00934,2026-08-01,CUST0086,Small Business,West,Mumbai,Meera Nair,Desk,Furniture,6,19324.48,0.0,0.0,115946.88,115946.88,75200.26,40746.62,35.14,Online,Credit Card,Returned
+ORD00878,2026-08-02,CUST0134,Small Business,Central,Raipur,Rohan Singh,Smartphone,Electronics,1,48446.59,0.15,7266.99,48446.59,41179.6,33802.25,7377.35,17.92,Distributor,Credit Card,Cancelled
+ORD00130,2026-08-04,CUST0036,Corporate,North,Chandigarh,Rohan Singh,USB Drive,Accessories,6,1723.24,0.1,1033.94,10339.44,9305.5,5032.15,4273.35,45.92,Marketplace,Debit Card,Cancelled
+ORD00685,2026-08-04,CUST0113,Corporate,South,Chennai,Kabir Joshi,Keyboard,Accessories,3,676.95,0.0,0.0,2030.85,2030.85,944.02,1086.83,53.52,Online,Credit Card,Returned
+ORD00908,2026-08-04,CUST0010,Small Business,South,Bengaluru,Meera Nair,USB Drive,Accessories,5,678.04,0.2,678.04,3390.2,2712.16,1178.34,1533.82,56.55,Marketplace,UPI,Completed
+ORD00034,2026-08-06,CUST0168,Small Business,East,Patna,Ananya Desai,Laptop,Electronics,4,55066.62,0.1,22026.65,220266.48,198239.83,167655.67,30584.16,15.43,Marketplace,Cash,Cancelled
+ORD00521,2026-08-07,CUST0002,Corporate,North,Delhi,Aarav Sharma,Laptop,Electronics,4,64740.07,0.05,12948.01,258960.28,246012.27,183890.18,62122.09,25.25,Retail Store,Net Banking,Cancelled
+ORD00776,2026-08-07,CUST0120,Corporate,West,Mumbai,Kabir Joshi,Keyboard,Accessories,8,1664.67,0.2,2663.47,13317.36,10653.89,4510.6,6143.29,57.66,Marketplace,UPI,Returned
+ORD00976,2026-08-07,CUST0130,Consumer,North,Chandigarh,Rohan Singh,Keyboard,Accessories,1,1590.68,0.1,159.07,1590.68,1431.61,796.83,634.78,44.34,Online,UPI,Completed
+ORD00964,2026-08-08,CUST0095,Consumer,West,Mumbai,Meera Nair,Desk,Furniture,3,17586.44,0.15,7913.9,52759.32,44845.42,32853.27,11992.15,26.74,Marketplace,Net Banking,Completed
+ORD00279,2026-08-09,CUST0217,Consumer,South,Hyderabad,Meera Nair,Keyboard,Accessories,8,2558.95,0.2,4094.32,20471.6,16377.28,8018.71,8358.57,51.04,Retail Store,Debit Card,Completed
+ORD00601,2026-08-09,CUST0008,Consumer,East,Kolkata,Diya Patel,Headphones,Accessories,5,1471.13,0.05,367.78,7355.65,6987.87,3674.33,3313.54,47.42,Marketplace,UPI,Returned
+ORD00161,2026-08-10,CUST0041,Small Business,North,Jaipur,Meera Nair,Desk,Furniture,1,19162.6,0.2,3832.52,19162.6,15330.08,9830.88,5499.2,35.87,Distributor,UPI,Completed
+ORD00596,2026-08-10,CUST0173,Consumer,North,Lucknow,Meera Nair,Desk,Furniture,4,24676.06,0.05,4935.21,98704.24,93769.03,63186.85,30582.18,32.61,Marketplace,Net Banking,Cancelled
+ORD00696,2026-08-10,CUST0049,Small Business,East,Bhubaneswar,Ananya Desai,Desk,Furniture,1,24127.3,0.05,1206.37,24127.3,22920.93,14466.3,8454.63,36.89,Distributor,Debit Card,Cancelled
+ORD00446,2026-08-11,CUST0018,Corporate,West,Mumbai,Aarav Sharma,USB Drive,Accessories,2,788.07,0.1,157.61,1576.14,1418.53,558.96,859.57,60.6,Marketplace,Debit Card,Returned
+ORD00357,2026-08-12,CUST0033,Consumer,East,Patna,Kabir Joshi,Headphones,Accessories,5,6411.05,0.1,3205.53,32055.25,28849.72,14584.2,14265.52,49.45,Marketplace,Cash,Cancelled
+ORD00103,2026-08-13,CUST0206,Corporate,West,Surat,Ananya Desai,Monitor,Electronics,7,14237.88,0.0,0.0,99665.16,99665.16,83179.74,16485.42,16.54,Distributor,UPI,Completed
+ORD00342,2026-08-13,CUST0105,Small Business,North,Lucknow,Diya Patel,Headphones,Accessories,4,2250.75,0.0,0.0,9003.0,9003.0,4688.91,4314.09,47.92,Online,UPI,Cancelled
+ORD00364,2026-08-13,CUST0098,Corporate,Central,Indore,Rohan Singh,Office Chair,Furniture,8,9293.97,0.2,14870.35,74351.76,59481.41,40473.97,19007.44,31.96,Marketplace,Credit Card,Completed
+ORD00855,2026-08-13,CUST0168,Consumer,South,Hyderabad,Aarav Sharma,Monitor,Electronics,2,22466.12,0.15,6739.84,44932.24,38192.4,28848.88,9343.52,24.46,Distributor,Cash,Completed
+ORD00879,2026-08-13,CUST0178,Consumer,East,Bhubaneswar,Ananya Desai,Desk,Furniture,6,10618.39,0.0,0.0,63710.34,63710.34,44727.7,18982.64,29.8,Marketplace,Debit Card,Completed
+ORD00231,2026-08-14,CUST0095,Consumer,North,Lucknow,Rohan Singh,USB Drive,Accessories,1,1066.17,0.1,106.62,1066.17,959.55,541.99,417.56,43.52,Online,Net Banking,Completed
+ORD00396,2026-08-14,CUST0107,Consumer,West,Mumbai,Diya Patel,Laptop,Electronics,6,81640.47,0.05,24492.14,489842.82,465350.68,400558.42,64792.26,13.92,Online,Cash,Returned
+ORD00343,2026-08-15,CUST0093,Consumer,Central,Bhopal,Diya Patel,Laptop,Electronics,4,58126.28,0.2,46501.02,232505.12,186004.1,157859.07,28145.03,15.13,Marketplace,Net Banking,Returned
+ORD00702,2026-08-15,CUST0189,Corporate,South,Kochi,Aarav Sharma,USB Drive,Accessories,3,736.62,0.0,0.0,2209.86,2209.86,893.96,1315.9,59.55,Distributor,Net Banking,Completed
+ORD00329,2026-08-16,CUST0101,Consumer,West,Pune,Kabir Joshi,Laptop,Electronics,8,65718.54,0.2,105149.66,525748.32,420598.66,354998.54,65600.12,15.6,Distributor,Credit Card,Completed
+ORD00333,2026-08-16,CUST0133,Small Business,Central,Indore,Ananya Desai,Monitor,Electronics,6,23341.88,0.15,21007.69,140051.28,119043.59,93393.73,25649.86,21.55,Retail Store,Net Banking,Completed
+ORD00499,2026-08-16,CUST0230,Small Business,East,Guwahati,Diya Patel,USB Drive,Accessories,8,1190.04,0.1,952.03,9520.32,8568.29,3650.27,4918.02,57.4,Distributor,Credit Card,Completed
+ORD00580,2026-08-16,CUST0240,Corporate,Central,Nagpur,Ananya Desai,Laptop,Electronics,8,62962.35,0.15,75554.82,503698.8,428143.98,348751.65,79392.33,18.54,Retail Store,UPI,Cancelled
+ORD00031,2026-08-18,CUST0156,Corporate,East,Kolkata,Aarav Sharma,Smartphone,Electronics,6,37652.56,0.2,45183.07,225915.36,180732.29,156869.16,23863.13,13.2,Marketplace,Net Banking,Returned
+ORD00108,2026-08-18,CUST0039,Consumer,Central,Bhopal,Ananya Desai,USB Drive,Accessories,4,1663.57,0.05,332.71,6654.28,6321.57,3168.7,3152.87,49.87,Online,Debit Card,Cancelled
+ORD00243,2026-08-20,CUST0208,Consumer,Central,Nagpur,Aarav Sharma,Smartphone,Electronics,2,12937.41,0.0,0.0,25874.82,25874.82,22908.9,2965.92,11.46,Distributor,UPI,Returned
+ORD00881,2026-08-22,CUST0038,Corporate,South,Hyderabad,Ananya Desai,Office Chair,Furniture,2,9111.22,0.0,0.0,18222.44,18222.44,12273.37,5949.07,32.65,Retail Store,Credit Card,Cancelled
+ORD00706,2026-08-24,CUST0166,Corporate,Central,Raipur,Ananya Desai,Office Chair,Furniture,2,13865.3,0.15,4159.59,27730.6,23571.01,14910.96,8660.05,36.74,Distributor,Net Banking,Returned
+ORD00738,2026-08-24,CUST0186,Small Business,South,Chennai,Diya Patel,USB Drive,Accessories,2,1688.25,0.15,506.47,3376.5,2870.03,1448.66,1421.37,49.52,Retail Store,UPI,Completed
+ORD00286,2026-08-26,CUST0153,Corporate,East,Bhubaneswar,Rohan Singh,Smartphone,Electronics,5,47425.28,0.05,11856.32,237126.4,225270.08,184358.54,40911.54,18.16,Marketplace,Credit Card,Cancelled
+ORD00312,2026-08-26,CUST0189,Corporate,Central,Indore,Aarav Sharma,Keyboard,Accessories,3,1382.53,0.2,829.52,4147.59,3318.07,1389.0,1929.07,58.14,Marketplace,UPI,Completed
+ORD00981,2026-08-27,CUST0085,Corporate,Central,Raipur,Ananya Desai,Laptop,Electronics,7,52825.15,0.15,55466.41,369776.05,314309.64,239918.49,74391.15,23.67,Distributor,Debit Card,Completed
+ORD00107,2026-08-29,CUST0020,Corporate,North,Jaipur,Aarav Sharma,Smartphone,Electronics,8,25347.54,0.0,0.0,202780.32,202780.32,153815.67,48964.65,24.15,Marketplace,Cash,Completed
+ORD00044,2026-08-30,CUST0098,Small Business,Central,Bhopal,Diya Patel,Smartphone,Electronics,3,39638.23,0.1,11891.47,118914.69,107023.22,83184.8,23838.42,22.27,Marketplace,Debit Card,Completed
+ORD00484,2026-08-30,CUST0059,Consumer,Central,Nagpur,Diya Patel,Monitor,Electronics,6,11968.78,0.0,0.0,71812.68,71812.68,57783.07,14029.61,19.54,Marketplace,Credit Card,Completed
+ORD00916,2026-08-30,CUST0151,Corporate,South,Bengaluru,Ananya Desai,Keyboard,Accessories,5,1339.96,0.15,1004.97,6699.8,5694.83,2423.61,3271.22,57.44,Distributor,Net Banking,Cancelled
+ORD00917,2026-08-30,CUST0238,Corporate,Central,Nagpur,Diya Patel,USB Drive,Accessories,1,613.96,0.0,0.0,613.96,613.96,366.7,247.26,40.27,Retail Store,Credit Card,Completed
+ORD00479,2026-08-31,CUST0116,Small Business,East,Patna,Diya Patel,USB Drive,Accessories,4,1338.54,0.0,0.0,5354.16,5354.16,2730.39,2623.77,49.0,Retail Store,Net Banking,Cancelled
+ORD00273,2026-09-01,CUST0192,Corporate,West,Pune,Aarav Sharma,USB Drive,Accessories,6,1180.32,0.05,354.1,7081.92,6727.82,2629.76,4098.06,60.91,Distributor,UPI,Completed
+ORD00398,2026-09-02,CUST0122,Corporate,Central,Bhopal,Meera Nair,Keyboard,Accessories,7,1795.81,0.0,0.0,12570.67,12570.67,5443.69,7126.98,56.7,Online,Net Banking,Completed
+ORD00099,2026-09-03,CUST0170,Small Business,North,Delhi,Ananya Desai,Headphones,Accessories,1,1697.24,0.2,339.45,1697.24,1357.79,638.7,719.09,52.96,Marketplace,Cash,Returned
+ORD00456,2026-09-04,CUST0208,Corporate,East,Guwahati,Kabir Joshi,Laptop,Electronics,3,69059.9,0.15,31076.95,207179.7,176102.74,128248.44,47854.3,27.17,Online,Debit Card,Completed
+ORD00559,2026-09-04,CUST0233,Small Business,East,Kolkata,Kabir Joshi,Smartphone,Electronics,1,35951.0,0.05,1797.55,35951.0,34153.45,30384.95,3768.5,11.03,Online,UPI,Returned
+ORD00663,2026-09-05,CUST0024,Consumer,North,Delhi,Ananya Desai,Monitor,Electronics,4,26177.86,0.05,5235.57,104711.44,99475.87,82107.48,17368.39,17.46,Online,UPI,Completed
+ORD00384,2026-09-06,CUST0094,Small Business,Central,Indore,Aarav Sharma,Smartphone,Electronics,8,34838.91,0.05,13935.56,278711.28,264775.72,231126.11,33649.61,12.71,Marketplace,Credit Card,Cancelled
+ORD00278,2026-09-07,CUST0104,Small Business,West,Ahmedabad,Meera Nair,Headphones,Accessories,8,4911.31,0.05,1964.52,39290.48,37325.96,19217.52,18108.44,48.51,Online,Net Banking,Returned
+ORD00750,2026-09-07,CUST0123,Corporate,North,Delhi,Ananya Desai,Smartphone,Electronics,6,35321.92,0.2,42386.3,211931.52,169545.22,129319.73,40225.49,23.73,Retail Store,Debit Card,Completed
+ORD00224,2026-09-08,CUST0049,Corporate,Central,Nagpur,Ananya Desai,Laptop,Electronics,5,78459.36,0.0,0.0,392296.8,392296.8,314951.51,77345.29,19.72,Distributor,UPI,Cancelled
+ORD00698,2026-09-08,CUST0071,Corporate,East,Bhubaneswar,Kabir Joshi,Laptop,Electronics,5,67751.85,0.15,50813.89,338759.25,287945.36,252946.64,34998.72,12.15,Marketplace,Credit Card,Completed
+ORD00807,2026-09-08,CUST0002,Small Business,East,Patna,Rohan Singh,Keyboard,Accessories,5,2229.24,0.0,0.0,11146.2,11146.2,6252.09,4894.11,43.91,Retail Store,Cash,Cancelled
+ORD00307,2026-09-09,CUST0176,Small Business,Central,Nagpur,Meera Nair,Desk,Furniture,4,19525.61,0.0,0.0,78102.44,78102.44,51371.75,26730.69,34.23,Retail Store,Credit Card,Completed
+ORD00241,2026-09-10,CUST0174,Small Business,North,Chandigarh,Rohan Singh,Desk,Furniture,4,8818.15,0.05,1763.63,35272.6,33508.97,23165.56,10343.41,30.87,Retail Store,UPI,Completed
+ORD00506,2026-09-10,CUST0073,Small Business,Central,Bhopal,Rohan Singh,Desk,Furniture,7,13553.6,0.05,4743.76,94875.2,90131.44,62145.65,27985.79,31.05,Distributor,Cash,Completed
+ORD00631,2026-09-10,CUST0220,Consumer,East,Guwahati,Ananya Desai,Desk,Furniture,3,24435.15,0.0,0.0,73305.45,73305.45,48581.7,24723.75,33.73,Distributor,Credit Card,Cancelled
+ORD00452,2026-09-11,CUST0109,Corporate,West,Pune,Aarav Sharma,USB Drive,Accessories,8,1064.12,0.1,851.3,8512.96,7661.66,3362.14,4299.52,56.12,Marketplace,Credit Card,Completed
+ORD00654,2026-09-11,CUST0115,Consumer,Central,Nagpur,Ananya Desai,Keyboard,Accessories,8,2007.43,0.05,802.97,16059.44,15256.47,6871.91,8384.56,54.96,Retail Store,Net Banking,Completed
+ORD00366,2026-09-12,CUST0106,Consumer,West,Ahmedabad,Diya Patel,USB Drive,Accessories,6,1471.46,0.2,1765.75,8828.76,7063.01,3508.41,3554.6,50.33,Online,Credit Card,Returned
+ORD00681,2026-09-12,CUST0165,Corporate,West,Pune,Ananya Desai,Office Chair,Furniture,3,7840.1,0.0,0.0,23520.3,23520.3,14606.38,8913.92,37.9,Marketplace,Net Banking,Completed
+ORD00765,2026-09-12,CUST0166,Small Business,North,Lucknow,Diya Patel,USB Drive,Accessories,7,769.78,0.1,538.85,5388.46,4849.61,1897.2,2952.41,60.88,Distributor,UPI,Completed
+ORD00340,2026-09-13,CUST0024,Small Business,North,Chandigarh,Meera Nair,USB Drive,Accessories,1,1652.41,0.15,247.86,1652.41,1404.55,668.33,736.22,52.42,Retail Store,Net Banking,Completed
+ORD00862,2026-09-13,CUST0127,Corporate,West,Surat,Meera Nair,Smartphone,Electronics,2,40233.38,0.05,4023.34,80466.76,76443.42,68092.4,8351.02,10.92,Distributor,Credit Card,Completed
+ORD00888,2026-09-13,CUST0008,Corporate,North,Chandigarh,Aarav Sharma,Office Chair,Furniture,4,6403.54,0.15,3842.12,25614.16,21772.04,16350.41,5421.63,24.9,Retail Store,UPI,Completed
+ORD00904,2026-09-13,CUST0026,Small Business,East,Guwahati,Meera Nair,Monitor,Electronics,1,19808.89,0.05,990.44,19808.89,18818.45,13621.7,5196.75,27.62,Marketplace,Cash,Completed
+ORD00960,2026-09-14,CUST0197,Corporate,North,Delhi,Ananya Desai,Monitor,Electronics,2,12457.63,0.15,3737.29,24915.26,21177.97,15381.47,5796.5,27.37,Marketplace,Debit Card,Completed
+ORD00415,2026-09-15,CUST0212,Consumer,West,Ahmedabad,Diya Patel,Monitor,Electronics,1,22287.62,0.15,3343.14,22287.62,18944.48,13213.6,5730.88,30.25,Marketplace,UPI,Returned
+ORD00291,2026-09-16,CUST0128,Consumer,South,Hyderabad,Meera Nair,Keyboard,Accessories,7,1573.77,0.05,550.82,11016.39,10465.57,4605.83,5859.74,55.99,Marketplace,Debit Card,Cancelled
+ORD00616,2026-09-16,CUST0196,Small Business,West,Mumbai,Kabir Joshi,Laptop,Electronics,7,70926.38,0.15,74472.7,496484.66,422011.96,364298.83,57713.13,13.68,Online,UPI,Returned
+ORD00051,2026-09-17,CUST0205,Small Business,West,Ahmedabad,Rohan Singh,Laptop,Electronics,6,63255.18,0.0,0.0,379531.08,379531.08,302868.83,76662.25,20.2,Distributor,Net Banking,Completed
+ORD00872,2026-09-17,CUST0033,Consumer,Central,Nagpur,Meera Nair,Smartphone,Electronics,5,30938.9,0.05,7734.73,154694.5,146959.77,115941.14,31018.63,21.11,Retail Store,Credit Card,Returned
+ORD00462,2026-09-18,CUST0119,Corporate,East,Guwahati,Meera Nair,Office Chair,Furniture,2,8105.69,0.05,810.57,16211.38,15400.81,11054.42,4346.39,28.22,Retail Store,Net Banking,Returned
+ORD00132,2026-09-19,CUST0023,Corporate,East,Patna,Rohan Singh,Keyboard,Accessories,2,867.91,0.1,173.58,1735.82,1562.24,692.33,869.91,55.68,Distributor,UPI,Returned
+ORD00656,2026-09-20,CUST0179,Corporate,South,Kochi,Aarav Sharma,Keyboard,Accessories,7,1038.73,0.1,727.11,7271.11,6544.0,3246.91,3297.09,50.38,Marketplace,UPI,Completed
+ORD00691,2026-09-20,CUST0188,Small Business,North,Jaipur,Rohan Singh,Monitor,Electronics,8,30477.12,0.2,48763.39,243816.96,195053.57,159385.29,35668.28,18.29,Retail Store,Credit Card,Completed
+ORD00468,2026-09-21,CUST0199,Small Business,North,Lucknow,Aarav Sharma,Office Chair,Furniture,2,5894.38,0.0,0.0,11788.76,11788.76,8285.64,3503.12,29.72,Marketplace,Credit Card,Completed
+ORD00609,2026-09-22,CUST0106,Small Business,East,Bhubaneswar,Rohan Singh,Laptop,Electronics,5,72671.93,0.1,36335.96,363359.65,327023.68,240623.72,86399.96,26.42,Marketplace,UPI,Completed
+ORD00640,2026-09-22,CUST0083,Corporate,North,Chandigarh,Rohan Singh,Monitor,Electronics,6,25782.7,0.1,15469.62,154696.2,139226.58,106233.05,32993.53,23.7,Marketplace,Cash,Completed
+ORD00400,2026-09-23,CUST0023,Consumer,Central,Indore,Meera Nair,Keyboard,Accessories,7,714.93,0.05,250.23,5004.51,4754.28,2715.57,2038.71,42.88,Marketplace,Cash,Cancelled
+ORD00870,2026-09-23,CUST0215,Small Business,East,Guwahati,Diya Patel,Office Chair,Furniture,1,13399.6,0.0,0.0,13399.6,13399.6,8779.97,4619.63,34.48,Marketplace,Cash,Completed
+ORD00182,2026-09-25,CUST0138,Small Business,Central,Raipur,Aarav Sharma,USB Drive,Accessories,7,323.6,0.0,0.0,2265.2,2265.2,802.29,1462.91,64.58,Marketplace,Credit Card,Completed
+ORD00873,2026-09-25,CUST0149,Small Business,North,Chandigarh,Aarav Sharma,Smartphone,Electronics,3,40147.84,0.2,24088.7,120443.52,96354.82,79589.84,16764.98,17.4,Retail Store,UPI,Returned
+ORD00853,2026-09-26,CUST0201,Corporate,Central,Indore,Rohan Singh,Smartphone,Electronics,7,30871.76,0.0,0.0,216102.32,216102.32,180526.01,35576.31,16.46,Online,UPI,Completed
+ORD00493,2026-09-28,CUST0011,Small Business,East,Kolkata,Rohan Singh,Desk,Furniture,2,22871.58,0.1,4574.32,45743.16,41168.84,28233.85,12934.99,31.42,Retail Store,Net Banking,Cancelled
+ORD00787,2026-09-28,CUST0128,Corporate,North,Delhi,Kabir Joshi,Smartphone,Electronics,1,15854.43,0.15,2378.16,15854.43,13476.27,11992.19,1484.08,11.01,Online,Cash,Completed
+ORD00643,2026-09-29,CUST0070,Small Business,East,Patna,Aarav Sharma,USB Drive,Accessories,7,1001.33,0.05,350.47,7009.31,6658.84,3669.86,2988.98,44.89,Retail Store,Cash,Completed
